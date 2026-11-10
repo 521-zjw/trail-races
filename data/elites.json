@@ -1,0 +1,36 @@
+[
+  {
+    "race_id": "hk-translantau-2026",
+    "category": "TransLantau100",
+    "athletes": [
+      {
+        "name": "Tomáš Hudec",
+        "nationality": "捷克",
+        "notes": "男子。媒体称其在2026-10-20的官方精英名单上"
+      },
+      {
+        "name": "Zhengqiang Xiong",
+        "nationality": "中国",
+        "notes": "男子。姓名按英文来源拼写，未另译中文"
+      },
+      {
+        "name": "Fuk Cheung Tsang",
+        "nationality": "中国香港",
+        "notes": "男子。来源称其为2024年胜者"
+      },
+      {
+        "name": "Tereza Hudcova",
+        "nationality": "捷克",
+        "notes": "女子"
+      },
+      {
+        "name": "Emma Bilham",
+        "nationality": "瑞士",
+        "notes": "女子"
+      }
+    ],
+    "source_url": "https://multidayrunning.com/events/translantau-by-utmb",
+    "last_checked": "2026-11-10",
+    "notes": "姓名来自 Multiday Running 2026-10-20 对官网精英名单的摘录，该文同时引用 https://translantau.utmb.world/races-runners/elite-list 。2026-11-10 该官网页面为前端渲染，静态抓取只有组别标题、没有姓名。赛前名单可能变动。"
+  }
+]

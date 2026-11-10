@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>越野赛报名看板</title>
+  <meta name="description" content="中国与世界越野、超级越野赛事的报名窗口、赛道信息与精英名单。数据来自官方页面，未知字段留空。">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="mast">
+    <p class="eyebrow">Trail board · 核对日见下方</p>
+    <h1>越野赛报名看板</h1>
+    <p class="lede">收录中国（含港澳台）与海外的越野、超级越野。报名已截止的比赛不出现在报名板，改放在档案里；即将开跑的场次和已核实的精英名单在第二页。</p>
+    <p class="owner">维护：Junwei Zhang · 北京</p>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button type="button" class="tab is-on" id="tab-open" role="tab" aria-selected="true" aria-controls="panel-open">报名中的比赛</button>
+    <button type="button" class="tab" id="tab-soon" role="tab" aria-selected="false" aria-controls="panel-soon">即将举行的比赛 &amp; 精英选手</button>
+  </nav>
+
+  <p class="meta-line" id="meta-line">正在读取本地数据…</p>
+  <p class="error" id="load-error" hidden></p>
+
+  <section id="panel-open" role="tabpanel">
+    <form class="filters" id="filters">
+      <label>范围
+        <select id="scope">
+          <option value="all">全部</option>
+          <option value="china">中国（含港澳台）</option>
+          <option value="world">国外</option>
+        </select>
+      </label>
+      <label>国家/地区
+        <select id="country"><option value="">全部</option></select>
+      </label>
+      <label>距离
+        <select id="distance">
+          <option value="0">不限</option>
+          <option value="42">有 42 公里及以上组别</option>
+          <option value="50">有 50 公里及以上组别</option>
+          <option value="100">有 100 公里及以上组别</option>
+        </select>
+      </label>
+      <label>排序
+        <select id="sort">
+          <option value="close">报名截止（近的在前）</option>
+          <option value="date">比赛日期</option>
+          <option value="distance">最长距离</option>
+        </select>
+      </label>
+      <label class="grow">搜索
+        <input id="q" type="search" placeholder="赛事、城市、组别" autocomplete="off">
+      </label>
+    </form>
+    <p class="count" id="open-count"></p>
+    <div id="open-list" class="list"></div>
+  </section>
+
+  <section id="panel-soon" role="tabpanel" hidden>
+    <form class="filters">
+      <label>窗口
+        <select id="soon-window">
+          <option value="90">未来 90 天（含精英核对窗口）</option>
+          <option value="all">全部未开赛</option>
+        </select>
+      </label>
+      <label class="grow">搜索
+        <input id="soon-q" type="search" placeholder="赛事或选手" autocomplete="off">
+      </label>
+    </form>
+    <p class="count" id="soon-count"></p>
+    <div id="soon-list" class="list"></div>
+  </section>
+
+  <footer>
+    <p>未知的日期、费用、名额和人名保持空白，不估算。报名是否仍开放以主办方页面为准，本站按数据文件里的截止日期做筛选。</p>
+    <p>每日更新：<code>node scripts/update-status.mjs --date YYYY-MM-DD</code>，然后 <code>node scripts/validate.mjs --date YYYY-MM-DD</code>。说明见 README。</p>
+  </footer>
+  <script src="assets/app.js"></script>
+</body>
+</html>

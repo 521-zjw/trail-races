@@ -1,0 +1,472 @@
+[
+  {
+    "name_en": "Panda Shudao Ultra 2027",
+    "registration_open": "2026-10-03",
+    "registration_close": "2026-11-05",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": "160K、105K、25K起终点为白鹿音乐广场。85K³起点海窝子古镇。60K起点龙门山镇宝山广场。对外交通与接驳未在最酷赛事说明中写明。联系：www.tsaigu.com，pztrail@163.com。",
+    "scale_total": 5800,
+    "entry_requirements": "10月3日10:00至11月5日10:00预报名并缴费。超额则预付费抽签，11月11日14:00公布，未中签3个工作日内全额退费。最酷说明未写ITRA门槛；第三方指南转述了往年分数，本条不把它写成2027条件。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "柴古唐斯",
+    "last_checked": "2026-11-10",
+    "id": "cn-panda-shudao-2027",
+    "name_zh": "2027熊猫蜀道山超级越野赛（柴古唐斯）",
+    "country": "中国",
+    "region": "四川·成都·彭州·白鹿",
+    "date_start": "2027-03-26",
+    "date_end": "2027-03-28",
+    "official_url": "https://tsaigu.com/event?id=741200",
+    "registration_url": "https://zuicool.com/event/65276",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "160K",
+        "distance_km": 160,
+        "elevation_gain_m": 9300,
+        "cutoff_hours": 46,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 1880,
+          "currency": "CNY",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": "爬升约9300米。3月26日15:30，白鹿音乐广场"
+      },
+      {
+        "name": "105K",
+        "distance_km": 105,
+        "elevation_gain_m": 5550,
+        "cutoff_hours": 29,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 1080,
+          "currency": "CNY",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": "3月27日06:00"
+      },
+      {
+        "name": "85K³",
+        "distance_km": 85,
+        "elevation_gain_m": 4600,
+        "cutoff_hours": 24,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 1760,
+          "currency": "CNY",
+          "notes": "2人1760元；3人2400元"
+        },
+        "itra_points": null,
+        "notes": "3月27日10:00，海窝子古镇出发"
+      },
+      {
+        "name": "60K",
+        "distance_km": 60,
+        "elevation_gain_m": 2600,
+        "cutoff_hours": 12.5,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 680,
+          "currency": "CNY",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": "3月27日08:00/08:30/09:00，龙门山镇宝山广场"
+      },
+      {
+        "name": "25K",
+        "distance_km": 25,
+        "elevation_gain_m": 1100,
+        "cutoff_hours": 6.5,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 380,
+          "currency": "CNY",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": "3月28日分三波，白鹿音乐广场"
+      }
+    ],
+    "sources": [
+      "https://zuicool.com/event/65276",
+      "https://tsaigu.com/event?id=741200"
+    ]
+  },
+  {
+    "name_en": "Anta Guanjun Hong Kong 100 2027",
+    "registration_open": null,
+    "registration_close": "2026-08-04",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": "100公里自西贡北潭涌（Pak Tam Chung）向西，经海岸、乡村与山脊，最后下大帽山。具体机场与铁路接驳本次未在官网摘录中写明。",
+    "scale_total": null,
+    "entry_requirements": "公开报名以抽签为主，申请2026-08-04 23:59（UTC+8）截止，结果约8月17日公布。往届冠军、2026志愿者、2011–2026连续16届完赛者与赞助商提名可不经抽签。精英保留名额：男子ITRA≥750、女子≥620；免费精英名额男子>880、女子>725。慈善名额另计。年满18岁。官网课程页未要求完赛证明。",
+    "mandatory_gear": null,
+    "sponsors": [
+      "安踏",
+      "Vibram"
+    ],
+    "organizer": "Hong Kong Trail Racing",
+    "last_checked": "2026-11-10",
+    "id": "hk-hk100-2027",
+    "name_zh": "2027安踏冠军香港100",
+    "country": "中国香港",
+    "region": "香港·西贡至大帽山",
+    "date_start": "2027-01-21",
+    "date_end": "2027-01-23",
+    "official_url": "https://hk100ultra.com/hk100/",
+    "registration_url": "https://raceresults.com.hk/event/476",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "HK100",
+        "distance_km": 100,
+        "elevation_gain_m": 5142,
+        "cutoff_hours": 30,
+        "quota_or_entrants": "1800",
+        "fee": {
+          "amount": 2180,
+          "currency": "HKD",
+          "notes": "起跑线2026-10-22核自 hk100ultra.com 的数字，含150港元捐款。另一目录 runtrail.run 写103公里、约5300米爬升，两源不一致"
+        },
+        "itra_points": null,
+        "notes": "1月23日。政府人数上限1800（计时站页面）"
+      },
+      {
+        "name": "The Half",
+        "distance_km": 53,
+        "elevation_gain_m": 2263,
+        "cutoff_hours": 14,
+        "quota_or_entrants": "500",
+        "fee": {
+          "amount": 1120,
+          "currency": "HKD",
+          "notes": "含100港元捐款。runtrail.run 写56公里、2010米"
+        },
+        "itra_points": null,
+        "notes": "1月22日"
+      },
+      {
+        "name": "The Third",
+        "distance_km": 34,
+        "elevation_gain_m": 1558,
+        "cutoff_hours": 10,
+        "quota_or_entrants": "500",
+        "fee": {
+          "amount": 880,
+          "currency": "HKD",
+          "notes": "含100港元捐款。runtrail.run 写33公里、1460米"
+        },
+        "itra_points": null,
+        "notes": "1月21日"
+      }
+    ],
+    "sources": [
+      "https://hk100ultra.com/hk100/",
+      "https://raceresults.com.hk/event/476",
+      "https://www.startline.hk/events/hk100-2027",
+      "https://hkjogging.com/races/hong-kong-100-series-2027"
+    ]
+  },
+  {
+    "name_en": "La Sportiva Lavaredo Ultra Trail by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "官网首页标 Registrations closed。报名关闭的具体日期本次未在该页读到。",
+    "mandatory_gear": null,
+    "sponsors": [
+      "La Sportiva"
+    ],
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "it-lavaredo-2027",
+    "name_zh": "La Sportiva 拉瓦雷多超级越野 by UTMB 2027",
+    "country": "意大利",
+    "region": "科尔蒂纳丹佩佐 Cortina d'Ampezzo",
+    "date_start": "2027-06-25",
+    "date_end": null,
+    "official_url": "https://lavaredo.utmb.world/",
+    "registration_url": "https://lavaredo.utmb.world/",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "Lavaredo 120K",
+        "distance_km": 120,
+        "elevation_gain_m": 5800,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "官网：6月25日，120公里，5800米+，Registrations closed"
+      },
+      {
+        "name": "80K",
+        "distance_km": 80,
+        "elevation_gain_m": 4600,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "同一官网摘录中的距离与爬升，组别全名本次摘录不完整"
+      },
+      {
+        "name": "50K",
+        "distance_km": null,
+        "elevation_gain_m": 2600,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "摘录给出爬升2600米+，未给出单独日期"
+      },
+      {
+        "name": "10K",
+        "distance_km": 10,
+        "elevation_gain_m": 300,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "摘录：10公里、300米+"
+      }
+    ],
+    "sources": [
+      "https://lavaredo.utmb.world/"
+    ]
+  },
+  {
+    "name_en": "Hardrock Hundred Mile Endurance Run 2027",
+    "registration_open": null,
+    "registration_close": "2026-10-14",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "抽签申请已于2026-10-14 23:59关闭。抽签2026-12-05 09:00 MST。须完成官方资格赛列表中的比赛，并在截至2027-06-15的12个月内完成8小时服务，表格2027-06-21前送达。配速与船员不计服务。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "Hardrock Hundred",
+    "last_checked": "2026-11-10",
+    "id": "us-hardrock-2027",
+    "name_zh": "硬石100 2027",
+    "country": "美国",
+    "region": "科罗拉多·Silverton",
+    "date_start": "2027-07-09",
+    "date_end": "2027-07-09",
+    "official_url": "https://hardrock100.com/",
+    "registration_url": "https://ultrasignup.com/register.aspx?did=142680",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "100英里",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 450,
+          "currency": "USD",
+          "notes": "另加UltraSignup手续费。6月1日前退出退50%，其后不退"
+        },
+        "itra_points": null,
+        "notes": "2027为逆时针。爬升33,441英尺、下降33,441英尺（不换算成米）。平均海拔11,186英尺，最低Ouray 7,680英尺，最高Handies Peak 14,048英尺。7月9日06:00 Silverton出发"
+      }
+    ],
+    "sources": [
+      "https://hardrock100.com/",
+      "https://ultrasignup.com/register.aspx?did=142680",
+      "https://www.hardrock100.com/hardrock-entry.php",
+      "https://hardrock100.com/hardrock-qualify.php"
+    ]
+  },
+  {
+    "name_en": "Madeira Island Ultra-Trail 2027",
+    "registration_open": "2026-10-12",
+    "registration_close": "2026-10-16",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "各距离只在对应的10月日期开放，FAQ未给出更晚的补录窗口，故视为报名已关闭。LEGEND/ADVANCED/DISCOVER的资格成绩须在2024-01-01至报名日之间，且能在ITRA档案中看到。每人只能保留一个有效报名。2027比赛日当天日期未在该FAQ写出。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "MIUT",
+    "last_checked": "2026-11-10",
+    "id": "pt-miut-2027",
+    "name_zh": "马德拉岛超级越野 MIUT 2027",
+    "country": "葡萄牙",
+    "region": "马德拉岛",
+    "date_start": null,
+    "date_end": null,
+    "official_url": "https://miutmadeira.com/miut/miut-2027-registration-faq/",
+    "registration_url": "https://miutmadeira.com/miut/miut-2027-registration-faq/",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "MIUT LEGEND",
+        "distance_km": 110,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": "至少4点或115 km-effort",
+        "notes": "10月12日15:00（马德拉/里斯本时间）开放。最低21岁（年龄算至2027-12-31）"
+      },
+      {
+        "name": "MIUT ADVANCED",
+        "distance_km": 80,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": "至少2点或45 km-effort",
+        "notes": "10月13日开放。最低20岁"
+      },
+      {
+        "name": "MIUT DISCOVER",
+        "distance_km": 56,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": "至少1点或25 km-effort",
+        "notes": "10月14日开放。最低20岁"
+      },
+      {
+        "name": "MIUT MARATHON",
+        "distance_km": 40,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "10月15日开放。无资格赛。最低20岁"
+      },
+      {
+        "name": "MIUT STARTER",
+        "distance_km": 17,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "10月16日开放。无资格赛。最低18岁"
+      }
+    ],
+    "sources": [
+      "https://miutmadeira.com/miut/miut-2027-registration-faq/"
+    ]
+  },
+  {
+    "name_en": "Ultra-Trail Kosciuszko by UTMB 2026",
+    "registration_open": "2026-03-12",
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": "选手村 Friday Flat, Thredbo。",
+    "scale_total": null,
+    "entry_requirements": "全部标价名额售罄。人与人转让截至2026-11-24。Miler资格材料曾于2026-10-15截止。没有公布的补录窗口。",
+    "mandatory_gear": "须携带强制装备，本次未逐项抄录。",
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "au-kosciuszko-2026",
+    "name_zh": "科修斯科超级越野 by UTMB 2026",
+    "country": "澳大利亚",
+    "region": "新南威尔士·Thredbo",
+    "date_start": "2026-11-26",
+    "date_end": "2026-11-28",
+    "official_url": "https://kosciuszko.utmb.world/runners/entry-info",
+    "registration_url": "https://kosciuszko.utmb.world/runners/entry-info",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "KosciMiler",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 1030,
+          "currency": "AUD",
+          "notes": "含手续费与GST。页面标 SOLD OUT"
+        },
+        "itra_points": null,
+        "notes": "11月27日03:00。100英里，未换算"
+      },
+      {
+        "name": "Kosci100",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 600,
+          "currency": "AUD",
+          "notes": "SOLD OUT"
+        },
+        "itra_points": null,
+        "notes": "11月27日07:30"
+      },
+      {
+        "name": "Kosci50",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 435,
+          "currency": "AUD",
+          "notes": "SOLD OUT"
+        },
+        "itra_points": null,
+        "notes": "11月26日07:00"
+      },
+      {
+        "name": "Kosci30",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 280,
+          "currency": "AUD",
+          "notes": "SOLD OUT"
+        },
+        "itra_points": null,
+        "notes": "11月26日10:00"
+      }
+    ],
+    "sources": [
+      "https://kosciuszko.utmb.world/runners/entry-info"
+    ]
+  }
+]
