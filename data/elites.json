@@ -4,33 +4,192 @@
     "category": "TransLantau100",
     "athletes": [
       {
+        "name": "Damien Humbert",
+        "nationality": "法国",
+        "notes": "男子。UTMB Index 910。新闻稿称其 Transvulcania 100K 第四，指数为该组最高"
+      },
+      {
         "name": "Tomáš Hudec",
         "nationality": "捷克",
-        "notes": "男子。媒体称其在2026-10-20的官方精英名单上"
-      },
-      {
-        "name": "Zhengqiang Xiong",
-        "nationality": "中国",
-        "notes": "男子。姓名按英文来源拼写，未另译中文"
-      },
-      {
-        "name": "Fuk Cheung Tsang",
-        "nationality": "中国香港",
-        "notes": "男子。来源称其为2024年胜者"
+        "notes": "男子。UTMB Index 855。楚格峰100K冠军"
       },
       {
         "name": "Tereza Hudcova",
         "nationality": "捷克",
-        "notes": "女子"
+        "notes": "女子。UTMB Index 718。Transgrancanaria 100K 冠军，新闻稿称女子指数最高"
       },
       {
         "name": "Emma Bilham",
         "nationality": "瑞士",
-        "notes": "女子"
+        "notes": "女子。UTMB Index 667"
       }
     ],
-    "source_url": "https://multidayrunning.com/events/translantau-by-utmb",
-    "last_checked": "2026-11-10",
-    "notes": "姓名来自 Multiday Running 2026-10-20 对官网精英名单的摘录，该文同时引用 https://translantau.utmb.world/races-runners/elite-list 。2026-11-10 该官网页面为前端渲染，静态抓取只有组别标题、没有姓名。赛前名单可能变动。"
+    "source_url": "https://utmb.world/news/event-november-2026",
+    "last_checked": "2026-11-11",
+    "notes": "2026-11-05 UTMB 官方新闻点名的100K选手，不是完整出发名单。10月20日媒体曾写的 Zhengqiang Xiong、Fuk Cheung Tsang 未出现在这篇新闻里，本次不再保留。"
+  },
+  {
+    "race_id": "hk-translantau-2026",
+    "category": "TransLantau50",
+    "athletes": [
+      {
+        "name": "Emma Phipkin",
+        "nationality": "英国",
+        "notes": "女子。UTMB Index 655。新闻稿称去年同距离第五"
+      },
+      {
+        "name": "Ki Chin Wong",
+        "nationality": "中国香港",
+        "notes": "女子。UTMB Index 669。新闻稿称去年100K冠军，且为该组最高指数"
+      },
+      {
+        "name": "Claudio Diaz Castan",
+        "nationality": "西班牙",
+        "notes": "男子。UTMB Index 879。KAT100 50K 第三，亚洲首秀"
+      },
+      {
+        "name": "Peng Tian",
+        "nationality": "中国",
+        "notes": "男子。UTMB Index 836。莫干山 by UTMB 100K 亚军"
+      }
+    ],
+    "source_url": "https://utmb.world/news/event-november-2026",
+    "last_checked": "2026-11-11",
+    "notes": "2026-11-05 UTMB 官方新闻点名的50K选手，不是完整出发名单。"
+  },
+  {
+    "race_id": "th-chiangmai-2026",
+    "category": "新闻稿未分距离",
+    "athletes": [
+      {
+        "name": "Canyon Woodward",
+        "nationality": "美国",
+        "notes": "男子。UTMB Index 906。2026西部州第八"
+      },
+      {
+        "name": "Benat Marmissolle",
+        "nationality": "法国",
+        "notes": "男子。UTMB Index 903。2026年5月 Eryri 100英里冠军"
+      },
+      {
+        "name": "John Stingray Onifa",
+        "nationality": "菲律宾",
+        "notes": "男子。UTMB Index 876。香港 MoonTrekker 50K 冠军"
+      },
+      {
+        "name": "Tom Joly",
+        "nationality": "英国",
+        "notes": "男子。UTMB Index 844"
+      },
+      {
+        "name": "Kanta Mizutani",
+        "nationality": "日本",
+        "notes": "男子。UTMB Index 794。新闻稿称在日本连续三场100英里获胜"
+      },
+      {
+        "name": "Toni McCann",
+        "nationality": "南非",
+        "notes": "女子。UTMB Index 809。2026 CCC 亚军"
+      },
+      {
+        "name": "Yuri Yoshizumi",
+        "nationality": "日本",
+        "notes": "女子。UTMB Index 742。加贺温泉 by UTMB 50K 冠军"
+      },
+      {
+        "name": "Ida-Sophie Hegemann",
+        "nationality": "德国",
+        "notes": "女子。UTMB Index 738。楚格峰100K冠军"
+      },
+      {
+        "name": "Julibel Bagayao",
+        "nationality": "菲律宾",
+        "notes": "女子。UTMB Index 466。香港 MoonTrekker 20K 亚军"
+      }
+    ],
+    "source_url": "https://utmb.world/news/event-november-2026",
+    "last_checked": "2026-11-11",
+    "notes": "2026-11-05 官方新闻写这些选手会参加清迈不同距离，但没有逐人标明组别。不是完整名单。"
+  },
+  {
+    "race_id": "ar-bariloche-2026",
+    "category": "100K",
+    "athletes": [
+      {
+        "name": "Patricio González",
+        "nationality": "阿根廷",
+        "notes": "男子。UTMB Index 834。新闻稿写明卫冕100K冠军，并在2026 CCC 进入前40"
+      }
+    ],
+    "source_url": "https://utmb.world/news/event-november-2026",
+    "last_checked": "2026-11-11",
+    "notes": "官方新闻点名，不是完整名单。"
+  },
+  {
+    "race_id": "ar-bariloche-2026",
+    "category": "20K",
+    "athletes": [
+      {
+        "name": "Pema Franchi",
+        "nationality": "厄瓜多尔",
+        "notes": "UTMB Index 675。新闻稿写明参加20K，2025年同距离第二"
+      }
+    ],
+    "source_url": "https://utmb.world/news/event-november-2026",
+    "last_checked": "2026-11-11",
+    "notes": "官方新闻点名。"
+  },
+  {
+    "race_id": "ar-bariloche-2026",
+    "category": "组别未写明",
+    "athletes": [
+      {
+        "name": "Daniel Claassen",
+        "nationality": "南非",
+        "notes": "男子。UTMB Index 838。新闻稿称其为本国 MUT 100K 冠军并会出场，没有写明2026组别"
+      },
+      {
+        "name": "Noam Franchi",
+        "nationality": "法国",
+        "notes": "UTMB Index 817。新闻稿只写他会出场，并提到2025年100英里第三，没有写2026组别"
+      }
+    ],
+    "source_url": "https://utmb.world/news/event-november-2026",
+    "last_checked": "2026-11-11",
+    "notes": "不把2025年的距离当成2026报名组别。"
+  },
+  {
+    "race_id": "us-pacific-trails-2026",
+    "category": "50K",
+    "athletes": [
+      {
+        "name": "Dani Moreno",
+        "nationality": "美国",
+        "notes": "女子。UTMB Index 765"
+      },
+      {
+        "name": "Helen Mino Faukner",
+        "nationality": "美国",
+        "notes": "女子。UTMB Index 758。HOKA 运动员"
+      },
+      {
+        "name": "Jazmine Lowther",
+        "nationality": "加拿大",
+        "notes": "女子。UTMB Index 777。2026 UTMB 第五"
+      },
+      {
+        "name": "Hans Troyer",
+        "nationality": "美国",
+        "notes": "男子。UTMB Index 930。2026 CCC 第三。HOKA 运动员"
+      },
+      {
+        "name": "Eric Lagerstrom",
+        "nationality": "美国",
+        "notes": "男子。UTMB Index 841。Kodiak 50K 前30"
+      }
+    ],
+    "source_url": "https://utmb.world/news/event-november-2026",
+    "last_checked": "2026-11-11",
+    "notes": "2026-11-05 官方新闻点名的50K选手，不是完整名单。20K没有点名。"
   }
 ]

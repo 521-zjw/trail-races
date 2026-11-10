@@ -468,5 +468,355 @@
     "sources": [
       "https://kosciuszko.utmb.world/runners/entry-info"
     ]
+  },
+  {
+    "name_en": null,
+    "registration_open": null,
+    "registration_close": "2026-11-10",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "先报先得，额满即止。页面另有双人同行与两日赛（50K+10K、30K+10K）。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "耐吉赛事",
+    "last_checked": "2026-11-10",
+    "id": "cn-chongyi-100-2026",
+    "name_zh": "2026崇义100超级越野赛",
+    "country": "中国",
+    "region": "江西·赣州·崇义",
+    "date_start": "2026-11-21",
+    "date_end": "2026-11-22",
+    "official_url": "https://zuicool.com/event/82566",
+    "registration_url": "https://zuicool.com/event/82566",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "100公里",
+        "distance_km": 100,
+        "elevation_gain_m": 5458,
+        "cutoff_hours": 30,
+        "quota_or_entrants": "200人",
+        "fee": null,
+        "itra_points": "拟4分",
+        "notes": "距离页未给实测公里，名称为100公里；11月21日6:00起跑"
+      },
+      {
+        "name": "50公里",
+        "distance_km": 50,
+        "elevation_gain_m": 2906,
+        "cutoff_hours": 13,
+        "quota_or_entrants": "300人",
+        "fee": null,
+        "itra_points": "拟3分",
+        "notes": "11月21日6:00起跑"
+      },
+      {
+        "name": "30公里",
+        "distance_km": 30,
+        "elevation_gain_m": 1911,
+        "cutoff_hours": 9,
+        "quota_or_entrants": "600人",
+        "fee": null,
+        "itra_points": "拟1分",
+        "notes": "11月21日7:00起跑"
+      },
+      {
+        "name": "10公里",
+        "distance_km": 10,
+        "elevation_gain_m": 486,
+        "cutoff_hours": 3,
+        "quota_or_entrants": "900人",
+        "fee": null,
+        "itra_points": null,
+        "notes": "11月22日7:00起跑"
+      }
+    ],
+    "sources": [
+      "https://zuicool.com/event/82566",
+      "https://zuicool.com/events/reg?type=trail-run&per-page=100"
+    ]
+  },
+  {
+    "name_en": null,
+    "registration_open": "2026-10-17",
+    "registration_close": "2026-11-10",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": "比赛日由余姚市全民健身中心接驳车送至起点四明山红军小学。11月28日在余姚市全民健身中心报到。",
+    "scale_total": 2500,
+    "entry_requirements": "先报先得，额满即止。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "中国登山协会（页面称中登协主办）",
+    "last_checked": "2026-11-10",
+    "id": "cn-siming-2026",
+    "name_zh": "中国·余姚2026四明山越野赛",
+    "country": "中国",
+    "region": "浙江·宁波·余姚",
+    "date_start": "2026-11-29",
+    "date_end": "2026-11-30",
+    "official_url": "https://zuicool.com/event/78664",
+    "registration_url": "https://zuicool.com/event/78664",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "光明顶100KM",
+        "distance_km": 100.2,
+        "elevation_gain_m": 4172,
+        "cutoff_hours": 24,
+        "quota_or_entrants": "400人",
+        "fee": null,
+        "itra_points": "4分",
+        "notes": "11月29日05:00至11月30日05:00"
+      },
+      {
+        "name": "知行峰50KM",
+        "distance_km": 48.5,
+        "elevation_gain_m": 1929,
+        "cutoff_hours": 13,
+        "quota_or_entrants": "600人",
+        "fee": null,
+        "itra_points": "2分",
+        "notes": "11月29日05:00–18:00"
+      },
+      {
+        "name": "良知道30KM",
+        "distance_km": 32.1,
+        "elevation_gain_m": 1413,
+        "cutoff_hours": 10,
+        "quota_or_entrants": "800人",
+        "fee": null,
+        "itra_points": "2分",
+        "notes": "11月29日07:00–17:00"
+      },
+      {
+        "name": "圣贤里20KM",
+        "distance_km": 20.5,
+        "elevation_gain_m": 911,
+        "cutoff_hours": 6.5,
+        "quota_or_entrants": "700人",
+        "fee": null,
+        "itra_points": null,
+        "notes": "组别说明为20.5公里。简介另写“圣贤里15KM”，与组别不一致，距离以组别说明为准。11月29日07:00–13:30"
+      }
+    ],
+    "sources": [
+      "https://zuicool.com/event/78664"
+    ]
+  },
+  {
+    "name_en": null,
+    "registration_open": null,
+    "registration_close": "2026-11-10",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": "起点海淀区大觉寺。线路经萝卜地北尖、阳台山、妙峰山。",
+    "scale_total": null,
+    "entry_requirements": "先报先得，额满即止。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": null,
+    "last_checked": "2026-11-10",
+    "id": "cn-haidian-sanfeng-2026",
+    "name_zh": "2026第十五届海淀之巅三峰越野赛",
+    "country": "中国",
+    "region": "北京·海淀·大觉寺",
+    "date_start": "2026-12-06",
+    "date_end": "2026-12-06",
+    "official_url": "https://zuicool.com/event/68796",
+    "registration_url": "https://zuicool.com/event/68796",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "40公里",
+        "distance_km": 41.2,
+        "elevation_gain_m": 2960,
+        "cutoff_hours": 10.5,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": "2分",
+        "notes": "累计下降2960米；7:00起"
+      },
+      {
+        "name": "22公里",
+        "distance_km": 22,
+        "elevation_gain_m": 1720,
+        "cutoff_hours": 8,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": "1分",
+        "notes": "7:30起。简介另述经典三峰约22公里、爬升约1800米"
+      },
+      {
+        "name": "10公里",
+        "distance_km": 9.4,
+        "elevation_gain_m": 844,
+        "cutoff_hours": 5.5,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": "0分",
+        "notes": "含亲子；8:00起"
+      }
+    ],
+    "sources": [
+      "https://zuicool.com/event/68796"
+    ]
+  },
+  {
+    "name_en": "Patagonia Bariloche by UTMB 2026",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "closed",
+    "transport": null,
+    "scale_total": 4000,
+    "entry_requirements": "2026-11-11 官网组别标 Full。UTMB 11月5日新闻稿写11月18日至22日，约4000人，女性约40%，四个距离类别、六个完赛距离，赛道经过纳韦尔瓦皮与马普切社区传统土地。儿童赛收入用于给当地学校买运动器材。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-11",
+    "id": "ar-bariloche-2026",
+    "name_zh": "巴塔哥尼亚巴里洛切 by UTMB 2026",
+    "country": "阿根廷",
+    "region": "巴里洛切·纳韦尔瓦皮国家公园",
+    "date_start": "2026-11-18",
+    "date_end": "2026-11-22",
+    "official_url": "https://bariloche.utmb.world/",
+    "registration_url": "https://bariloche.utmb.world/",
+    "categories": [
+      {
+        "name": "TRONADOR 130K",
+        "distance_km": 131,
+        "elevation_gain_m": 6580,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "首页卡片日期11月20日，标 Full"
+      },
+      {
+        "name": "88公里组",
+        "distance_km": 88,
+        "elevation_gain_m": 4760,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "首页未给出组别品牌名，与130K同页且整体显示已满"
+      },
+      {
+        "name": "57.5公里组",
+        "distance_km": 57.5,
+        "elevation_gain_m": 3000,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "组别名未在摘录中出现"
+      },
+      {
+        "name": "35公里组",
+        "distance_km": 35,
+        "elevation_gain_m": 1425,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": null
+      },
+      {
+        "name": "22公里组",
+        "distance_km": 22,
+        "elevation_gain_m": 985,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": null
+      },
+      {
+        "name": "12.7公里组",
+        "distance_km": 12.7,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "首页标 Full，爬升未摘到"
+      }
+    ],
+    "sources": [
+      "https://bariloche.utmb.world/",
+      "https://utmb.world/news/event-november-2026"
+    ]
+  },
+  {
+    "name_en": "HOKA Pacific Trails California by UTMB 2026",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "closed",
+    "transport": "起点、终点和博览会在牧场的牛棚。圣伊内斯河穿过牧场，Loma Alta 高点2758英尺（840米）。",
+    "scale_total": null,
+    "entry_requirements": "2026-11-11 官网两个距离均标 Full。新闻稿写11月13日至15日首届（上届因天气取消），近900人，女性约35%，美国人约87%。页面介绍 UTMB Community Bibs 可在报名页购买且一半费用捐给当地慈善，但没有写明常规名额满后是否仍有余量，因此不标成补录开放。",
+    "mandatory_gear": null,
+    "sponsors": [
+      "HOKA"
+    ],
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-11",
+    "id": "us-pacific-trails-2026",
+    "name_zh": "HOKA 太平洋步道加利福尼亚 by UTMB 2026",
+    "country": "美国",
+    "region": "加利福尼亚·圣伊内斯谷·Rancho San Fernando Rey",
+    "date_start": "2026-11-13",
+    "date_end": "2026-11-15",
+    "official_url": "https://pacifictrails.utmb.world/",
+    "registration_url": "https://pacifictrails.utmb.world/",
+    "categories": [
+      {
+        "name": "50K",
+        "distance_km": 51,
+        "elevation_gain_m": 1550,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "卡片日期11月14日，标 Full"
+      },
+      {
+        "name": "25K",
+        "distance_km": 25,
+        "elevation_gain_m": 650,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "卡片日期11月15日，标 Full。新闻稿称两个距离为20K与50K"
+      }
+    ],
+    "sources": [
+      "https://pacifictrails.utmb.world/",
+      "https://utmb.world/news/event-november-2026"
+    ]
   }
 ]

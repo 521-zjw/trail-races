@@ -2,78 +2,6 @@
   {
     "name_en": null,
     "registration_open": null,
-    "registration_close": "2026-11-10",
-    "late_registration": {
-      "enabled": false,
-      "window": null,
-      "notes": null
-    },
-    "transport": null,
-    "scale_total": null,
-    "entry_requirements": "先报先得，额满即止。页面另有双人同行与两日赛（50K+10K、30K+10K）。",
-    "mandatory_gear": null,
-    "sponsors": null,
-    "organizer": "耐吉赛事",
-    "last_checked": "2026-11-10",
-    "id": "cn-chongyi-100-2026",
-    "name_zh": "2026崇义100超级越野赛",
-    "country": "中国",
-    "region": "江西·赣州·崇义",
-    "date_start": "2026-11-21",
-    "date_end": "2026-11-22",
-    "official_url": "https://zuicool.com/event/82566",
-    "registration_url": "https://zuicool.com/event/82566",
-    "status": "open",
-    "categories": [
-      {
-        "name": "100公里",
-        "distance_km": 100,
-        "elevation_gain_m": 5458,
-        "cutoff_hours": 30,
-        "quota_or_entrants": "200人",
-        "fee": null,
-        "itra_points": "拟4分",
-        "notes": "距离页未给实测公里，名称为100公里；11月21日6:00起跑"
-      },
-      {
-        "name": "50公里",
-        "distance_km": 50,
-        "elevation_gain_m": 2906,
-        "cutoff_hours": 13,
-        "quota_or_entrants": "300人",
-        "fee": null,
-        "itra_points": "拟3分",
-        "notes": "11月21日6:00起跑"
-      },
-      {
-        "name": "30公里",
-        "distance_km": 30,
-        "elevation_gain_m": 1911,
-        "cutoff_hours": 9,
-        "quota_or_entrants": "600人",
-        "fee": null,
-        "itra_points": "拟1分",
-        "notes": "11月21日7:00起跑"
-      },
-      {
-        "name": "10公里",
-        "distance_km": 10,
-        "elevation_gain_m": 486,
-        "cutoff_hours": 3,
-        "quota_or_entrants": "900人",
-        "fee": null,
-        "itra_points": null,
-        "notes": "11月22日7:00起跑"
-      }
-    ],
-    "sources": [
-      "https://zuicool.com/event/82566",
-      "https://zuicool.com/events/reg?type=trail-run&per-page=100"
-    ]
-  },
-  {
-    "name_en": null,
-    "registration_open": null,
     "registration_close": "2026-11-18",
     "late_registration": {
       "enabled": false,
@@ -140,77 +68,6 @@
     ],
     "sources": [
       "https://zuicool.com/event/94253"
-    ]
-  },
-  {
-    "name_en": null,
-    "registration_open": "2026-10-17",
-    "registration_close": "2026-11-10",
-    "late_registration": {
-      "enabled": false,
-      "window": null,
-      "notes": null
-    },
-    "transport": "比赛日由余姚市全民健身中心接驳车送至起点四明山红军小学。11月28日在余姚市全民健身中心报到。",
-    "scale_total": 2500,
-    "entry_requirements": "先报先得，额满即止。",
-    "mandatory_gear": null,
-    "sponsors": null,
-    "organizer": "中国登山协会（页面称中登协主办）",
-    "last_checked": "2026-11-10",
-    "id": "cn-siming-2026",
-    "name_zh": "中国·余姚2026四明山越野赛",
-    "country": "中国",
-    "region": "浙江·宁波·余姚",
-    "date_start": "2026-11-29",
-    "date_end": "2026-11-30",
-    "official_url": "https://zuicool.com/event/78664",
-    "registration_url": "https://zuicool.com/event/78664",
-    "status": "open",
-    "categories": [
-      {
-        "name": "光明顶100KM",
-        "distance_km": 100.2,
-        "elevation_gain_m": 4172,
-        "cutoff_hours": 24,
-        "quota_or_entrants": "400人",
-        "fee": null,
-        "itra_points": "4分",
-        "notes": "11月29日05:00至11月30日05:00"
-      },
-      {
-        "name": "知行峰50KM",
-        "distance_km": 48.5,
-        "elevation_gain_m": 1929,
-        "cutoff_hours": 13,
-        "quota_or_entrants": "600人",
-        "fee": null,
-        "itra_points": "2分",
-        "notes": "11月29日05:00–18:00"
-      },
-      {
-        "name": "良知道30KM",
-        "distance_km": 32.1,
-        "elevation_gain_m": 1413,
-        "cutoff_hours": 10,
-        "quota_or_entrants": "800人",
-        "fee": null,
-        "itra_points": "2分",
-        "notes": "11月29日07:00–17:00"
-      },
-      {
-        "name": "圣贤里20KM",
-        "distance_km": 20.5,
-        "elevation_gain_m": 911,
-        "cutoff_hours": 6.5,
-        "quota_or_entrants": "700人",
-        "fee": null,
-        "itra_points": null,
-        "notes": "组别说明为20.5公里。简介另写“圣贤里15KM”，与组别不一致，距离以组别说明为准。11月29日07:00–13:30"
-      }
-    ],
-    "sources": [
-      "https://zuicool.com/event/78664"
     ]
   },
   {
@@ -1421,67 +1278,6 @@
   {
     "name_en": null,
     "registration_open": null,
-    "registration_close": "2026-11-10",
-    "late_registration": {
-      "enabled": false,
-      "window": null,
-      "notes": null
-    },
-    "transport": "起点海淀区大觉寺。线路经萝卜地北尖、阳台山、妙峰山。",
-    "scale_total": null,
-    "entry_requirements": "先报先得，额满即止。",
-    "mandatory_gear": null,
-    "sponsors": null,
-    "organizer": null,
-    "last_checked": "2026-11-10",
-    "id": "cn-haidian-sanfeng-2026",
-    "name_zh": "2026第十五届海淀之巅三峰越野赛",
-    "country": "中国",
-    "region": "北京·海淀·大觉寺",
-    "date_start": "2026-12-06",
-    "date_end": "2026-12-06",
-    "official_url": "https://zuicool.com/event/68796",
-    "registration_url": "https://zuicool.com/event/68796",
-    "status": "open",
-    "categories": [
-      {
-        "name": "40公里",
-        "distance_km": 41.2,
-        "elevation_gain_m": 2960,
-        "cutoff_hours": 10.5,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": "2分",
-        "notes": "累计下降2960米；7:00起"
-      },
-      {
-        "name": "22公里",
-        "distance_km": 22,
-        "elevation_gain_m": 1720,
-        "cutoff_hours": 8,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": "1分",
-        "notes": "7:30起。简介另述经典三峰约22公里、爬升约1800米"
-      },
-      {
-        "name": "10公里",
-        "distance_km": 9.4,
-        "elevation_gain_m": 844,
-        "cutoff_hours": 5.5,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": "0分",
-        "notes": "含亲子；8:00起"
-      }
-    ],
-    "sources": [
-      "https://zuicool.com/event/68796"
-    ]
-  },
-  {
-    "name_en": null,
-    "registration_open": null,
     "registration_close": "2026-11-20",
     "late_registration": {
       "enabled": false,
@@ -2118,11 +1914,11 @@
     },
     "transport": "TL100/TL50/TL25/TL15起点均为梅窝银矿湾花园（Mui Wo River Silver Garden）。11月6–8日可在旺角Suunto香港店预先领物，11月13日起在梅窝领物。",
     "scale_total": null,
-    "entry_requirements": "报名自2026-04-14 18:00（香港时间）起，持有效UTMB Index者优先48小时，其后先到先得至额满或截止。精英须在报名期内登记。直通/付费精英的Index门槛见报名页表格（50K/100K/100M男女不同）。",
+    "entry_requirements": "报名自2026-04-14 18:00（香港时间）起，持有效UTMB Index者优先48小时，其后先到先得至额满或截止。精英须在报名期内登记。直通/付费精英的Index门槛见报名页表格（50K/100K/100M男女不同）。 UTMB 2026-11-05 新闻稿：第六届，超过2000名选手，女性约占26%，本地选手约占63%。",
     "mandatory_gear": "官网设有强制装备页，本次未逐项抄录。",
     "sponsors": null,
     "organizer": "UTMB World Series",
-    "last_checked": "2026-11-10",
+    "last_checked": "2026-11-11",
     "id": "hk-translantau-2026",
     "name_zh": "TransLantau by UTMB 2026",
     "country": "中国香港",
@@ -2178,7 +1974,8 @@
       "https://translantau.utmb.world/",
       "https://translantau.utmb.world/races/TL100",
       "https://translantau.utmb.world/races-runners/runners/registration",
-      "https://translantau.utmb.world/discover/the-event/schedule"
+      "https://translantau.utmb.world/discover/the-event/schedule",
+      "https://utmb.world/news/event-november-2026"
     ]
   },
   {
@@ -6158,7 +5955,7 @@
     "categories": [
       {
         "name": "T78",
-        "distance_km": 78.0,
+        "distance_km": 78,
         "elevation_gain_m": 4996,
         "cutoff_hours": null,
         "quota_or_entrants": null,
@@ -6168,7 +5965,7 @@
       },
       {
         "name": "T55",
-        "distance_km": 55.0,
+        "distance_km": 55,
         "elevation_gain_m": 4199,
         "cutoff_hours": null,
         "quota_or_entrants": null,
@@ -6272,5 +6069,97 @@
     "sources": [
       "https://ultratrailcanada.com/quebec-mega-trail-celebre-sa-15e-edition-avec-une-experience-bonifiee-et-ouvre-ses-inscriptions-le-1er-aout/"
     ]
+  },
+  {
+    "id": "fr-glazig-2027",
+    "name_zh": "格拉齐格越野 2027",
+    "name_en": "Trail Glazig 2027",
+    "country": "法国",
+    "region": "布列塔尼·Plourhan（滨海比尼克附近）",
+    "date_start": "2027-02-06",
+    "date_end": "2027-02-07",
+    "official_url": "https://www.trail-glazig.com/",
+    "registration_url": "https://www.trail-glazig.com/inscription-2027",
+    "registration_open": "2026-11-10",
+    "registration_close": "2026-11-12",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": "未中签者的号码布交易所计划于2026-11-12 15:00开放，11月11日当天尚未开始。"
+    },
+    "status": "open",
+    "transport": "Plourhan，位于圣布里厄与潘波勒之间，距 Binic-Étables-sur-Mer 约3公里，往 Lanvollon 方向。",
+    "scale_total": null,
+    "categories": [
+      {
+        "name": "63K",
+        "distance_km": 63,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "预报名抽签项目。爬升、关门、费用未在已读页面列出"
+      },
+      {
+        "name": "32K",
+        "distance_km": 32,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": null
+      },
+      {
+        "name": "15K",
+        "distance_km": 15,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": null
+      },
+      {
+        "name": "Noz 20K",
+        "distance_km": 20,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "夜间组"
+      },
+      {
+        "name": "Noz 10K",
+        "distance_km": 10,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "夜间组"
+      },
+      {
+        "name": "3 défis",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "预报名页面列出该名称，距离未写明"
+      }
+    ],
+    "entry_requirements": "抽签预报名2026-11-07 12:00至11-10 12:00，免费，可报多个项目，也可2至10人组队。结果11月10日15:00以邮件或 Klikego 账户公布。中签者须在11月12日前完成付款；报名页同时写到11月12日12:00，以及未在11月12日15:00前付款会取消，两个时刻并存。成人须提交一年内有效的 Parcours de Prévention Santé，未成年人仍要体检证明，材料可补到12月24日。号码可邮寄。未中签者等待11月12日15:00的号码布交易所。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "Plourhan Sport Aventure",
+    "sources": [
+      "https://www.trail-glazig.com/",
+      "https://www.trail-glazig.com/inscription-2027"
+    ],
+    "last_checked": "2026-11-11"
   }
 ]
