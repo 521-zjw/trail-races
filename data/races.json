@@ -3357,7 +3357,7 @@
     ]
   },
   {
-    "name_en": "UTMB World Series, Kranjska Gora",
+    "name_en": "Julian Alps Trail Run by UTMB 2027",
     "registration_open": null,
     "registration_close": null,
     "late_registration": {
@@ -3367,23 +3367,2910 @@
     },
     "transport": null,
     "scale_total": null,
-    "entry_requirements": "UTMB开放报名列表仅给出地点、日期与 Opening soon，抓取文本没有独立品牌名、组别、费用或报名链接。未再猜测站名。",
+    "entry_requirements": "官网首页全部组别为 Opening soon，赛事周2027-09-17至09-19。此前开放报名列表只写了地点。费用与报名开放日仍未公布。",
     "mandatory_gear": null,
     "sponsors": null,
     "organizer": "UTMB World Series",
     "last_checked": "2026-11-10",
     "id": "si-kranjska-gora-2027",
-    "name_zh": "UTMB世界系列赛·克拉尼斯卡戈拉（站名未在列表页写出）",
+    "name_zh": "尤利安阿尔卑斯越野 by UTMB 2027",
     "country": "斯洛文尼亚",
-    "region": "Kranjska Gora",
+    "region": "克拉尼斯卡戈拉 Kranjska Gora",
     "date_start": "2027-09-17",
     "date_end": "2027-09-19",
-    "official_url": "https://utmb.world/open-registrations",
-    "registration_url": "https://utmb.world/open-registrations",
+    "official_url": "https://julianalps.utmb.world",
+    "registration_url": "https://julianalps.utmb.world",
     "status": "upcoming_unknown",
-    "categories": [],
+    "categories": [
+      {
+        "name": "I FEEL SLOVENIA 120K",
+        "distance_km": 122,
+        "elevation_gain_m": 5855,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月17日，首页 Opening soon"
+      },
+      {
+        "name": "LAKE BLED 80K",
+        "distance_km": 80,
+        "elevation_gain_m": 3866,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月18日 Opening soon"
+      },
+      {
+        "name": "SKY TRAIL 50K",
+        "distance_km": 55,
+        "elevation_gain_m": 2828,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月17日"
+      },
+      {
+        "name": "KRANJSKA GORA 25K",
+        "distance_km": 25,
+        "elevation_gain_m": 1090,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月19日"
+      },
+      {
+        "name": "INTERSPORT SPEED 15K",
+        "distance_km": 17,
+        "elevation_gain_m": 583,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月19日"
+      },
+      {
+        "name": "VITRANC FUNNY 10K",
+        "distance_km": 11,
+        "elevation_gain_m": 329,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月19日"
+      },
+      {
+        "name": "NEXT GEN 10K",
+        "distance_km": 11,
+        "elevation_gain_m": 329,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月19日"
+      }
+    ],
     "sources": [
+      "https://julianalps.utmb.world",
       "https://utmb.world/open-registrations"
+    ]
+  },
+  {
+    "name_en": "Istria 100 by UTMB 2027",
+    "registration_open": "2026-06-16",
+    "registration_close": "2027-01-31",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "2026-06-16 14:00至06-18 14:00（CEST）仅限有效UTMB Index；其后至2027-01-31 23:59或售罄，对有无Index者开放。168/110/69/42最低出生年2009年底及以前；21K为2011年底及以前。21K不退费。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "hr-istria-2027",
+    "name_zh": "伊斯特拉100 by UTMB 2027",
+    "country": "克罗地亚",
+    "region": "伊斯特拉",
+    "date_start": "2027-04-02",
+    "date_end": "2027-04-04",
+    "official_url": "https://istria.utmb.world/",
+    "registration_url": "https://istria.utmb.world/registration",
+    "categories": [
+      {
+        "name": "168K",
+        "distance_km": 168,
+        "elevation_gain_m": 6800,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 303.75,
+          "currency": "EUR",
+          "notes": "报名页当前档；下一档320.63。含手续费与增值税"
+        },
+        "itra_points": null,
+        "notes": "4月2日。爬升数字来自官网的 M+。"
+      },
+      {
+        "name": "110K",
+        "distance_km": 111,
+        "elevation_gain_m": 4200,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 258.75,
+          "currency": "EUR",
+          "notes": "下一档270.00"
+        },
+        "itra_points": null,
+        "notes": "4月3日"
+      },
+      {
+        "name": "69K",
+        "distance_km": 69.6,
+        "elevation_gain_m": 2400,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 157.5,
+          "currency": "EUR",
+          "notes": "报名页未显示下一档"
+        },
+        "itra_points": null,
+        "notes": "4月3日"
+      },
+      {
+        "name": "42K",
+        "distance_km": 42,
+        "elevation_gain_m": 1000,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 140.63,
+          "currency": "EUR",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": "4月3日"
+      },
+      {
+        "name": "21K",
+        "distance_km": 21.5,
+        "elevation_gain_m": 157,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 101.25,
+          "currency": "EUR",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": "4月4日。最低年龄到2011年出生；其余组别到2009年"
+      }
+    ],
+    "sources": [
+      "https://istria.utmb.world/",
+      "https://istria.utmb.world/registration"
+    ]
+  },
+  {
+    "name_en": "mozart 100 by UTMB 2027",
+    "registration_open": "2026-07-14",
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "2026-07-14 14:00至07-16 13:59对有效Index优先，其后至各距离售罄，无候补。除半马与湖岸组外，最低18岁（2009年及更早）。号码不可转让；可在2027-05-03前改到更短距离且不退差价。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "at-mozart-2027",
+    "name_zh": "莫扎特100 by UTMB 2027",
+    "country": "奥地利",
+    "region": "萨尔茨堡州·Fuschl am See",
+    "date_start": "2027-06-05",
+    "date_end": "2027-06-05",
+    "official_url": "https://mozart.utmb.world/",
+    "registration_url": "https://mozart.utmb.world/registration",
+    "categories": [
+      {
+        "name": "mozart 100",
+        "distance_km": 119,
+        "elevation_gain_m": 6000,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 414.62,
+          "currency": "EUR",
+          "notes": "当前档，下一档428.06。含增值税、管理费与报名费"
+        },
+        "itra_points": null,
+        "notes": "爬升数字来自官网的 M+。"
+      },
+      {
+        "name": "mozart Ultra",
+        "distance_km": 84,
+        "elevation_gain_m": 4800,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 273.5,
+          "currency": "EUR",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": null
+      },
+      {
+        "name": "mozart Marathon",
+        "distance_km": 44,
+        "elevation_gain_m": 1600,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "官网首页标 Full；报名页标 SOLD OUT"
+      },
+      {
+        "name": "mozart Half Marathon",
+        "distance_km": 28,
+        "elevation_gain_m": 1100,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 172.7,
+          "currency": "EUR",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": "半马最低16岁（2011年及更早）"
+      },
+      {
+        "name": "mozart Lake Trail",
+        "distance_km": 12,
+        "elevation_gain_m": 200,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 88.03,
+          "currency": "EUR",
+          "notes": "下一档105.50"
+        },
+        "itra_points": null,
+        "notes": "2018年及更晚出生的儿童可参加"
+      },
+      {
+        "name": "mozart Ultra Relay",
+        "distance_km": 84,
+        "elevation_gain_m": 4800,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 399.17,
+          "currency": "EUR",
+          "notes": "下一档466.37"
+        },
+        "itra_points": null,
+        "notes": null
+      }
+    ],
+    "sources": [
+      "https://mozart.utmb.world/",
+      "https://mozart.utmb.world/registration"
+    ]
+  },
+  {
+    "name_en": "Eiger Ultra Trail by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页写明 E250、E16、Trail Surprise 仍可报名。E101/E51/E35 抽签预报名窗口为2026-09-21 14:00至09-28 23:59 CEST，结果9月30日起，确认缴费至10月5日，第二轮至10月12日。E101须任意类别有效UTMB Index。抽签组别须在赛事年满18岁。儿童组 Opening soon。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "ch-eiger-2027",
+    "name_zh": "艾格超级越野 by UTMB 2027",
+    "country": "瑞士",
+    "region": "格林德瓦尔德 Grindelwald",
+    "date_start": "2027-07-14",
+    "date_end": "2027-07-18",
+    "official_url": "https://eiger.utmb.world/",
+    "registration_url": "https://eiger.utmb.world/runners/preregistration",
+    "categories": [
+      {
+        "name": "E250 - UNESCO Trail",
+        "distance_km": 261,
+        "elevation_gain_m": 18000,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月14日，首页标 Registrations open。爬升数字来自官网的 M+。"
+      },
+      {
+        "name": "E101 - Ultra Trail",
+        "distance_km": 101,
+        "elevation_gain_m": 6700,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月17日，Registrations closed。抽签已于2026年9–10月结束"
+      },
+      {
+        "name": "E51 - Panorama Trail",
+        "distance_km": 51,
+        "elevation_gain_m": 3100,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "Registrations closed"
+      },
+      {
+        "name": "E35 - North Face Trail",
+        "distance_km": 35,
+        "elevation_gain_m": 2500,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "Registrations closed"
+      },
+      {
+        "name": "E16 - Pleasure Trail",
+        "distance_km": 16,
+        "elevation_gain_m": 950,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月17日，Registrations open"
+      },
+      {
+        "name": "Trail Surprise",
+        "distance_km": 15,
+        "elevation_gain_m": 800,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月16日，Registrations open"
+      }
+    ],
+    "sources": [
+      "https://eiger.utmb.world/",
+      "https://eiger.utmb.world/races",
+      "https://eiger.utmb.world/runners/preregistration"
+    ]
+  },
+  {
+    "name_en": "KAT100 by UTMB 2027",
+    "registration_open": "2026-09-22",
+    "registration_close": "2027-07-21",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": "报名页写 Endurance Trail 含前往起点的接驳。",
+    "scale_total": null,
+    "entry_requirements": "2026-09-22 14:00至09-24 13:59仅Index持有者；其后至2027-07-21 00:00或售罄。无候补。儿童组 Opening soon。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "at-kat100-2027",
+    "name_zh": "KAT100 by UTMB 2027",
+    "country": "奥地利",
+    "region": "蒂罗尔·Fieberbrunn",
+    "date_start": "2027-08-05",
+    "date_end": "2027-08-07",
+    "official_url": "https://kat.utmb.world/",
+    "registration_url": "https://kat.utmb.world/registration",
+    "categories": [
+      {
+        "name": "100 Miles",
+        "distance_km": 169,
+        "elevation_gain_m": 9000,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 403.2,
+          "currency": "EUR",
+          "notes": "当前档，下一档431.42。须100K或100M有效Index"
+        },
+        "itra_points": null,
+        "notes": "8月5日。完赛贝雷帽仅此距离"
+      },
+      {
+        "name": "Endurance Trail",
+        "distance_km": 75,
+        "elevation_gain_m": 4100,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 279.55,
+          "currency": "EUR",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": "8月6日。须50K/100K/100M有效Index"
+      },
+      {
+        "name": "Marathon Trail",
+        "distance_km": 52,
+        "elevation_gain_m": 3100,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 196.22,
+          "currency": "EUR",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": "8月7日"
+      },
+      {
+        "name": "Speed Trail",
+        "distance_km": 24,
+        "elevation_gain_m": 1650,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 145.15,
+          "currency": "EUR",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": "8月7日"
+      },
+      {
+        "name": "Easy Trail",
+        "distance_km": 8,
+        "elevation_gain_m": 250,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 77.95,
+          "currency": "EUR",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": "8月7日。2013年及更早可报；其余组别2009年及更早"
+      }
+    ],
+    "sources": [
+      "https://kat.utmb.world/",
+      "https://kat.utmb.world/registration"
+    ]
+  },
+  {
+    "name_en": "Mt.FUJI100 2027",
+    "registration_open": "2026-11-02",
+    "registration_close": "2026-11-15",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": "完赛与博览会在山梨县富士吉田市富士北麓公园。海外选手英文报名入口见官网新闻。",
+    "scale_total": 2000,
+    "entry_requirements": "一般报名与捐赠报名：2026-11-02 12:00至11-15 23:59。抽签结果12月1日，中签者须在12月15日23:59前付款，另加报名费6%手续费（RUNNET说明）。优先报名（2026年FUJI100mi总成绩前100与精英）为10月19日至11月15日。比赛日须满18岁。资格赛窗口：一般报名开始日前两年至前一天，且能在ITRA成绩页核实。英文新闻写100英里为1场4分或2场1分；10月1日新闻稿写为1场4分或2场3分，两处不一致。KAI70k：英文新闻写2场1分，新闻稿写1场2分。ASUMI40k：新闻稿写1场1分。虚拟赛不算。一人只能报一个项目。",
+    "mandatory_gear": "RUNNET写比赛中会检查必携品，缺项可能当场失格。清单在官网，本次未逐项抄录。",
+    "sponsors": null,
+    "organizer": "Mt.FUJI100执行委员会",
+    "last_checked": "2026-11-10",
+    "id": "jp-fuji100-2027",
+    "name_zh": "富士山100 2027",
+    "country": "日本",
+    "region": "山梨·富士北麓 / 静冈·富士市、富士宫市",
+    "date_start": "2027-04-23",
+    "date_end": "2027-04-25",
+    "official_url": "https://en.mtfuji100.com/news/20261102/",
+    "registration_url": "https://runnet.jp/entry/runtes/user/pc/competitionDetailAction.do?div=1&raceId=397778",
+    "categories": [
+      {
+        "name": "FUJI100mi",
+        "distance_km": 165.3,
+        "elevation_gain_m": 6463,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 50000,
+          "currency": "JPY",
+          "notes": "一般报名。捐赠报名105000日元（含55000捐赠）"
+        },
+        "itra_points": null,
+        "notes": "新闻稿写约165.3公里、+6463米。4月23日出发"
+      },
+      {
+        "name": "KAI70k",
+        "distance_km": 67.9,
+        "elevation_gain_m": 2917,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 30000,
+          "currency": "JPY",
+          "notes": "捐赠报名81000日元"
+        },
+        "itra_points": null,
+        "notes": null
+      },
+      {
+        "name": "ASUMI40k",
+        "distance_km": 38.5,
+        "elevation_gain_m": 1481,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 22000,
+          "currency": "JPY",
+          "notes": "捐赠报名60000日元"
+        },
+        "itra_points": null,
+        "notes": null
+      },
+      {
+        "name": "SAKUYA 9k",
+        "distance_km": 8.6,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 5500,
+          "currency": "JPY",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": "先到先得，可报至2027-02-28或额满。约8.6公里"
+      },
+      {
+        "name": "SAKUYA U-20 6k",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 3300,
+          "currency": "JPY",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": "新闻稿句子在“约6公里”处被截断，距离不填实数"
+      }
+    ],
+    "sources": [
+      "https://en.mtfuji100.com/news/20261102/",
+      "https://mtfuji100.com/wp-content/uploads/2026/10/MF_PressRelease_No.127_EN_261001.pdf",
+      "https://runnet.jp/entry/runtes/user/pc/competitionDetailAction.do?div=1&raceId=397778"
+    ]
+  },
+  {
+    "name_en": "Trail du Saint-Jacques by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页显示100英里与28公里徒步仍开放，其余距离标 Full。具体城镇本次首页摘录未单列。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "fr-saint-jacques-2027",
+    "name_zh": "圣雅克之路越野 by UTMB 2027",
+    "country": "法国",
+    "region": null,
+    "date_start": "2027-06-18",
+    "date_end": "2027-06-20",
+    "official_url": "https://saint-jacques.utmb.world/",
+    "registration_url": "https://saint-jacques.utmb.world/",
+    "categories": [
+      {
+        "name": "Ultra du Saint Jacques - 100M",
+        "distance_km": 140,
+        "elevation_gain_m": 6000,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月18日，Registrations open。爬升数字来自官网的 M+。"
+      },
+      {
+        "name": "Grand Trail du Saint Jacques - 100K",
+        "distance_km": 88,
+        "elevation_gain_m": 3600,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月19日，Full"
+      },
+      {
+        "name": "Monistrail - 50K",
+        "distance_km": 55,
+        "elevation_gain_m": 2100,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月20日，Full"
+      },
+      {
+        "name": "Les Chibottes - 20K",
+        "distance_km": 28,
+        "elevation_gain_m": 750,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月20日，Full"
+      },
+      {
+        "name": "Rando 28km",
+        "distance_km": 28,
+        "elevation_gain_m": 750,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月20日07:40，Registrations open"
+      },
+      {
+        "name": "Le 12 du Dolaizon",
+        "distance_km": 12,
+        "elevation_gain_m": 200,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月19日，Full"
+      }
+    ],
+    "sources": [
+      "https://saint-jacques.utmb.world/"
+    ]
+  },
+  {
+    "name_en": "Zugspitz Ultra Trail by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "2027改为抽签：10月5–12日申请，10月14日结果，正签须在10月19日前付款；候补第二轮10月21–26日。10月27日后若仍有名额则转为直接销售。ZUT100等长距离最低18岁（2008年及更早）。报名页把抽签开放写到“12 October 2027”，与同页“5–12 October”流程矛盾，抽签截止日期以流程表的2026年10月为准更合理，但页面没有写年份在每一行上，此处不把2027-10-12写成确定截止日。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "de-zugspitz-2027",
+    "name_zh": "楚格峰超级越野 by UTMB 2027",
+    "country": "德国",
+    "region": "加米施-帕滕基兴 Garmisch-Partenkirchen",
+    "date_start": "2027-06-17",
+    "date_end": "2027-06-19",
+    "official_url": "https://zugspitz.utmb.world/",
+    "registration_url": "https://zugspitz.utmb.world/registration",
+    "categories": [
+      {
+        "name": "ZUT100",
+        "distance_km": 167,
+        "elevation_gain_m": 8205,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 386,
+          "currency": "EUR",
+          "notes": "报名页单一价格，含手续费与增值税"
+        },
+        "itra_points": null,
+        "notes": "6月17日，Registrations open。须100K或100M有效Index"
+      },
+      {
+        "name": "Ultratrail",
+        "distance_km": 107,
+        "elevation_gain_m": 5280,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月18日，首页 Registrations open。报名页曾写 SPECIAL ENTRIES，以11月10日首页为准"
+      },
+      {
+        "name": "Ehrwald Trail",
+        "distance_km": 86,
+        "elevation_gain_m": 4295,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月18日，首页 Registrations open"
+      },
+      {
+        "name": "Leutasch Trail",
+        "distance_km": 68.5,
+        "elevation_gain_m": 3100,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月19日，Full"
+      },
+      {
+        "name": "Mittenwald Trail",
+        "distance_km": 44,
+        "elevation_gain_m": 2110,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月19日，Full"
+      },
+      {
+        "name": "Garmisch-Partenkirchen Trail",
+        "distance_km": 29,
+        "elevation_gain_m": 1565,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月18日，Full / 报名页 SOLD OUT"
+      },
+      {
+        "name": "Grainau Trail",
+        "distance_km": 16,
+        "elevation_gain_m": 760,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月19日，Full / SOLD OUT"
+      }
+    ],
+    "sources": [
+      "https://zugspitz.utmb.world/",
+      "https://zugspitz.utmb.world/registration"
+    ]
+  },
+  {
+    "name_en": "Trail 100 Andorra by UTMB 2027",
+    "registration_open": "2026-07-07",
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页2026-11-10显示105K、80K、25K、10K为 Registrations open。报名条件页仍残留2025/2026年的开放句（写到2026-06-06），与2027费用表冲突，不采用该旧截止日。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "ad-andorra-2027",
+    "name_zh": "安道尔100越野 by UTMB 2027",
+    "country": "安道尔",
+    "region": "奥尔迪诺 Ordino",
+    "date_start": "2027-06-10",
+    "date_end": "2027-06-13",
+    "official_url": "https://andorra.utmb.world/",
+    "registration_url": "https://andorra.utmb.world/registration",
+    "categories": [
+      {
+        "name": "Ultra 105K",
+        "distance_km": 105,
+        "elevation_gain_m": 6800,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 315.1,
+          "currency": "EUR",
+          "notes": "当前档，报名页未列下一档"
+        },
+        "itra_points": null,
+        "notes": "6月12日"
+      },
+      {
+        "name": "Trail 80K",
+        "distance_km": 79,
+        "elevation_gain_m": 3900,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 281.63,
+          "currency": "EUR",
+          "notes": null
+        },
+        "itra_points": null,
+        "notes": "6月11日"
+      },
+      {
+        "name": "Trail 50K",
+        "distance_km": 50,
+        "elevation_gain_m": 3400,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月12日，首页 Full。报名页写常规名额售罄，NIRVANA 高配包仍可能有少量名额"
+      },
+      {
+        "name": "Trail 25K",
+        "distance_km": 24.9,
+        "elevation_gain_m": 1350,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 126.97,
+          "currency": "EUR",
+          "notes": "报名费表组别名为 Trail 21KM，下一档143.12。与首页24.9公里的25K是否同一组别，页面没有逐字对照"
+        },
+        "itra_points": null,
+        "notes": "6月13日"
+      },
+      {
+        "name": "Trail 10Km",
+        "distance_km": 10,
+        "elevation_gain_m": 500,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 61.17,
+          "currency": "EUR",
+          "notes": "下一档71.56"
+        },
+        "itra_points": null,
+        "notes": "6月13日。10K最低出生年2012；105/80/50/21最低2008"
+      }
+    ],
+    "sources": [
+      "https://andorra.utmb.world/",
+      "https://andorra.utmb.world/registration"
+    ]
+  },
+  {
+    "name_en": "Arc of Attrition by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "简介写 Arc 100M、100K、50K、20K，元描述又写25/50/100公里或100英里，与卡片上的174 / 82.7 / 49.4 / 22.1公里没有逐项对应，故组别名用实测距离。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "gb-arc-2027",
+    "name_zh": "消耗之弧 by UTMB 2027",
+    "country": "英国",
+    "region": "康沃尔·西南海岸小径",
+    "date_start": "2027-01-22",
+    "date_end": "2027-01-24",
+    "official_url": "https://arcofattrition.utmb.world",
+    "registration_url": "https://arcofattrition.utmb.world",
+    "categories": [
+      {
+        "name": "174公里组",
+        "distance_km": 174,
+        "elevation_gain_m": 5507,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "1月22日 Registrations open。简介称 Arc 100M，卡片未把名称和174公里写在同一行"
+      },
+      {
+        "name": "82.7公里组",
+        "distance_km": 82.7,
+        "elevation_gain_m": 2708,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "1月23日 Full"
+      },
+      {
+        "name": "49.4公里组",
+        "distance_km": 49.4,
+        "elevation_gain_m": 1458,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "1月24日 Full"
+      },
+      {
+        "name": "22.1公里组",
+        "distance_km": 22.1,
+        "elevation_gain_m": 744,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "1月24日 Registrations open"
+      }
+    ],
+    "sources": [
+      "https://arcofattrition.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Bucovina Ultra Rocks by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页全部组别标 Registrations open。页面摘要未写国名，地区按赛事名布科维纳填写。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "ro-bucovina-2027",
+    "name_zh": "布科维纳超级岩石 by UTMB 2027",
+    "country": "罗马尼亚",
+    "region": "布科维纳",
+    "date_start": "2027-07-23",
+    "date_end": "2027-07-25",
+    "official_url": "https://bucovina.utmb.world",
+    "registration_url": "https://bucovina.utmb.world",
+    "categories": [
+      {
+        "name": "ULTRA ROCKS",
+        "distance_km": 114,
+        "elevation_gain_m": 7000,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月23日"
+      },
+      {
+        "name": "FOUR SUMMITS",
+        "distance_km": 72,
+        "elevation_gain_m": 4600,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月24日"
+      },
+      {
+        "name": "LADY'S ROCKS",
+        "distance_km": 48,
+        "elevation_gain_m": 3200,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月24日"
+      },
+      {
+        "name": "ROCKY",
+        "distance_km": 33,
+        "elevation_gain_m": 2000,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月24日"
+      },
+      {
+        "name": "RADICAL",
+        "distance_km": 20,
+        "elevation_gain_m": 1100,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月25日"
+      },
+      {
+        "name": "RUMBLE ROCK",
+        "distance_km": 16.5,
+        "elevation_gain_m": 700,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月25日"
+      },
+      {
+        "name": "RUNC CHALLENGE",
+        "distance_km": 5,
+        "elevation_gain_m": 550,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月23日"
+      }
+    ],
+    "sources": [
+      "https://bucovina.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Desert RATS Trail Running Festival by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页四个距离均为 Registrations open。首页摘要未写州或城市。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "us-desertrats-2027",
+    "name_zh": "沙漠鼠越野节 by UTMB 2027",
+    "country": "美国",
+    "region": null,
+    "date_start": "2027-04-10",
+    "date_end": "2027-04-11",
+    "official_url": "https://desertrats.utmb.world",
+    "registration_url": "https://desertrats.utmb.world",
+    "categories": [
+      {
+        "name": "100K",
+        "distance_km": 100,
+        "elevation_gain_m": 2050,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "4月10日"
+      },
+      {
+        "name": "50K",
+        "distance_km": 48,
+        "elevation_gain_m": 1050,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "4月10日"
+      },
+      {
+        "name": "21K",
+        "distance_km": 21,
+        "elevation_gain_m": 700,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "4月11日"
+      },
+      {
+        "name": "10K",
+        "distance_km": 9,
+        "elevation_gain_m": 200,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "4月11日"
+      }
+    ],
+    "sources": [
+      "https://desertrats.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Gauja Trail by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页各组均 Registrations open。国别依据组别名 Sigulda（锡古尔达）。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "lv-gauja-2027",
+    "name_zh": "高亚越野 by UTMB 2027",
+    "country": "拉脱维亚",
+    "region": "锡古尔达 / 高亚",
+    "date_start": "2027-08-06",
+    "date_end": "2027-08-08",
+    "official_url": "https://gauja.utmb.world",
+    "registration_url": "https://gauja.utmb.world",
+    "categories": [
+      {
+        "name": "Gauja Trail 100 K",
+        "distance_km": 91,
+        "elevation_gain_m": 2200,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "8月7日"
+      },
+      {
+        "name": "Gauja Trail 50 K",
+        "distance_km": 53,
+        "elevation_gain_m": 1200,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "8月8日"
+      },
+      {
+        "name": "Gauja Trail 20 K",
+        "distance_km": 21,
+        "elevation_gain_m": 500,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "8月7日"
+      },
+      {
+        "name": "Gauja Trail 10 K",
+        "distance_km": 13.5,
+        "elevation_gain_m": 300,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "8月8日"
+      },
+      {
+        "name": "Sigulda Three Castles Trail Run",
+        "distance_km": 12,
+        "elevation_gain_m": 300,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "8月6日"
+      },
+      {
+        "name": "Gauja Trail Youth",
+        "distance_km": 6,
+        "elevation_gain_m": 100,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "8月8日"
+      },
+      {
+        "name": "Gauja Trail Kids",
+        "distance_km": 1.6,
+        "elevation_gain_m": 30,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "8月7日"
+      }
+    ],
+    "sources": [
+      "https://gauja.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Grindstone Running Festival by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页四个距离均为 Registrations open。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "us-grindstone-2027",
+    "name_zh": "磨石越野节 by UTMB 2027",
+    "country": "美国",
+    "region": "弗吉尼亚·谢南多厄河谷以西国有林",
+    "date_start": "2027-09-24",
+    "date_end": "2027-09-25",
+    "official_url": "https://grindstone.utmb.world",
+    "registration_url": "https://grindstone.utmb.world",
+    "categories": [
+      {
+        "name": "100M",
+        "distance_km": 167.4,
+        "elevation_gain_m": 6400,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月24日"
+      },
+      {
+        "name": "100K",
+        "distance_km": 100,
+        "elevation_gain_m": 3350,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月25日"
+      },
+      {
+        "name": "50K",
+        "distance_km": 50,
+        "elevation_gain_m": 1550,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月25日"
+      },
+      {
+        "name": "21K",
+        "distance_km": 21,
+        "elevation_gain_m": 500,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月25日"
+      }
+    ],
+    "sources": [
+      "https://grindstone.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Kaçkar by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页各组 Registrations open。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "tr-kackar-2027",
+    "name_zh": "卡奇卡尔 by UTMB 2027",
+    "country": "土耳其",
+    "region": "卡奇卡尔",
+    "date_start": "2027-09-11",
+    "date_end": "2027-09-11",
+    "official_url": "https://kackar.utmb.world",
+    "registration_url": "https://kackar.utmb.world",
+    "categories": [
+      {
+        "name": "KAÇKAR 100K",
+        "distance_km": 82,
+        "elevation_gain_m": 5600,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "组别名100K，卡片距离82公里"
+      },
+      {
+        "name": "KAÇKAR 50K",
+        "distance_km": 44,
+        "elevation_gain_m": 3000,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "卡片距离44公里"
+      },
+      {
+        "name": "KAÇKAR 20K",
+        "distance_km": 20,
+        "elevation_gain_m": 1400,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": null
+      },
+      {
+        "name": "AYDER 4K",
+        "distance_km": 4,
+        "elevation_gain_m": 230,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": null
+      }
+    ],
+    "sources": [
+      "https://kackar.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Trail of the Kings - Lake Toba by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "成人距离首页为 Registrations open。儿童组6月13日 Opening soon。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "id-laketoba-2027",
+    "name_zh": "湖之王者越野·多巴湖 by UTMB 2027",
+    "country": "印度尼西亚",
+    "region": "多巴湖·萨莫西尔岛",
+    "date_start": "2027-06-12",
+    "date_end": "2027-06-13",
+    "official_url": "https://laketoba.utmb.world",
+    "registration_url": "https://laketoba.utmb.world",
+    "categories": [
+      {
+        "name": "Caldera Crown 100K",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月12日 Registrations open。卡片未给出实测公里与爬升"
+      },
+      {
+        "name": "Ultimate Expedition 60K",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月12日"
+      },
+      {
+        "name": "King's Ascent 25K",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月12日"
+      },
+      {
+        "name": "Legacy Dash 17K",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月12日"
+      }
+    ],
+    "sources": [
+      "https://laketoba.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Mountain Ultra Trail by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页各组 Registrations open。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "za-mut-2027",
+    "name_zh": "山地超级越野 MUT by UTMB 2027",
+    "country": "南非",
+    "region": "乔治 George",
+    "date_start": "2027-05-28",
+    "date_end": "2027-05-30",
+    "official_url": "https://mut.utmb.world",
+    "registration_url": "https://mut.utmb.world",
+    "categories": [
+      {
+        "name": "MUT Miler",
+        "distance_km": 168,
+        "elevation_gain_m": 8014,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月28日"
+      },
+      {
+        "name": "MUT 100",
+        "distance_km": 100,
+        "elevation_gain_m": 4717,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月29日"
+      },
+      {
+        "name": "MUT 60",
+        "distance_km": 58,
+        "elevation_gain_m": 3005,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月29日"
+      },
+      {
+        "name": "MUT Marathon",
+        "distance_km": 43,
+        "elevation_gain_m": 2312,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月29日"
+      },
+      {
+        "name": "MUT Challenge",
+        "distance_km": 25,
+        "elevation_gain_m": 1043,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月30日"
+      },
+      {
+        "name": "MUT Lite",
+        "distance_km": 11.9,
+        "elevation_gain_m": 312,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月30日"
+      }
+    ],
+    "sources": [
+      "https://mut.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Oh Meu Deus by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页各组 Registrations open。页面称 Center of Portugal。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "pt-ohmeudeus-2027",
+    "name_zh": "Oh Meu Deus by UTMB 2027",
+    "country": "葡萄牙",
+    "region": "中部山区",
+    "date_start": "2027-04-30",
+    "date_end": "2027-05-02",
+    "official_url": "https://ohmeudeus.utmb.world",
+    "registration_url": "https://ohmeudeus.utmb.world",
+    "categories": [
+      {
+        "name": "Oh Meu Deus 100M",
+        "distance_km": 167,
+        "elevation_gain_m": 8900,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "4月30日"
+      },
+      {
+        "name": "Oh Meu Deus 100K",
+        "distance_km": 94,
+        "elevation_gain_m": 5300,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月1日"
+      },
+      {
+        "name": "Oh Meu Deus 50K",
+        "distance_km": 52,
+        "elevation_gain_m": 2900,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "4月30日"
+      },
+      {
+        "name": "Oh Meu Deus 20K",
+        "distance_km": 22,
+        "elevation_gain_m": 1000,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月2日"
+      }
+    ],
+    "sources": [
+      "https://ohmeudeus.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Paraty Brazil by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页各组 Registrations open。元描述写赛事周为9月23–26日。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "br-paraty-2027",
+    "name_zh": "帕拉蒂巴西 by UTMB 2027",
+    "country": "巴西",
+    "region": "帕拉蒂 Paraty",
+    "date_start": "2027-09-23",
+    "date_end": "2027-09-26",
+    "official_url": "https://paraty.utmb.world",
+    "registration_url": "https://paraty.utmb.world",
+    "categories": [
+      {
+        "name": "PTR 100",
+        "distance_km": 101,
+        "elevation_gain_m": 4850,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月24日"
+      },
+      {
+        "name": "PTR 55",
+        "distance_km": 53,
+        "elevation_gain_m": 3200,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月25日"
+      },
+      {
+        "name": "PTR 34",
+        "distance_km": 34,
+        "elevation_gain_m": 1100,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月25日"
+      },
+      {
+        "name": "PTR 25",
+        "distance_km": 25,
+        "elevation_gain_m": 750,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月25日"
+      },
+      {
+        "name": "PTR 17",
+        "distance_km": 17,
+        "elevation_gain_m": 550,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月25日"
+      },
+      {
+        "name": "NIGHT 10",
+        "distance_km": 10,
+        "elevation_gain_m": 270,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月25日"
+      },
+      {
+        "name": "RUN 7",
+        "distance_km": 7,
+        "elevation_gain_m": 50,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "9月26日"
+      }
+    ],
+    "sources": [
+      "https://paraty.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Puerto Vallarta by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页各组 Registrations open。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "mx-vallarta-2027",
+    "name_zh": "巴亚尔塔港 by UTMB 2027",
+    "country": "墨西哥",
+    "region": "巴亚尔塔港",
+    "date_start": "2027-03-05",
+    "date_end": "2027-03-06",
+    "official_url": "https://puerto-vallarta.utmb.world",
+    "registration_url": "https://puerto-vallarta.utmb.world",
+    "categories": [
+      {
+        "name": "81公里",
+        "distance_km": 81,
+        "elevation_gain_m": 3900,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "3月5日。卡片未给组别品牌名"
+      },
+      {
+        "name": "53公里",
+        "distance_km": 53,
+        "elevation_gain_m": 2500,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "3月5日"
+      },
+      {
+        "name": "37公里",
+        "distance_km": 37,
+        "elevation_gain_m": 1600,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "3月6日"
+      },
+      {
+        "name": "20公里",
+        "distance_km": 20,
+        "elevation_gain_m": 1050,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "3月6日"
+      },
+      {
+        "name": "5公里",
+        "distance_km": 5,
+        "elevation_gain_m": 200,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "3月6日"
+      }
+    ],
+    "sources": [
+      "https://puerto-vallarta.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Restonica Trail by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页各组 Registrations open。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "fr-restonica-2027",
+    "name_zh": "雷斯托尼卡越野 by UTMB 2027",
+    "country": "法国",
+    "region": "Restonica",
+    "date_start": "2027-07-07",
+    "date_end": "2027-07-10",
+    "official_url": "https://restonica.utmb.world",
+    "registration_url": "https://restonica.utmb.world",
+    "categories": [
+      {
+        "name": "UTC100M",
+        "distance_km": 110,
+        "elevation_gain_m": 7200,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月8日。组别名100M，卡片110公里"
+      },
+      {
+        "name": "RT100K",
+        "distance_km": 69,
+        "elevation_gain_m": 3950,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月10日。组别名100K，卡片69公里"
+      },
+      {
+        "name": "PM50K",
+        "distance_km": 52,
+        "elevation_gain_m": 2900,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月7日"
+      },
+      {
+        "name": "TT50K",
+        "distance_km": 33,
+        "elevation_gain_m": 2400,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月10日"
+      },
+      {
+        "name": "GT20K",
+        "distance_km": 17,
+        "elevation_gain_m": 650,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月9日"
+      }
+    ],
+    "sources": [
+      "https://restonica.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Rothrock by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页两组 Registrations open。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "us-rothrock-2027",
+    "name_zh": "罗斯罗克 by UTMB 2027",
+    "country": "美国",
+    "region": "宾夕法尼亚州中部·Rothrock State Forest",
+    "date_start": "2027-05-15",
+    "date_end": "2027-05-16",
+    "official_url": "https://rothrock.utmb.world",
+    "registration_url": "https://rothrock.utmb.world",
+    "categories": [
+      {
+        "name": "50K",
+        "distance_km": 53.3,
+        "elevation_gain_m": 1550,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月15日"
+      },
+      {
+        "name": "25K",
+        "distance_km": 26.9,
+        "elevation_gain_m": 1188,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月16日"
+      }
+    ],
+    "sources": [
+      "https://rothrock.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Eryri by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页各组 Registrations open。站点域名为 snowdonia.utmb.world，标题为 Eryri。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "gb-eryri-2027",
+    "name_zh": "艾里利 by UTMB 2027",
+    "country": "英国",
+    "region": "威尔士·Eryri",
+    "date_start": "2027-05-14",
+    "date_end": "2027-05-16",
+    "official_url": "https://snowdonia.utmb.world",
+    "registration_url": "https://snowdonia.utmb.world",
+    "categories": [
+      {
+        "name": "Eryri 100M",
+        "distance_km": 163,
+        "elevation_gain_m": 9200,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月14日"
+      },
+      {
+        "name": "Eryri 100K",
+        "distance_km": 108,
+        "elevation_gain_m": 5800,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月15日"
+      },
+      {
+        "name": "Eryri 80K",
+        "distance_km": 78,
+        "elevation_gain_m": 2500,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月14日"
+      },
+      {
+        "name": "Eryri 50K",
+        "distance_km": 56,
+        "elevation_gain_m": 3400,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月15日"
+      },
+      {
+        "name": "Eryri 25K",
+        "distance_km": 25,
+        "elevation_gain_m": 1300,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月16日"
+      }
+    ],
+    "sources": [
+      "https://snowdonia.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Speedgoat Mountain Races by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页各组 Registrations open。Race Reminder 称需要技术地形经验，官网首页摘录未写该句，不写入硬性条件。州名未出现在已读摘要里。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "us-speedgoat-2027",
+    "name_zh": "速度山羊山地赛 by UTMB 2027",
+    "country": "美国",
+    "region": null,
+    "date_start": "2027-07-23",
+    "date_end": "2027-07-24",
+    "official_url": "https://speedgoat.utmb.world/",
+    "registration_url": "https://speedgoat.utmb.world/",
+    "categories": [
+      {
+        "name": "50K",
+        "distance_km": 50,
+        "elevation_gain_m": 3450,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月24日"
+      },
+      {
+        "name": "30K",
+        "distance_km": 31,
+        "elevation_gain_m": 2000,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月23日"
+      },
+      {
+        "name": "10K",
+        "distance_km": 10,
+        "elevation_gain_m": 500,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月23日"
+      },
+      {
+        "name": "5.6公里",
+        "distance_km": 5.6,
+        "elevation_gain_m": 921,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月24日。卡片未给组别名"
+      }
+    ],
+    "sources": [
+      "https://speedgoat.utmb.world/"
+    ]
+  },
+  {
+    "name_en": "Tenerife Bluetrail by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "个人长距离在2026-11-10的首页均标 Full。仍开放的是47公里接力与垂直夜赛。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "es-tenerife-2027",
+    "name_zh": "特内里费蓝径 by UTMB 2027",
+    "country": "西班牙",
+    "region": "加那利群岛·特内里费·泰德",
+    "date_start": "2027-04-08",
+    "date_end": "2027-04-10",
+    "official_url": "https://tenerife.utmb.world",
+    "registration_url": "https://tenerife.utmb.world",
+    "categories": [
+      {
+        "name": "110k",
+        "distance_km": 110,
+        "elevation_gain_m": 6250,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "4月9日 Full"
+      },
+      {
+        "name": "82k",
+        "distance_km": 82,
+        "elevation_gain_m": 3300,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "4月10日 Full"
+      },
+      {
+        "name": "68k",
+        "distance_km": 68,
+        "elevation_gain_m": 3600,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "4月9日 Full"
+      },
+      {
+        "name": "47k",
+        "distance_km": 47,
+        "elevation_gain_m": 2600,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "4月10日 Full"
+      },
+      {
+        "name": "24k",
+        "distance_km": 24,
+        "elevation_gain_m": 1300,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "4月10日 Full"
+      },
+      {
+        "name": "47k接力",
+        "distance_km": 47,
+        "elevation_gain_m": 2600,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "4月10日 Registrations open"
+      },
+      {
+        "name": "VERTICAL NIGHT CHALLENGE",
+        "distance_km": 6.5,
+        "elevation_gain_m": 850,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "4月8日 Registrations open"
+      }
+    ],
+    "sources": [
+      "https://tenerife.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Torrencial Chile by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页各组 Registrations open。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "cl-torrencial-2027",
+    "name_zh": "智利激流 by UTMB 2027",
+    "country": "智利",
+    "region": "智利南部",
+    "date_start": "2027-06-24",
+    "date_end": "2027-06-27",
+    "official_url": "https://torrencial.utmb.world",
+    "registration_url": "https://torrencial.utmb.world",
+    "categories": [
+      {
+        "name": "101公里",
+        "distance_km": 101,
+        "elevation_gain_m": 4100,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月24日。卡片未给品牌名"
+      },
+      {
+        "name": "65公里",
+        "distance_km": 65,
+        "elevation_gain_m": 2600,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月25日"
+      },
+      {
+        "name": "45公里",
+        "distance_km": 45,
+        "elevation_gain_m": 1600,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月27日"
+      },
+      {
+        "name": "20公里",
+        "distance_km": 20,
+        "elevation_gain_m": 800,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月27日"
+      },
+      {
+        "name": "CAU CAU 12K NOCTURNO",
+        "distance_km": 12,
+        "elevation_gain_m": 400,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月26日"
+      },
+      {
+        "name": "ISLA TEJA 6K",
+        "distance_km": 6.5,
+        "elevation_gain_m": 200,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月26日"
+      }
+    ],
+    "sources": [
+      "https://torrencial.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Trail Verbier St-Bernard by UTMB 2027",
+    "registration_open": "2026-10-06",
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "页面写 Index 持有者2026-10-06 10:00开放，一般报名10-08 10:00（GMT+2）。11月10日首页仍有多个距离开放，马拉松两个距离为 Full。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "ch-verbier-2027",
+    "name_zh": "韦尔比耶圣伯纳德越野 by UTMB 2027",
+    "country": "瑞士",
+    "region": "韦尔比耶 Verbier",
+    "date_start": "2027-07-09",
+    "date_end": "2027-07-11",
+    "official_url": "https://verbier.utmb.world",
+    "registration_url": "https://verbier.utmb.world",
+    "categories": [
+      {
+        "name": "X-Alpine",
+        "distance_km": 140,
+        "elevation_gain_m": 9300,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月9日 Registrations open"
+      },
+      {
+        "name": "X-Traversee",
+        "distance_km": 77,
+        "elevation_gain_m": 5300,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月10日 Registrations open"
+      },
+      {
+        "name": "Verbier Marathon",
+        "distance_km": 47,
+        "elevation_gain_m": 2900,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月9日 Full"
+      },
+      {
+        "name": "Verbier Marathon X-Treme",
+        "distance_km": 43,
+        "elevation_gain_m": 3000,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月9日 Full"
+      },
+      {
+        "name": "Verbier X-Plore",
+        "distance_km": 28,
+        "elevation_gain_m": 1700,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月11日 Registrations open"
+      },
+      {
+        "name": "Trail Découverte",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月11日 Registrations open，卡片未给出距离"
+      },
+      {
+        "name": "X-Orient",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月11日，起点 Verbier，距离未在摘录中出现"
+      }
+    ],
+    "sources": [
+      "https://verbier.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Ultra Trail Whistler by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "首页各组 Registrations open。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "ca-whistler-2027",
+    "name_zh": "惠斯勒超级越野 by UTMB 2027",
+    "country": "加拿大",
+    "region": "不列颠哥伦比亚·惠斯勒",
+    "date_start": "2027-06-26",
+    "date_end": "2027-06-27",
+    "official_url": "https://whistler.utmb.world",
+    "registration_url": "https://whistler.utmb.world",
+    "categories": [
+      {
+        "name": "100K",
+        "distance_km": 100,
+        "elevation_gain_m": 5100,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月26日"
+      },
+      {
+        "name": "50K",
+        "distance_km": 50,
+        "elevation_gain_m": 2942,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月26日"
+      },
+      {
+        "name": "25K",
+        "distance_km": 26,
+        "elevation_gain_m": 1500,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月27日"
+      },
+      {
+        "name": "10K",
+        "distance_km": 12,
+        "elevation_gain_m": 550,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "6月27日"
+      }
+    ],
+    "sources": [
+      "https://whistler.utmb.world"
+    ]
+  },
+  {
+    "name_en": "Monterosa Walserwaeg by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "除4公里为 Opening soon 外，首页均 Registrations open。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "it-monterosa-2027",
+    "name_zh": "玫瑰峰瓦尔泽之路 by UTMB 2027",
+    "country": "意大利",
+    "region": "意大利阿尔卑斯·玫瑰峰",
+    "date_start": "2027-07-16",
+    "date_end": "2027-07-18",
+    "official_url": "https://mrww.utmb.world/",
+    "registration_url": "https://mrww.utmb.world/",
+    "categories": [
+      {
+        "name": "120公里",
+        "distance_km": 120,
+        "elevation_gain_m": 8200,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月16日 Registrations open。卡片未给组别名"
+      },
+      {
+        "name": "82公里",
+        "distance_km": 82,
+        "elevation_gain_m": 6300,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月16日"
+      },
+      {
+        "name": "43公里",
+        "distance_km": 43,
+        "elevation_gain_m": 3100,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月17日"
+      },
+      {
+        "name": "35公里",
+        "distance_km": 35,
+        "elevation_gain_m": 1800,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月16日"
+      },
+      {
+        "name": "15公里",
+        "distance_km": 15,
+        "elevation_gain_m": 650,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月18日"
+      },
+      {
+        "name": "9公里",
+        "distance_km": 9,
+        "elevation_gain_m": 600,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月18日"
+      },
+      {
+        "name": "4公里",
+        "distance_km": 4,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "7月16日 Opening soon"
+      }
+    ],
+    "sources": [
+      "https://mrww.utmb.world/"
+    ]
+  },
+  {
+    "name_en": "Trail Alsace by UTMB 2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "11月10日仅158公里与10.5公里仍开放。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-10",
+    "id": "fr-alsace-2027",
+    "name_zh": "阿尔萨斯越野 by UTMB 2027",
+    "country": "法国",
+    "region": "阿尔萨斯",
+    "date_start": "2027-05-14",
+    "date_end": "2027-05-16",
+    "official_url": "https://alsace.utmb.world",
+    "registration_url": "https://alsace.utmb.world",
+    "categories": [
+      {
+        "name": "Ultra-Trail des Chevaliers",
+        "distance_km": 158,
+        "elevation_gain_m": 5100,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月14日 Registrations open"
+      },
+      {
+        "name": "Ultra-Trail des Païens",
+        "distance_km": 108,
+        "elevation_gain_m": 3900,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月14日 Full"
+      },
+      {
+        "name": "Trail des Celtes",
+        "distance_km": 47,
+        "elevation_gain_m": 1600,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月16日 Full"
+      },
+      {
+        "name": "Trail des Pèlerins",
+        "distance_km": 29,
+        "elevation_gain_m": 800,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月15日 Full"
+      },
+      {
+        "name": "Ronde des Pages",
+        "distance_km": 18,
+        "elevation_gain_m": 250,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月15日 Full"
+      },
+      {
+        "name": "Trail des Ecuyers",
+        "distance_km": 10.5,
+        "elevation_gain_m": 400,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "5月15日 Registrations open"
+      }
+    ],
+    "sources": [
+      "https://alsace.utmb.world"
+    ]
+  },
+  {
+    "name_en": "DEEP JAPAN ULTRA 2027",
+    "registration_open": "2026-09-25",
+    "registration_close": "2027-02-26",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": "报到与博览会在汤泽町主水公园旧汤泽小学体育馆（汤泽361-1）。比赛相关地点含鱼沼市大栃山入广濑体育中心。英文公告写越后汤泽站有须预约的接驳，赛场无选手停车。",
+    "scale_total": null,
+    "entry_requirements": "报名2026-09-25 12:00至2027-02-26 23:59，额满即止。通过 RUNNET，无当日报名。160公里赛道与2026年不同，中途不能改到130公里。资格细节在各距离页面，本次未逐页抄录。",
+    "mandatory_gear": "概要页指向竞赛规则中的服装与携带物，本次未逐项抄录。",
+    "sponsors": null,
+    "organizer": "DEEP JAPAN ULTRA",
+    "last_checked": "2026-11-10",
+    "id": "jp-deep-japan-2027",
+    "name_zh": "深度日本超级越野 2027",
+    "country": "日本",
+    "region": "新潟县鱼沼市、长冈市、三条市、加茂市；报到在汤泽町",
+    "date_start": "2027-06-25",
+    "date_end": "2027-06-27",
+    "official_url": "https://www.deepjapanultra.com/overview",
+    "registration_url": "https://www.deepjapanultra.com/blog-en/deep2027",
+    "categories": [
+      {
+        "name": "DEEP JAPAN 160km",
+        "distance_km": 160,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": "220人",
+        "fee": null,
+        "itra_points": "ITRA 6分；UTMB Index 100M",
+        "notes": "概要页未给爬升与费用，费用指引到分距离页面"
+      },
+      {
+        "name": "UONUMA 80km",
+        "distance_km": 80,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": "220人",
+        "fee": null,
+        "itra_points": "ITRA 4分；Index 100K",
+        "notes": null
+      },
+      {
+        "name": "SUMON 30km",
+        "distance_km": 30,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": "50人",
+        "fee": null,
+        "itra_points": "ITRA 2分；Index 20K",
+        "notes": null
+      }
+    ],
+    "sources": [
+      "https://www.deepjapanultra.com/overview",
+      "https://www.deepjapanultra.com/blog-en/deep2027"
+    ]
+  },
+  {
+    "name_en": "Black Canyon Ultras 2027",
+    "registration_open": null,
+    "registration_close": "2027-02-01",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": "100K起点 Mayer High School，17300 E Mule Deer Dr。100K终点 Emery Henderson Trailhead；50K终点 Deep Canyon Ranch。",
+    "scale_total": null,
+    "entry_requirements": "UltraSignup 写报名截止2027-02-01 23:59 MT，页面仍为 Register Now。第三方 My Dream Race 于2026-11-09称100K已满并有候补、50K仍有名额；官网价格页没有写售罄。100K前三名男女获得2027西部州直通。补给站冷饮无杯子。",
+    "mandatory_gear": null,
+    "sponsors": [
+      "HOKA"
+    ],
+    "organizer": "Aravaipa Running",
+    "last_checked": "2026-11-10",
+    "id": "us-black-canyon-2027",
+    "name_zh": "黑峡谷超级越野 2027",
+    "country": "美国",
+    "region": "亚利桑那·Mayer / Spring Valley 至 New River",
+    "date_start": "2027-02-13",
+    "date_end": "2027-02-14",
+    "official_url": "https://www.aravaiparunning.com/blackcanyon/",
+    "registration_url": "https://ultrasignup.com/register.aspx?did=137436",
+    "categories": [
+      {
+        "name": "100K",
+        "distance_km": 100,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": "1200人",
+        "fee": {
+          "amount": 365,
+          "currency": "USD",
+          "notes": "7月1日起的价格，12月1日起改为380。不含税和UltraSignup手续费。早鸟曾为350"
+        },
+        "itra_points": null,
+        "notes": "2月13日 7:00/7:30/8:00 MST。官网估计爬升+5219英尺、下降7337英尺，未换算成米。WSER资格赛要求17小时内跑完，这是资格时限不是赛事关门"
+      },
+      {
+        "name": "50K",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": "1200人",
+        "fee": {
+          "amount": 265,
+          "currency": "USD",
+          "notes": "7月1日起，12月1日起280。早鸟曾为250"
+        },
+        "itra_points": null,
+        "notes": "2月14日同样三波。官网估计爬升+2004英尺。实测公里未在已读段落写出"
+      }
+    ],
+    "sources": [
+      "https://www.aravaiparunning.com/blackcanyon/",
+      "https://ultrasignup.com/register.aspx?did=137436"
+    ]
+  },
+  {
+    "name_en": "Swiss Irontrail 2027",
+    "registration_open": null,
+    "registration_close": "2027-08-09",
+    "late_registration": {
+      "enabled": true,
+      "window": "2027-08-10/2027-08-13",
+      "notes": "个性化号码布网上报名到2027-08-09 24:00。08-10至08-13仍可网上晚报名，号码不再个性化。此后现场补报或改项 CHF 10，仅现金或TWINT。"
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "报名由 Datasport 处理。报名页把个性化截止写在2027-08-09，网上晚报名到08-13。不因伤病退费，也不顺延到下一年；可另买取消保险。改到他人或另一距离在8月12日24:00前可自行网上办理，手续费CHF 20。费用金额本次报名页摘录没有列出。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "Swiss Irontrail",
+    "last_checked": "2026-11-10",
+    "id": "ch-swiss-iron-2027",
+    "name_zh": "瑞士铁人越野 2027",
+    "country": "瑞士",
+    "region": "格劳宾登·Val Surses·Savognin / Bivio",
+    "date_start": "2027-08-14",
+    "date_end": "2027-08-15",
+    "official_url": "https://www.irontrail.ch/en/",
+    "registration_url": "https://www.irontrail.ch/en/races-info/registration",
+    "categories": [
+      {
+        "name": "T78",
+        "distance_km": 78.0,
+        "elevation_gain_m": 4996,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "Savognin环线。+/- 4,996米"
+      },
+      {
+        "name": "T55",
+        "distance_km": 55.0,
+        "elevation_gain_m": 4199,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "Savognin至Bivio。爬升4199米，下降3610米"
+      },
+      {
+        "name": "T22",
+        "distance_km": 21.6,
+        "elevation_gain_m": 1229,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "Bivio环线越野跑"
+      },
+      {
+        "name": "H22",
+        "distance_km": 21.6,
+        "elevation_gain_m": 1229,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "同路线徒步，不是计时越野"
+      },
+      {
+        "name": "T20",
+        "distance_km": 20.2,
+        "elevation_gain_m": 1059,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "Savognin越野跑"
+      },
+      {
+        "name": "H20",
+        "distance_km": 20.2,
+        "elevation_gain_m": 1059,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "同路线徒步"
+      }
+    ],
+    "sources": [
+      "https://www.irontrail.ch/en/",
+      "https://www.irontrail.ch/en/races-info/registration"
+    ]
+  },
+  {
+    "name_en": "Québec Mega Trail 2027",
+    "registration_open": "2026-08-01",
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": null,
+    "scale_total": 4000,
+    "entry_requirements": "新闻稿写2026年8月1日8:00在 Race Roster 开放，共4000个号码布。不再用等候名单，改为三次集中再售：2026-12-16、2027-03-16、2027-05-16。Race Reminder 在检索日仍把它标为 open until full。各距离的公里、爬升和费用没有出现在这篇官方新闻里。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "Québec Mega Trail（Jean Fortier）",
+    "last_checked": "2026-11-10",
+    "id": "ca-qmt-2027",
+    "name_zh": "魁北克超级越野 2027",
+    "country": "加拿大",
+    "region": "魁北克",
+    "date_start": "2027-07-01",
+    "date_end": "2027-07-04",
+    "official_url": "https://ultratrailcanada.com/quebec-mega-trail-celebre-sa-15e-edition-avec-une-experience-bonifiee-et-ouvre-ses-inscriptions-le-1er-aout/",
+    "registration_url": "https://ultratrailcanada.com/quebec-mega-trail-celebre-sa-15e-edition-avec-une-experience-bonifiee-et-ouvre-ses-inscriptions-le-1er-aout/",
+    "categories": [
+      {
+        "name": "QMT50",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "新闻稿：冰破赛改到周五上午。名称含50，未另给实测公里，故距离留空"
+      },
+      {
+        "name": "QMT30",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "因2027黄金径世界系列日历未公布，不进入第一波报名"
+      }
+    ],
+    "sources": [
+      "https://ultratrailcanada.com/quebec-mega-trail-celebre-sa-15e-edition-avec-une-experience-bonifiee-et-ouvre-ses-inscriptions-le-1er-aout/"
     ]
   }
 ]
