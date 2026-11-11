@@ -48,7 +48,7 @@ node scripts/validate.mjs --date 2026-11-10
 `update-status.mjs` 的规则：
 
 - 截止日当天仍算开放。只有「今天 > `registration_close`」才关闭。
-- 若 `late_registration.enabled` 为真，且 `window` 字符串里最后一个 `YYYY-MM-DD`（或 `window.end`）仍不早于今天，状态改为 `late_open`，记录留在 `races.json`。
+- 若 `late_registration.enabled` 为真，且没有写出结束日，或 `window` 里最后一个 `YYYY-MM-DD`（或 `window.end`）仍不早于今天，主报名截止之后改为 `late_open`，记录留在 `races.json`。
 - 否则把记录从 `races.json` 移到 `archive.json`，`status` 改为 `closed`。
 - 没有截止日的记录不搬移。已售罄但页面没写截止日期的场次，需要人工放进档案。
 - 脚本不把档案里的比赛搬回来。

@@ -154,7 +154,8 @@ function checkRace(race, file, index, asOf) {
   const close = race.registration_close;
   const end = lateEnd(race.late_registration);
   if (file === "races.json" && close && asOf > close) {
-    if (!(end && asOf <= end)) {
+    const lateStillOpen = race.late_registration?.enabled === true && (!end || asOf <= end);
+    if (!lateStillOpen) {
       fail(`${where} 报名截止 ${close} 早于 ${asOf}，且补录窗口已过或未设，应移入档案`);
     } else if (race.status !== "late_open") {
       fail(`${where} 处于补录窗口，status 应为 late_open`);

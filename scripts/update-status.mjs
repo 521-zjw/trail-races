@@ -2,7 +2,7 @@
 /**
  * 按给定日期更新报名状态。
  * 截止日当天仍算报名中（日期比较为“今天 > 截止日”才关闭）。
- * 若 late_registration.enabled 且 window 里最晚的 YYYY-MM-DD 仍 ≥ 今天，标为 late_open，不进档案。
+ * 若 late_registration.enabled 且没有结束日，或 window 里最晚的 YYYY-MM-DD 仍 ≥ 今天，标为 late_open，不进档案。
  * 没有截止日的记录保持原状态（例如已售罄后的慈善号码布、尚未公布日期的赛事）。
  *
  * 用法：
@@ -52,7 +52,7 @@ export function nextStatus(race, asOf) {
   const open = race.registration_open;
   const end = lateEnd(race.late_registration);
   if (close && asOf > close) {
-    if (end && asOf <= end) return "late_open";
+    if (race.late_registration?.enabled && (!end || asOf <= end)) return "late_open";
     return "closed";
   }
   if (race.late_registration?.enabled && !close) return "late_open";

@@ -397,7 +397,7 @@
     "mandatory_gear": "须携带强制装备，本次未逐项抄录。",
     "sponsors": null,
     "organizer": "UTMB World Series",
-    "last_checked": "2026-11-10",
+    "last_checked": "2026-11-12",
     "id": "au-kosciuszko-2026",
     "name_zh": "科修斯科超级越野 by UTMB 2026",
     "country": "澳大利亚",
@@ -410,8 +410,8 @@
     "categories": [
       {
         "name": "KosciMiler",
-        "distance_km": null,
-        "elevation_gain_m": null,
+        "distance_km": 160.5,
+        "elevation_gain_m": 4731,
         "cutoff_hours": null,
         "quota_or_entrants": null,
         "fee": {
@@ -420,12 +420,12 @@
           "notes": "含手续费与GST。页面标 SOLD OUT"
         },
         "itra_points": null,
-        "notes": "11月27日03:00。100英里，未换算"
+        "notes": "11月27日。首页标 Full。100英里实测160.5公里，爬升4731米+"
       },
       {
         "name": "Kosci100",
-        "distance_km": null,
-        "elevation_gain_m": null,
+        "distance_km": 105.6,
+        "elevation_gain_m": 2973,
         "cutoff_hours": null,
         "quota_or_entrants": null,
         "fee": {
@@ -434,12 +434,12 @@
           "notes": "SOLD OUT"
         },
         "itra_points": null,
-        "notes": "11月27日07:30"
+        "notes": "首页标 Full。105.6公里，爬升2973米+"
       },
       {
         "name": "Kosci50",
-        "distance_km": null,
-        "elevation_gain_m": null,
+        "distance_km": 50.3,
+        "elevation_gain_m": 1355,
         "cutoff_hours": null,
         "quota_or_entrants": null,
         "fee": {
@@ -448,12 +448,12 @@
           "notes": "SOLD OUT"
         },
         "itra_points": null,
-        "notes": "11月26日07:00"
+        "notes": "11月26日07:00。首页标 Full。50.3公里，爬升1355米+"
       },
       {
         "name": "Kosci30",
-        "distance_km": null,
-        "elevation_gain_m": null,
+        "distance_km": 33,
+        "elevation_gain_m": 596,
         "cutoff_hours": null,
         "quota_or_entrants": null,
         "fee": {
@@ -462,11 +462,12 @@
           "notes": "SOLD OUT"
         },
         "itra_points": null,
-        "notes": "11月26日10:00"
+        "notes": "11月26日10:00。首页标 Full。33公里，爬升596米+"
       }
     ],
     "sources": [
-      "https://kosciuszko.utmb.world/runners/entry-info"
+      "https://kosciuszko.utmb.world/runners/entry-info",
+      "https://kosciuszko.utmb.world/"
     ]
   },
   {
@@ -689,7 +690,7 @@
     "mandatory_gear": null,
     "sponsors": null,
     "organizer": "UTMB World Series",
-    "last_checked": "2026-11-11",
+    "last_checked": "2026-11-12",
     "id": "ar-bariloche-2026",
     "name_zh": "巴塔哥尼亚巴里洛切 by UTMB 2026",
     "country": "阿根廷",
@@ -710,59 +711,60 @@
         "notes": "首页卡片日期11月20日，标 Full"
       },
       {
-        "name": "88公里组",
+        "name": "FREY 85K",
         "distance_km": 88,
         "elevation_gain_m": 4760,
         "cutoff_hours": null,
         "quota_or_entrants": null,
         "fee": null,
         "itra_points": null,
-        "notes": "首页未给出组别品牌名，与130K同页且整体显示已满"
+        "notes": "UTMB赛事列表名为 FREY 85K，对应首页88公里、爬升4760米+。列表页未重复 Full，主页该距离在已满的一组里"
       },
       {
-        "name": "57.5公里组",
+        "name": "BELLA VISTA 55K",
         "distance_km": 57.5,
         "elevation_gain_m": 3000,
         "cutoff_hours": null,
         "quota_or_entrants": null,
         "fee": null,
         "itra_points": null,
-        "notes": "组别名未在摘录中出现"
+        "notes": "列表名为 BELLA VISTA 55K，对应57.5公里、爬升3000米+"
       },
       {
-        "name": "35公里组",
+        "name": "NAHUEL HUAPI 33K",
         "distance_km": 35,
         "elevation_gain_m": 1425,
         "cutoff_hours": null,
         "quota_or_entrants": null,
         "fee": null,
         "itra_points": null,
-        "notes": null
+        "notes": "列表名为 NAHUEL HUAPI 33K，对应35公里、爬升1425米+"
       },
       {
-        "name": "22公里组",
+        "name": "CERRO LINDO 22K",
         "distance_km": 22,
         "elevation_gain_m": 985,
         "cutoff_hours": null,
         "quota_or_entrants": null,
         "fee": null,
         "itra_points": null,
-        "notes": null
+        "notes": "列表名为 CERRO LINDO 22K，对应22公里、爬升985米+"
       },
       {
-        "name": "12.7公里组",
+        "name": "OTTO 12K",
         "distance_km": 12.7,
         "elevation_gain_m": null,
         "cutoff_hours": null,
         "quota_or_entrants": null,
         "fee": null,
         "itra_points": null,
-        "notes": "首页标 Full，爬升未摘到"
+        "notes": "列表名为 OTTO 12K。首页标 Full，12.7公里，爬升未摘到"
       }
     ],
     "sources": [
       "https://bariloche.utmb.world/",
-      "https://utmb.world/news/event-november-2026"
+      "https://utmb.world/news/event-november-2026",
+      "https://utmb.world/fr/utmb-world-series-events"
     ]
   },
   {
@@ -817,6 +819,137 @@
     "sources": [
       "https://pacifictrails.utmb.world/",
       "https://utmb.world/news/event-november-2026"
+    ]
+  },
+  {
+    "name_en": "Chiang Mai Thailand by UTMB 2026",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "2026-11-12 赛页上 PAGODA 50日夜、INTHANON 20、热身、ELEPHANT 100、CHIANG DAO 160、HMONG 50日夜、SUTHEP 20日夜、CHEDI 20 全部标 Registrations closed。11月10日部分组别曾显示开放。新闻稿仍写11月27日至12月6日、近11000人、女性约36%，50K/100K/100M前10名男女可直通UTMB决赛并双倍Running Stones。各卡片没有给出实测公里和爬升。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-12",
+    "id": "th-chiangmai-2026",
+    "name_zh": "清迈 / 因他农 by UTMB 2026",
+    "country": "泰国",
+    "region": "清迈·因他农",
+    "date_start": "2026-11-28",
+    "date_end": "2026-12-06",
+    "official_url": "https://chiangmai.utmb.world/races",
+    "registration_url": "https://chiangmai.utmb.world/races",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "PAGODA 50-DAY",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "11月28日，因他农国家公园总部。Registrations closed"
+      },
+      {
+        "name": "PAGODA 50-NIGHT",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "11月28日，因他农国家公园总部。Registrations closed"
+      },
+      {
+        "name": "INTHANON 20",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "11月29日，因他农国家公园总部。Registrations closed"
+      },
+      {
+        "name": "ELEPHANT 100",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "12月4日，Wat Nhong Bua Noi。Registrations closed"
+      },
+      {
+        "name": "CHIANG DAO 160",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "12月4日，Wat Tham Chiang Dao。Registrations closed"
+      },
+      {
+        "name": "HMONG 50-DAY",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "12月5日，清迈PAO Park。Registrations closed"
+      },
+      {
+        "name": "HMONG 50-NIGHT",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "12月5日，清迈PAO Park。Registrations closed"
+      },
+      {
+        "name": "SUTHEP 20-NIGHT",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "12月5日，清迈PAO Park。Registrations closed"
+      },
+      {
+        "name": "SUTHEP 20-DAY",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "12月6日，清迈PAO Park。Registrations closed"
+      },
+      {
+        "name": "CHEDI 20",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "12月6日，清迈PAO Park。Registrations closed"
+      }
+    ],
+    "sources": [
+      "https://chiangmai.utmb.world/races"
     ]
   }
 ]

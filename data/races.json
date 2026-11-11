@@ -2658,137 +2658,6 @@
     ]
   },
   {
-    "name_en": "Chiang Mai Thailand by UTMB 2026",
-    "registration_open": null,
-    "registration_close": null,
-    "late_registration": {
-      "enabled": false,
-      "window": null,
-      "notes": null
-    },
-    "transport": null,
-    "scale_total": null,
-    "entry_requirements": "赛页对部分组别明确标 Registrations open。距离、爬升、费用与关门本次赛页摘录没有给出，全部留空。",
-    "mandatory_gear": null,
-    "sponsors": null,
-    "organizer": "UTMB World Series",
-    "last_checked": "2026-11-10",
-    "id": "th-chiangmai-2026",
-    "name_zh": "清迈 / 因他农 by UTMB 2026",
-    "country": "泰国",
-    "region": "清迈·因他农",
-    "date_start": "2026-11-28",
-    "date_end": "2026-12-06",
-    "official_url": "https://chiangmai.utmb.world/races",
-    "registration_url": "https://chiangmai.utmb.world/races",
-    "status": "open",
-    "categories": [
-      {
-        "name": "PAGODA 50-DAY",
-        "distance_km": null,
-        "elevation_gain_m": null,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "11月28日，因他农国家公园总部。赛页标 Registrations open。名称中的50未改写成公里"
-      },
-      {
-        "name": "PAGODA 50-NIGHT",
-        "distance_km": null,
-        "elevation_gain_m": null,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "11月28日，Registrations open"
-      },
-      {
-        "name": "INTHANON 20",
-        "distance_km": null,
-        "elevation_gain_m": null,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "11月29日"
-      },
-      {
-        "name": "ELEPHANT 100",
-        "distance_km": null,
-        "elevation_gain_m": null,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "12月4日。赛页摘录未重复“Registrations open”字样"
-      },
-      {
-        "name": "CHIANG DAO 160",
-        "distance_km": null,
-        "elevation_gain_m": null,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "12月4日"
-      },
-      {
-        "name": "HMONG 50-DAY",
-        "distance_km": null,
-        "elevation_gain_m": null,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "12月5日"
-      },
-      {
-        "name": "HMONG 50-NIGHT",
-        "distance_km": null,
-        "elevation_gain_m": null,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "12月5日"
-      },
-      {
-        "name": "SUTHEP 20-NIGHT",
-        "distance_km": null,
-        "elevation_gain_m": null,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "12月5日"
-      },
-      {
-        "name": "SUTHEP 20-DAY",
-        "distance_km": null,
-        "elevation_gain_m": null,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "12月6日"
-      },
-      {
-        "name": "CHEDI 20",
-        "distance_km": null,
-        "elevation_gain_m": null,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "12月6日清迈PAO Park，赛页标 Registrations open"
-      }
-    ],
-    "sources": [
-      "https://chiangmai.utmb.world/races"
-    ]
-  },
-  {
     "name_en": "Amazean Jungle Thailand by UTMB 2027",
     "registration_open": "2026-10-21",
     "registration_close": null,
@@ -3082,8 +2951,8 @@
   },
   {
     "name_en": "Kullamannen by UTMB 2027",
-    "registration_open": null,
-    "registration_close": null,
+    "registration_open": "2026-11-10",
+    "registration_close": "2027-10-10",
     "late_registration": {
       "enabled": false,
       "window": null,
@@ -3091,11 +2960,11 @@
     },
     "transport": null,
     "scale_total": null,
-    "entry_requirements": "首页标 Opening soon。报名子页仍残留2025/2026年的开放与退费日期（例如写到2026-10-10），与2027首页冲突，本条不采用那些旧日期。UTMB开放报名列表将Mölle标为2027-11-05至11-06、Opening soon。",
+    "entry_requirements": "首页2026-11-12标 Registrations open。优先报名2026-11-10至11-12 14:00 CET，仅限有效UTMB Index；100英里、100公里、50公里的优先名额已售罄。一般报名2026-11-12 14:00 CET起，至2027-10-10或售罄，无候补。100英里/100公里/50公里最低出生年2009；20公里最低2011，16–17岁只能报20公里。不要求体检证明。号码不可转让；改更短距离可到2027-10-15。20公里不退费；其余在2027-07-04前退60%，09-04前退30%。",
     "mandatory_gear": null,
     "sponsors": null,
     "organizer": "UTMB World Series",
-    "last_checked": "2026-11-10",
+    "last_checked": "2026-11-12",
     "id": "se-kullamannen-2027",
     "name_zh": "Kullamannen by UTMB 2027",
     "country": "瑞典",
@@ -3103,8 +2972,8 @@
     "date_start": "2027-11-05",
     "date_end": "2027-11-06",
     "official_url": "https://kullamannen.utmb.world/",
-    "registration_url": "https://kullamannen.utmb.world/",
-    "status": "upcoming_unknown",
+    "registration_url": "https://kullamannen.utmb.world/registration",
+    "status": "open",
     "categories": [
       {
         "name": "Ultra 100 Miles",
@@ -3112,39 +2981,55 @@
         "elevation_gain_m": 2020,
         "cutoff_hours": null,
         "quota_or_entrants": null,
-        "fee": null,
+        "fee": {
+          "amount": 3704.66,
+          "currency": "SEK",
+          "notes": "优先名额已售罄。此为一般报名下一档，含手续费与增值税。页面写 SEK3,704.66"
+        },
         "itra_points": null,
-        "notes": "首页：168公里、爬升2020米+，4枚Running Stones，标 Opening soon，日期5 November 2027"
+        "notes": "4枚Running Stones。完赛戒指。爬升为官网 M+"
       },
       {
-        "name": "100K档",
+        "name": "Sprint Ultra",
         "distance_km": 108,
         "elevation_gain_m": 749,
         "cutoff_hours": null,
         "quota_or_entrants": null,
-        "fee": null,
+        "fee": {
+          "amount": 2764.43,
+          "currency": "SEK",
+          "notes": "优先名额已售罄，此为下一档。页面写作 SEK 2,764,43"
+        },
         "itra_points": null,
-        "notes": "首页未在摘录中写出组别全名，距离108公里、爬升749米+，3枚Running Stones"
+        "notes": "报名页称100KM。3枚Running Stones"
       },
       {
-        "name": "50K档",
+        "name": "Seventh Seal",
         "distance_km": 53,
         "elevation_gain_m": 727,
         "cutoff_hours": null,
         "quota_or_entrants": null,
-        "fee": null,
+        "fee": {
+          "amount": 2377.55,
+          "currency": "SEK",
+          "notes": "优先名额已售罄，此为下一档"
+        },
         "itra_points": null,
-        "notes": "53公里、727米+"
+        "notes": "报名页称50KM，首页距离53公里"
       },
       {
-        "name": "20K档",
+        "name": "North Shore",
         "distance_km": 22,
         "elevation_gain_m": 96,
         "cutoff_hours": null,
         "quota_or_entrants": null,
-        "fee": null,
+        "fee": {
+          "amount": 1327.11,
+          "currency": "SEK",
+          "notes": "当前档；下一档1437.32"
+        },
         "itra_points": null,
-        "notes": "22公里、96米+"
+        "notes": "报名页称20KM，首页距离22公里。优先报名尚未标售罄"
       }
     ],
     "sources": [
@@ -6083,9 +5968,9 @@
     "registration_open": "2026-11-10",
     "registration_close": "2026-11-12",
     "late_registration": {
-      "enabled": false,
+      "enabled": true,
       "window": null,
-      "notes": "未中签者的号码布交易所计划于2026-11-12 15:00开放，11月11日当天尚未开始。"
+      "notes": "官网写号码布交易所于2026-11-12 15:00开放，没有写结束日。中签付款写到当天12:00，又写未在15:00前付款则取消。"
     },
     "status": "open",
     "transport": "Plourhan，位于圣布里厄与潘波勒之间，距 Binic-Étables-sur-Mer 约3公里，往 Lanvollon 方向。",
@@ -6109,7 +5994,7 @@
         "quota_or_entrants": null,
         "fee": null,
         "itra_points": null,
-        "notes": null
+        "notes": "挑战页写32公里次日出发，并写女性32公里计入 Ouest Trail Tour 首站。费用未单列。"
       },
       {
         "name": "15K",
@@ -6150,16 +6035,27 @@
         "fee": null,
         "itra_points": null,
         "notes": "预报名页面列出该名称，距离未写明"
+      },
+      {
+        "name": "Défi du Goëlo 42K",
+        "distance_km": 42,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "夜间10公里加次日32公里。出发：2027-02-06 19:20与02-07 08:30。页面标正在撰写，并出现35欧元与2027-01-25截止，和抽签页不一致，费用留空。强制装备写明头灯和生存毯。"
       }
     ],
-    "entry_requirements": "抽签预报名2026-11-07 12:00至11-10 12:00，免费，可报多个项目，也可2至10人组队。结果11月10日15:00以邮件或 Klikego 账户公布。中签者须在11月12日前完成付款；报名页同时写到11月12日12:00，以及未在11月12日15:00前付款会取消，两个时刻并存。成人须提交一年内有效的 Parcours de Prévention Santé，未成年人仍要体检证明，材料可补到12月24日。号码可邮寄。未中签者等待11月12日15:00的号码布交易所。",
+    "entry_requirements": "抽签预报名2026-11-07 12:00至11-10 12:00，结果11月10日15:00公布。中签者付款期为11月10日至11月12日12:00；同页又写未在11月12日15:00前付款则取消。未中签者可在11月12日15:00起的号码布交易所购买，结束日未公布。成人用一年内有效的PPS代替体检，未成年人仍要体检证明，材料可补到12月24日。42公里挑战页标“正在撰写”，另写报名截止2027-01-25、费用35欧元，并要求头灯和生存毯；与抽签页的11月12日付款截止不一致，35欧元不记入费用字段。",
     "mandatory_gear": null,
     "sponsors": null,
     "organizer": "Plourhan Sport Aventure",
     "sources": [
       "https://www.trail-glazig.com/",
-      "https://www.trail-glazig.com/inscription-2027"
+      "https://www.trail-glazig.com/inscription-2027",
+      "https://www.trail-glazig.com/defi-du-goel-42k"
     ],
-    "last_checked": "2026-11-11"
+    "last_checked": "2026-11-12"
   }
 ]
