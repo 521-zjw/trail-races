@@ -22,11 +22,46 @@
         "name": "Emma Bilham",
         "nationality": "瑞士",
         "notes": "女子。UTMB Index 667"
+      },
+      {
+        "name": "Zhengqiang Xiong",
+        "nationality": "中国",
+        "notes": "男子。WeRun 号码 8004"
+      },
+      {
+        "name": "Fuk Cheung Tsang",
+        "nationality": "中国香港",
+        "notes": "男子。WeRun 号码 8006"
+      },
+      {
+        "name": "Wang Meng",
+        "nationality": null,
+        "notes": "男子。WeRun 号码 8007。页面未写国籍"
+      },
+      {
+        "name": "Nicolas Raybaud",
+        "nationality": null,
+        "notes": "男子。WeRun 号码 8008。页面未写国籍"
+      },
+      {
+        "name": "Wenjing Yin",
+        "nationality": null,
+        "notes": "女子。WeRun 号码 8003。页面未写国籍"
+      },
+      {
+        "name": "Junyue Zheng",
+        "nationality": null,
+        "notes": "女子。WeRun 号码 8012。页面未写国籍"
+      },
+      {
+        "name": "Yuen Ting Ip",
+        "nationality": null,
+        "notes": "女子。WeRun 号码 8015。页面未写国籍"
       }
     ],
-    "source_url": "https://utmb.world/news/event-november-2026",
-    "last_checked": "2026-11-12",
-    "notes": "2026-11-05 UTMB 官方新闻点名的100K选手，不是完整出发名单。10月20日媒体曾写的 Zhengqiang Xiong、Fuk Cheung Tsang 未出现在这篇新闻里，本次不再保留。 2026-11-12 复核：精英页仍未渲染出姓名，未见更新的新闻稿。"
+    "source_url": "https://werun.hk/game/tl2026",
+    "last_checked": "2026-11-13",
+    "notes": "100K 名单合并 2026-11-05 UTMB 新闻与 2026-11-13 WeRun 赛前领先榜（带号码布）。WeRun 不是完整精英名单，只显示各组靠前号码。新闻稿里的 Damien Humbert 不在这份领先榜上。"
   },
   {
     "race_id": "hk-translantau-2026",
@@ -51,11 +86,41 @@
         "name": "Peng Tian",
         "nationality": "中国",
         "notes": "男子。UTMB Index 836。莫干山 by UTMB 100K 亚军"
+      },
+      {
+        "name": "Gediminas Grinius",
+        "nationality": null,
+        "notes": "男子。WeRun 号码 5002。页面未写国籍"
+      },
+      {
+        "name": "Alexandre Neyrinck",
+        "nationality": null,
+        "notes": "男子。WeRun 号码 5004。页面未写国籍"
+      },
+      {
+        "name": "Ka Keung Chan",
+        "nationality": null,
+        "notes": "男子。WeRun 号码 5008。页面未写国籍"
+      },
+      {
+        "name": "Junhui Liu",
+        "nationality": null,
+        "notes": "女子。WeRun 号码 5012。页面未写国籍"
+      },
+      {
+        "name": "Christine Hughes",
+        "nationality": null,
+        "notes": "女子。WeRun 号码 5013。页面未写国籍"
+      },
+      {
+        "name": "Tsz Kei Wong",
+        "nationality": null,
+        "notes": "女子。WeRun 号码 5014。页面未写国籍"
       }
     ],
-    "source_url": "https://utmb.world/news/event-november-2026",
-    "last_checked": "2026-11-12",
-    "notes": "2026-11-05 UTMB 官方新闻点名的50K选手，不是完整出发名单。 2026-11-12 复核：精英页仍未渲染出姓名，未见更新的新闻稿。"
+    "source_url": "https://werun.hk/game/tl2026",
+    "last_checked": "2026-11-13",
+    "notes": "50K 名单合并 UTMB 11 月 5 日新闻与 2026-11-13 WeRun 领先榜。Ki Chin Wong 在 WeRun 写作 Ki Chun Wong，号码 5005。不是完整名单。"
   },
   {
     "race_id": "th-chiangmai-2026",
@@ -108,7 +173,7 @@
       }
     ],
     "source_url": "https://utmb.world/news/event-november-2026",
-    "last_checked": "2026-11-12",
+    "last_checked": "2026-11-13",
     "notes": "2026-11-05 官方新闻写这些选手会参加清迈不同距离，但没有逐人标明组别。不是完整名单。 2026-11-12 复核：精英页仍未渲染出姓名，未见更新的新闻稿。"
   },
   {
@@ -122,7 +187,7 @@
       }
     ],
     "source_url": "https://utmb.world/news/event-november-2026",
-    "last_checked": "2026-11-12",
+    "last_checked": "2026-11-13",
     "notes": "官方新闻点名，不是完整名单。 2026-11-12 复核：精英页仍未渲染出姓名，未见更新的新闻稿。"
   },
   {
@@ -136,7 +201,7 @@
       }
     ],
     "source_url": "https://utmb.world/news/event-november-2026",
-    "last_checked": "2026-11-12",
+    "last_checked": "2026-11-13",
     "notes": "官方新闻点名。 2026-11-12 复核：精英页仍未渲染出姓名，未见更新的新闻稿。"
   },
   {
@@ -152,11 +217,66 @@
         "name": "Noam Franchi",
         "nationality": "法国",
         "notes": "UTMB Index 817。新闻稿只写他会出场，并提到2025年100英里第三，没有写2026组别"
+      },
+      {
+        "name": "Fernanda Maciel",
+        "nationality": "巴西",
+        "notes": "媒体称为国际精英，未写距离"
+      },
+      {
+        "name": "Remi Leroux",
+        "nationality": "加拿大",
+        "notes": "媒体称为国际精英，未写距离"
+      },
+      {
+        "name": "Rosana Buchauer",
+        "nationality": "德国",
+        "notes": "媒体称为国际精英，未写距离"
+      },
+      {
+        "name": "Riccardo Scalet",
+        "nationality": "意大利",
+        "notes": "媒体称为国际精英，未写距离"
+      },
+      {
+        "name": "Brian Palacios",
+        "nationality": "阿根廷",
+        "notes": "媒体称为本国选手，未写距离"
+      },
+      {
+        "name": "Javier Mariqueo",
+        "nationality": "阿根廷",
+        "notes": "媒体称为本国选手，未写距离"
+      },
+      {
+        "name": "Ezequiel Pauluzak",
+        "nationality": "阿根廷",
+        "notes": "媒体称为本国选手，未写距离"
+      },
+      {
+        "name": "María Silvina Pérez",
+        "nationality": "阿根廷",
+        "notes": "媒体称为本国选手，未写距离"
+      },
+      {
+        "name": "Paula Galíndez",
+        "nationality": "阿根廷",
+        "notes": "媒体称为本国选手，未写距离"
+      },
+      {
+        "name": "Franco Isorna",
+        "nationality": "阿根廷",
+        "notes": "媒体称火地岛参赛团由他和 Martin Cichero 带领，未写距离"
+      },
+      {
+        "name": "Martin Cichero",
+        "nationality": "阿根廷",
+        "notes": "同上，未写距离"
       }
     ],
-    "source_url": "https://utmb.world/news/event-november-2026",
-    "last_checked": "2026-11-12",
-    "notes": "不把2025年的距离当成2026报名组别。 2026-11-12 复核：精英页仍未渲染出姓名，未见更新的新闻稿。"
+    "source_url": "https://www.mzldeportes.com/se-viene-patagonia-bariloche-by-utmb/",
+    "last_checked": "2026-11-13",
+    "notes": "2026-11-09 MZL Deportes 点名。除已在 UTMB 新闻中写明 100K 的 Patricio González 和写明 20K 的 Pema Franchi 外，其余人都没有被写明组别。"
   },
   {
     "race_id": "us-pacific-trails-2026",
@@ -189,7 +309,7 @@
       }
     ],
     "source_url": "https://utmb.world/news/event-november-2026",
-    "last_checked": "2026-11-12",
+    "last_checked": "2026-11-13",
     "notes": "2026-11-05 官方新闻点名的50K选手，不是完整名单。20K没有点名。 2026-11-12 复核：精英页仍未渲染出姓名，未见更新的新闻稿。"
   }
 ]

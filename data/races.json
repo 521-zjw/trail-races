@@ -1914,11 +1914,11 @@
     },
     "transport": "TL100/TL50/TL25/TL15起点均为梅窝银矿湾花园（Mui Wo River Silver Garden）。11月6–8日可在旺角Suunto香港店预先领物，11月13日起在梅窝领物。",
     "scale_total": null,
-    "entry_requirements": "报名自2026-04-14 18:00（香港时间）起，持有效UTMB Index者优先48小时，其后先到先得至额满或截止。精英须在报名期内登记。直通/付费精英的Index门槛见报名页表格（50K/100K/100M男女不同）。 UTMB 2026-11-05 新闻稿：第六届，超过2000名选手，女性约占26%，本地选手约占63%。",
+    "entry_requirements": "报名自2026-04-14 18:00（香港时间）起，持有效UTMB Index者优先48小时，其后先到先得至额满或截止。精英须在报名期内登记。直通/付费精英的Index门槛见报名页表格（50K/100K/100M男女不同）。 UTMB 2026-11-05 新闻稿：第六届，超过2000名选手，女性约占26%，本地选手约占63%。 2026-11-13 官网首页仍把 TransLantau100 标为 Registrations open。WeRun 计时页出发人数：100K 678、50K 1073、25K 558、15K 333，这是名单人数不是名额上限。",
     "mandatory_gear": "官网设有强制装备页，本次未逐项抄录。",
     "sponsors": null,
     "organizer": "UTMB World Series",
-    "last_checked": "2026-11-11",
+    "last_checked": "2026-11-13",
     "id": "hk-translantau-2026",
     "name_zh": "TransLantau by UTMB 2026",
     "country": "中国香港",
@@ -1961,13 +1961,13 @@
       },
       {
         "name": "TransLantau15",
-        "distance_km": null,
-        "elevation_gain_m": null,
+        "distance_km": 15,
+        "elevation_gain_m": 500,
         "cutoff_hours": null,
         "quota_or_entrants": null,
         "fee": null,
         "itra_points": null,
-        "notes": "11月15日10:30。距离与爬升本次首页摘录未完整显示"
+        "notes": "2026-11-13 首页显示 15 公里、爬升 500 米+。此前摘录未显示距离。"
       }
     ],
     "sources": [
@@ -1975,7 +1975,9 @@
       "https://translantau.utmb.world/races/TL100",
       "https://translantau.utmb.world/races-runners/runners/registration",
       "https://translantau.utmb.world/discover/the-event/schedule",
-      "https://utmb.world/news/event-november-2026"
+      "https://utmb.world/news/event-november-2026",
+      "https://werun.hk/game/tl2026",
+      "https://translantau.utmb.world/en"
     ]
   },
   {
@@ -5972,7 +5974,7 @@
       "window": null,
       "notes": "官网写号码布交易所于2026-11-12 15:00开放，没有写结束日。中签付款写到当天12:00，又写未在15:00前付款则取消。"
     },
-    "status": "open",
+    "status": "late_open",
     "transport": "Plourhan，位于圣布里厄与潘波勒之间，距 Binic-Étables-sur-Mer 约3公里，往 Lanvollon 方向。",
     "scale_total": null,
     "categories": [
@@ -6057,5 +6059,109 @@
       "https://www.trail-glazig.com/defi-du-goel-42k"
     ],
     "last_checked": "2026-11-12"
+  },
+  {
+    "name_en": "Patagonia Bariloche by UTMB 2026",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": true,
+      "window": null,
+      "notes": "MZL Deportes 2026-11-09 报道：成人距离名额已满；只有周日 11 月 22 日上午的 Mini Bariloche（儿童）仍接受现场报名。没有写费用和现场报名截止时刻。"
+    },
+    "status": "late_open",
+    "transport": null,
+    "scale_total": 4000,
+    "entry_requirements": "2026-11-11 官网组别标 Full。UTMB 11月5日新闻稿写11月18日至22日，约4000人，女性约40%，四个距离类别、六个完赛距离，赛道经过纳韦尔瓦皮与马普切社区传统土地。儿童赛收入用于给当地学校买运动器材。 同篇报道写 55、85、130 公里各组前三名男女可获 UTMB 直通；超过 22 公里完赛可参加 UTMB 抽签。领物 11 月 18 日，开幕式 11 月 19 日下午；11 月 20 日开跑 33、55、130 公里，11 月 21 日开跑 12、22、85 公里。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-13",
+    "id": "ar-bariloche-2026",
+    "name_zh": "巴塔哥尼亚巴里洛切 by UTMB 2026",
+    "country": "阿根廷",
+    "region": "巴里洛切·纳韦尔瓦皮国家公园",
+    "date_start": "2026-11-18",
+    "date_end": "2026-11-22",
+    "official_url": "https://bariloche.utmb.world/",
+    "registration_url": "https://bariloche.utmb.world/",
+    "categories": [
+      {
+        "name": "TRONADOR 130K",
+        "distance_km": 131,
+        "elevation_gain_m": 6580,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "首页卡片日期11月20日，标 Full"
+      },
+      {
+        "name": "FREY 85K",
+        "distance_km": 88,
+        "elevation_gain_m": 4760,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "UTMB赛事列表名为 FREY 85K，对应首页88公里、爬升4760米+。列表页未重复 Full，主页该距离在已满的一组里"
+      },
+      {
+        "name": "BELLA VISTA 55K",
+        "distance_km": 57.5,
+        "elevation_gain_m": 3000,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "列表名为 BELLA VISTA 55K，对应57.5公里、爬升3000米+"
+      },
+      {
+        "name": "NAHUEL HUAPI 33K",
+        "distance_km": 35,
+        "elevation_gain_m": 1425,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "列表名为 NAHUEL HUAPI 33K，对应35公里、爬升1425米+"
+      },
+      {
+        "name": "CERRO LINDO 22K",
+        "distance_km": 22,
+        "elevation_gain_m": 985,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "列表名为 CERRO LINDO 22K，对应22公里、爬升985米+"
+      },
+      {
+        "name": "OTTO 12K",
+        "distance_km": 12.7,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "列表名为 OTTO 12K。首页标 Full，12.7公里，爬升未摘到"
+      },
+      {
+        "name": "Mini Bariloche",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "11 月 22 日上午儿童赛。媒体称这是唯一仍接受现场报名的距离。距离、费用未写。"
+      }
+    ],
+    "sources": [
+      "https://bariloche.utmb.world/",
+      "https://utmb.world/news/event-november-2026",
+      "https://utmb.world/fr/utmb-world-series-events",
+      "https://www.mzldeportes.com/se-viene-patagonia-bariloche-by-utmb/"
+    ]
   }
 ]

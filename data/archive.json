@@ -397,7 +397,7 @@
     "mandatory_gear": "须携带强制装备，本次未逐项抄录。",
     "sponsors": null,
     "organizer": "UTMB World Series",
-    "last_checked": "2026-11-12",
+    "last_checked": "2026-11-13",
     "id": "au-kosciuszko-2026",
     "name_zh": "科修斯科超级越野 by UTMB 2026",
     "country": "澳大利亚",
@@ -420,7 +420,7 @@
           "notes": "含手续费与GST。页面标 SOLD OUT"
         },
         "itra_points": null,
-        "notes": "11月27日。首页标 Full。100英里实测160.5公里，爬升4731米+"
+        "notes": "11月27日。首页标 Full。100英里实测160.5公里，爬升4731米+ 赛程：11月27日 3:00 自 Jindabyne Banjo Patterson Park 出发。"
       },
       {
         "name": "Kosci100",
@@ -434,13 +434,13 @@
           "notes": "SOLD OUT"
         },
         "itra_points": null,
-        "notes": "首页标 Full。105.6公里，爬升2973米+"
+        "notes": "首页标 Full。105.6公里，爬升2973米+ 赛程：11月27日 7:30 自 Perisher 出发。"
       },
       {
         "name": "Kosci50",
         "distance_km": 50.3,
         "elevation_gain_m": 1355,
-        "cutoff_hours": null,
+        "cutoff_hours": 13.5,
         "quota_or_entrants": null,
         "fee": {
           "amount": 435,
@@ -448,13 +448,13 @@
           "notes": "SOLD OUT"
         },
         "itra_points": null,
-        "notes": "11月26日07:00。首页标 Full。50.3公里，爬升1355米+"
+        "notes": "11月26日 7:00 起于 Perisher 出发。官网赛程写总关门 13 小时 30 分，21:20 关门。首页距离 50.3 公里、爬升 1355 米+，标 Full。"
       },
       {
         "name": "Kosci30",
         "distance_km": 33,
         "elevation_gain_m": 596,
-        "cutoff_hours": null,
+        "cutoff_hours": 7.5,
         "quota_or_entrants": null,
         "fee": {
           "amount": 280,
@@ -462,12 +462,13 @@
           "notes": "SOLD OUT"
         },
         "itra_points": null,
-        "notes": "11月26日10:00。首页标 Full。33公里，爬升596米+"
+        "notes": "11月26日 10:00 起于 Perisher 出发。官网赛程写总关门 7 小时 30 分，18:05 关门。首页 33 公里、爬升 596 米+，标 Full。"
       }
     ],
     "sources": [
       "https://kosciuszko.utmb.world/runners/entry-info",
-      "https://kosciuszko.utmb.world/"
+      "https://kosciuszko.utmb.world/",
+      "https://kosciuszko.utmb.world/runners/event-schedule"
     ]
   },
   {
@@ -672,99 +673,6 @@
     ],
     "sources": [
       "https://zuicool.com/event/68796"
-    ]
-  },
-  {
-    "name_en": "Patagonia Bariloche by UTMB 2026",
-    "registration_open": null,
-    "registration_close": null,
-    "late_registration": {
-      "enabled": false,
-      "window": null,
-      "notes": null
-    },
-    "status": "closed",
-    "transport": null,
-    "scale_total": 4000,
-    "entry_requirements": "2026-11-11 官网组别标 Full。UTMB 11月5日新闻稿写11月18日至22日，约4000人，女性约40%，四个距离类别、六个完赛距离，赛道经过纳韦尔瓦皮与马普切社区传统土地。儿童赛收入用于给当地学校买运动器材。",
-    "mandatory_gear": null,
-    "sponsors": null,
-    "organizer": "UTMB World Series",
-    "last_checked": "2026-11-12",
-    "id": "ar-bariloche-2026",
-    "name_zh": "巴塔哥尼亚巴里洛切 by UTMB 2026",
-    "country": "阿根廷",
-    "region": "巴里洛切·纳韦尔瓦皮国家公园",
-    "date_start": "2026-11-18",
-    "date_end": "2026-11-22",
-    "official_url": "https://bariloche.utmb.world/",
-    "registration_url": "https://bariloche.utmb.world/",
-    "categories": [
-      {
-        "name": "TRONADOR 130K",
-        "distance_km": 131,
-        "elevation_gain_m": 6580,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "首页卡片日期11月20日，标 Full"
-      },
-      {
-        "name": "FREY 85K",
-        "distance_km": 88,
-        "elevation_gain_m": 4760,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "UTMB赛事列表名为 FREY 85K，对应首页88公里、爬升4760米+。列表页未重复 Full，主页该距离在已满的一组里"
-      },
-      {
-        "name": "BELLA VISTA 55K",
-        "distance_km": 57.5,
-        "elevation_gain_m": 3000,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "列表名为 BELLA VISTA 55K，对应57.5公里、爬升3000米+"
-      },
-      {
-        "name": "NAHUEL HUAPI 33K",
-        "distance_km": 35,
-        "elevation_gain_m": 1425,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "列表名为 NAHUEL HUAPI 33K，对应35公里、爬升1425米+"
-      },
-      {
-        "name": "CERRO LINDO 22K",
-        "distance_km": 22,
-        "elevation_gain_m": 985,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "列表名为 CERRO LINDO 22K，对应22公里、爬升985米+"
-      },
-      {
-        "name": "OTTO 12K",
-        "distance_km": 12.7,
-        "elevation_gain_m": null,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "列表名为 OTTO 12K。首页标 Full，12.7公里，爬升未摘到"
-      }
-    ],
-    "sources": [
-      "https://bariloche.utmb.world/",
-      "https://utmb.world/news/event-november-2026",
-      "https://utmb.world/fr/utmb-world-series-events"
     ]
   },
   {
