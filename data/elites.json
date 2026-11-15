@@ -1,128 +1,5 @@
 [
   {
-    "race_id": "hk-translantau-2026",
-    "category": "TransLantau100",
-    "athletes": [
-      {
-        "name": "Damien Humbert",
-        "nationality": "法国",
-        "notes": "男子。UTMB Index 910。新闻稿称其 Transvulcania 100K 第四，指数为该组最高"
-      },
-      {
-        "name": "Tomáš Hudec",
-        "nationality": "捷克",
-        "notes": "男子。UTMB Index 855。楚格峰100K冠军"
-      },
-      {
-        "name": "Tereza Hudcova",
-        "nationality": "捷克",
-        "notes": "女子。UTMB Index 718。Transgrancanaria 100K 冠军，新闻稿称女子指数最高"
-      },
-      {
-        "name": "Emma Bilham",
-        "nationality": "瑞士",
-        "notes": "女子。UTMB Index 667"
-      },
-      {
-        "name": "Zhengqiang Xiong",
-        "nationality": "中国",
-        "notes": "男子。WeRun 号码 8004"
-      },
-      {
-        "name": "Fuk Cheung Tsang",
-        "nationality": "中国香港",
-        "notes": "男子。WeRun 号码 8006"
-      },
-      {
-        "name": "Wang Meng",
-        "nationality": null,
-        "notes": "男子。WeRun 号码 8007。页面未写国籍"
-      },
-      {
-        "name": "Nicolas Raybaud",
-        "nationality": null,
-        "notes": "男子。WeRun 号码 8008。页面未写国籍"
-      },
-      {
-        "name": "Wenjing Yin",
-        "nationality": null,
-        "notes": "女子。WeRun 号码 8003。页面未写国籍"
-      },
-      {
-        "name": "Junyue Zheng",
-        "nationality": null,
-        "notes": "女子。WeRun 号码 8012。页面未写国籍"
-      },
-      {
-        "name": "Yuen Ting Ip",
-        "nationality": null,
-        "notes": "女子。WeRun 号码 8015。页面未写国籍"
-      }
-    ],
-    "source_url": "https://werun.hk/game/tl2026",
-    "last_checked": "2026-11-13",
-    "notes": "100K 名单合并 2026-11-05 UTMB 新闻与 2026-11-13 WeRun 赛前领先榜（带号码布）。WeRun 不是完整精英名单，只显示各组靠前号码。新闻稿里的 Damien Humbert 不在这份领先榜上。"
-  },
-  {
-    "race_id": "hk-translantau-2026",
-    "category": "TransLantau50",
-    "athletes": [
-      {
-        "name": "Emma Phipkin",
-        "nationality": "英国",
-        "notes": "女子。UTMB Index 655。新闻稿称去年同距离第五"
-      },
-      {
-        "name": "Ki Chin Wong",
-        "nationality": "中国香港",
-        "notes": "女子。UTMB Index 669。新闻稿称去年100K冠军，且为该组最高指数"
-      },
-      {
-        "name": "Claudio Diaz Castan",
-        "nationality": "西班牙",
-        "notes": "男子。UTMB Index 879。KAT100 50K 第三，亚洲首秀"
-      },
-      {
-        "name": "Peng Tian",
-        "nationality": "中国",
-        "notes": "男子。UTMB Index 836。莫干山 by UTMB 100K 亚军"
-      },
-      {
-        "name": "Gediminas Grinius",
-        "nationality": null,
-        "notes": "男子。WeRun 号码 5002。页面未写国籍"
-      },
-      {
-        "name": "Alexandre Neyrinck",
-        "nationality": null,
-        "notes": "男子。WeRun 号码 5004。页面未写国籍"
-      },
-      {
-        "name": "Ka Keung Chan",
-        "nationality": null,
-        "notes": "男子。WeRun 号码 5008。页面未写国籍"
-      },
-      {
-        "name": "Junhui Liu",
-        "nationality": null,
-        "notes": "女子。WeRun 号码 5012。页面未写国籍"
-      },
-      {
-        "name": "Christine Hughes",
-        "nationality": null,
-        "notes": "女子。WeRun 号码 5013。页面未写国籍"
-      },
-      {
-        "name": "Tsz Kei Wong",
-        "nationality": null,
-        "notes": "女子。WeRun 号码 5014。页面未写国籍"
-      }
-    ],
-    "source_url": "https://werun.hk/game/tl2026",
-    "last_checked": "2026-11-13",
-    "notes": "50K 名单合并 UTMB 11 月 5 日新闻与 2026-11-13 WeRun 领先榜。Ki Chin Wong 在 WeRun 写作 Ki Chun Wong，号码 5005。不是完整名单。"
-  },
-  {
     "race_id": "th-chiangmai-2026",
     "category": "新闻稿未分距离",
     "athletes": [
@@ -173,8 +50,8 @@
       }
     ],
     "source_url": "https://utmb.world/news/event-november-2026",
-    "last_checked": "2026-11-13",
-    "notes": "2026-11-05 官方新闻写这些选手会参加清迈不同距离，但没有逐人标明组别。不是完整名单。 2026-11-12 复核：精英页仍未渲染出姓名，未见更新的新闻稿。"
+    "last_checked": "2026-11-16",
+    "notes": "2026-11-05 官方新闻写这些选手会参加清迈不同距离，但没有逐人标明组别。不是完整名单。 2026-11-12 复核：精英页仍未渲染出姓名，未见更新的新闻稿。 2026-11-16 精英页打开后仍没有渲染出姓名。"
   },
   {
     "race_id": "ar-bariloche-2026",
@@ -275,41 +152,41 @@
       }
     ],
     "source_url": "https://www.mzldeportes.com/se-viene-patagonia-bariloche-by-utmb/",
-    "last_checked": "2026-11-15",
-    "notes": "2026-11-09 MZL Deportes 点名。除已在 UTMB 新闻中写明 100K 的 Patricio González 和写明 20K 的 Pema Franchi 外，其余人都没有被写明组别。 2026-11-15 重读该文，点名的选手仍在文中；组别仍只写明 Patricio González 的 100 公里和 Pema Franchi 的 20 公里在另一篇 UTMB 新闻里。"
+    "last_checked": "2026-11-16",
+    "notes": "2026-11-09 MZL Deportes 点名。除已在 UTMB 新闻中写明 100K 的 Patricio González 和写明 20K 的 Pema Franchi 外，其余人都没有被写明组别。 2026-11-15 重读该文，点名的选手仍在文中；组别仍只写明 Patricio González 的 100 公里和 Pema Franchi 的 20 公里在另一篇 UTMB 新闻里。 2026-11-16 重读该文，点名未变，仍未写这些选手的 2026 组别。"
   },
   {
-    "race_id": "us-pacific-trails-2026",
-    "category": "50K",
+    "race_id": "ar-bariloche-2026",
+    "category": "组别未写明",
     "athletes": [
       {
-        "name": "Dani Moreno",
-        "nationality": "美国",
-        "notes": "女子。UTMB Index 765"
+        "name": "Marcelo Del Collado",
+        "nationality": "阿根廷",
+        "notes": "市政府 2026-10-22 文章列为今年出场选手，未写距离，也没有单独标明性别"
       },
       {
-        "name": "Helen Mino Faukner",
-        "nationality": "美国",
-        "notes": "女子。UTMB Index 758。HOKA 运动员"
+        "name": "Johny Luna Lima",
+        "nationality": "巴西",
+        "notes": "男子。文章写 el brasileño，未写距离"
       },
       {
-        "name": "Jazmine Lowther",
-        "nationality": "加拿大",
-        "notes": "女子。UTMB Index 777。2026 UTMB 第五"
+        "name": "Mireia Pons",
+        "nationality": "西班牙",
+        "notes": "女子。文章写 la española，未写距离"
       },
       {
-        "name": "Hans Troyer",
-        "nationality": "美国",
-        "notes": "男子。UTMB Index 930。2026 CCC 第三。HOKA 运动员"
+        "name": "Maelle Beauvir",
+        "nationality": "法国",
+        "notes": "女子。文章写 la française，未写距离"
       },
       {
-        "name": "Eric Lagerstrom",
-        "nationality": "美国",
-        "notes": "男子。UTMB Index 841。Kodiak 50K 前30"
+        "name": "Lasse Finstad",
+        "nationality": "挪威",
+        "notes": "男子。文章写 el noruego，未写距离"
       }
     ],
-    "source_url": "https://utmb.world/news/event-november-2026",
-    "last_checked": "2026-11-13",
-    "notes": "2026-11-05 官方新闻点名的50K选手，不是完整名单。20K没有点名。 2026-11-12 复核：精英页仍未渲染出姓名，未见更新的新闻稿。"
+    "source_url": "https://barilocheinforma.gob.ar/bariloche-se-prepara-para-recibir-a-mas-de-4-000-corredores-de-patagonia-by-utmb/",
+    "last_checked": "2026-11-16",
+    "notes": "巴里洛切市政府 2026-10-22 文章点名的今年选手。文中已出现在 MZL 或 UTMB 新闻名单里的人不重复收入。文章没有写这些人的距离。"
   }
 ]

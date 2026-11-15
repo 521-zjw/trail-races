@@ -181,79 +181,6 @@
     ]
   },
   {
-    "name_en": "La Sportiva Lavaredo Ultra Trail by UTMB 2027",
-    "registration_open": null,
-    "registration_close": null,
-    "late_registration": {
-      "enabled": false,
-      "window": null,
-      "notes": null
-    },
-    "transport": null,
-    "scale_total": null,
-    "entry_requirements": "官网首页标 Registrations closed。报名关闭的具体日期本次未在该页读到。",
-    "mandatory_gear": null,
-    "sponsors": [
-      "La Sportiva"
-    ],
-    "organizer": "UTMB World Series",
-    "last_checked": "2026-11-10",
-    "id": "it-lavaredo-2027",
-    "name_zh": "La Sportiva 拉瓦雷多超级越野 by UTMB 2027",
-    "country": "意大利",
-    "region": "科尔蒂纳丹佩佐 Cortina d'Ampezzo",
-    "date_start": "2027-06-25",
-    "date_end": null,
-    "official_url": "https://lavaredo.utmb.world/",
-    "registration_url": "https://lavaredo.utmb.world/",
-    "status": "closed",
-    "categories": [
-      {
-        "name": "Lavaredo 120K",
-        "distance_km": 120,
-        "elevation_gain_m": 5800,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "官网：6月25日，120公里，5800米+，Registrations closed"
-      },
-      {
-        "name": "80K",
-        "distance_km": 80,
-        "elevation_gain_m": 4600,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "同一官网摘录中的距离与爬升，组别全名本次摘录不完整"
-      },
-      {
-        "name": "50K",
-        "distance_km": null,
-        "elevation_gain_m": 2600,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "摘录给出爬升2600米+，未给出单独日期"
-      },
-      {
-        "name": "10K",
-        "distance_km": 10,
-        "elevation_gain_m": 300,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "摘录：10公里、300米+"
-      }
-    ],
-    "sources": [
-      "https://lavaredo.utmb.world/"
-    ]
-  },
-  {
     "name_en": "Hardrock Hundred Mile Endurance Run 2027",
     "registration_open": null,
     "registration_close": "2026-10-14",
@@ -679,11 +606,11 @@
     },
     "transport": null,
     "scale_total": null,
-    "entry_requirements": "2026-11-12 赛页上 PAGODA 50日夜、INTHANON 20、热身、ELEPHANT 100、CHIANG DAO 160、HMONG 50日夜、SUTHEP 20日夜、CHEDI 20 全部标 Registrations closed。11月10日部分组别曾显示开放。新闻稿仍写11月27日至12月6日、近11000人、女性约36%，50K/100K/100M前10名男女可直通UTMB决赛并双倍Running Stones。各卡片没有给出实测公里和爬升。 2026-11-15 首页各组仍为 Registrations closed。UTMB 开放报名列表把同一日期标成 Opening soon，与赛事首页不一致，以首页已关闭为准，不改回可报名。",
+    "entry_requirements": "2026-11-12 赛页上 PAGODA 50日夜、INTHANON 20、热身、ELEPHANT 100、CHIANG DAO 160、HMONG 50日夜、SUTHEP 20日夜、CHEDI 20 全部标 Registrations closed。11月10日部分组别曾显示开放。新闻稿仍写11月27日至12月6日、近11000人、女性约36%，50K/100K/100M前10名男女可直通UTMB决赛并双倍Running Stones。各卡片没有给出实测公里和爬升。 2026-11-15 首页各组仍为 Registrations closed。UTMB 开放报名列表把同一日期标成 Opening soon，与赛事首页不一致，以首页已关闭为准，不改回可报名。 2026-11-16 赛页各组仍标 Registrations closed。同日 UTMB 开放报名列表仍把同一日期标成 Opening soon，与赛页不一致，仍以赛页已关闭为准。",
     "mandatory_gear": null,
     "sponsors": null,
     "organizer": "UTMB World Series",
-    "last_checked": "2026-11-15",
+    "last_checked": "2026-11-16",
     "id": "th-chiangmai-2026",
     "name_zh": "清迈 / 因他农 by UTMB 2026",
     "country": "泰国",
@@ -796,7 +723,8 @@
       }
     ],
     "sources": [
-      "https://chiangmai.utmb.world/races"
+      "https://chiangmai.utmb.world/races",
+      "https://utmb.world/open-registrations"
     ]
   },
   {
@@ -1041,6 +969,252 @@
       "https://zuicool.com/event/72712",
       "https://zuicool.com/events/reg?type=trail-run&per-page=100",
       "https://reg.zuicool.com/en/51987"
+    ]
+  },
+  {
+    "name_en": "2026 Taishan T60",
+    "registration_open": null,
+    "registration_close": "2026-11-15",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "先报先得，额满即止。2026-11-15 报名页为 OPEN，Registration Deadline 为 2026-11-15 18:00。 2026-11-16 报名页抬头为 CLOSED，60 公里与 32 公里按钮均为 Closed，页面没有新的截止日或补录。",
+    "mandatory_gear": null,
+    "sponsors": [
+      "中邮保险"
+    ],
+    "organizer": null,
+    "last_checked": "2026-11-16",
+    "id": "cn-taishan-t60-2026",
+    "name_zh": "2026中邮保险第十八届环泰山T60冬季越野赛",
+    "country": "中国",
+    "region": "山东·泰安·泰山桃花峪",
+    "date_start": "2026-12-05",
+    "date_end": "2026-12-05",
+    "official_url": "https://zuicool.com/event/21641",
+    "registration_url": "https://zuicool.com/event/21641",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "60公里全程",
+        "distance_km": 59.34,
+        "elevation_gain_m": 1110,
+        "cutoff_hours": 11,
+        "quota_or_entrants": "1333人",
+        "fee": {
+          "amount": 399,
+          "currency": "CNY"
+        },
+        "itra_points": "2分",
+        "notes": "起终点桃花峪；12月5日7:30出发，18:30关门。积分表述为规定时间内完赛可获得ITRA 2分"
+      },
+      {
+        "name": "32公里半程",
+        "distance_km": 32.46,
+        "elevation_gain_m": 870,
+        "cutoff_hours": 6.5,
+        "quota_or_entrants": "1666人",
+        "fee": {
+          "amount": 299,
+          "currency": "CNY"
+        },
+        "itra_points": "1分",
+        "notes": "起点桃花峪，终点封禅大典；7:30出发，14:00关门。页面写5小时内完赛可获得ITRA 1分，总关门为6.5小时"
+      }
+    ],
+    "sources": [
+      "https://zuicool.com/event/21641",
+      "https://reg.zuicool.com/en/99765"
+    ]
+  },
+  {
+    "name_en": null,
+    "registration_open": null,
+    "registration_close": "2026-11-15",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": "飞天山风景区东大门广场。",
+    "scale_total": 2400,
+    "entry_requirements": "先报先得，额满即止。2026-11-15 报名页为 OPEN，Registration Deadline 为 2026-11-15 17:00。11月3日 17:00 前为早鸟，该窗口已过。 2026-11-16 报名页抬头为 CLOSED，50、30、15 公里男女组按钮均为 Closed，没有新的截止日或补录。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": null,
+    "last_checked": "2026-11-16",
+    "id": "cn-feitian-2026",
+    "name_zh": "2026飞天山「百里丹霞」第十三届山地越野赛",
+    "country": "中国",
+    "region": "湖南·郴州·苏仙·飞天山",
+    "date_start": "2026-11-28",
+    "date_end": "2026-11-28",
+    "official_url": "https://zuicool.com/event/55067",
+    "registration_url": "https://zuicool.com/event/55067",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "飞天·破嶂50KM",
+        "distance_km": 50,
+        "elevation_gain_m": 2000,
+        "cutoff_hours": 14,
+        "quota_or_entrants": "600人（男400+女200）",
+        "fee": {
+          "amount": 599,
+          "currency": "CNY"
+        },
+        "itra_points": "2分",
+        "notes": "爬升写2000米+。最高293米，最低100米。6:00出发"
+      },
+      {
+        "name": "飞天·霞径30KM",
+        "distance_km": 28,
+        "elevation_gain_m": 1100,
+        "cutoff_hours": 7,
+        "quota_or_entrants": "800人（男500+女300）",
+        "fee": {
+          "amount": 299,
+          "currency": "CNY"
+        },
+        "itra_points": "1分",
+        "notes": "全程写28KM，组别名30KM。爬升1100米+"
+      },
+      {
+        "name": "飞天·启程15KM",
+        "distance_km": 15,
+        "elevation_gain_m": 300,
+        "cutoff_hours": 4,
+        "quota_or_entrants": "1000人（男600+女400）",
+        "fee": {
+          "amount": 199,
+          "currency": "CNY"
+        },
+        "itra_points": null,
+        "notes": "爬升300米+"
+      }
+    ],
+    "sources": [
+      "https://zuicool.com/event/55067",
+      "https://reg.zuicool.com/en/34340"
+    ]
+  },
+  {
+    "name_en": null,
+    "registration_open": null,
+    "registration_close": "2026-11-15",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "closed",
+    "transport": "起点戛洒凤凰广场。35 公里终点金山原始森林，22 公里终点石门峡后门。",
+    "scale_total": 600,
+    "entry_requirements": "先报先得，额满即止。2026-11-15 报名页为 OPEN，Registration Deadline 为 2026-11-15 23:59。 2026-11-16 报名页抬头为 CLOSED，35 公里与 22 公里按钮均为 Closed，没有新的截止日或补录。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": null,
+    "sources": [
+      "https://reg.zuicool.com/en/69304"
+    ],
+    "last_checked": "2026-11-16",
+    "id": "cn-ailao-2026",
+    "name_zh": "2026七彩云南户外运动挑战赛（新平站）·第二届新平哀牢山越野赛",
+    "country": "中国",
+    "region": "云南·玉溪·新平·戛洒",
+    "date_start": "2026-11-29",
+    "date_end": "2026-11-29",
+    "official_url": "https://reg.zuicool.com/en/69304",
+    "registration_url": "https://reg.zuicool.com/en/69304",
+    "categories": [
+      {
+        "name": "35KM挑战组",
+        "distance_km": 35,
+        "elevation_gain_m": 2998,
+        "cutoff_hours": 9,
+        "quota_or_entrants": "300人",
+        "fee": {
+          "amount": 368,
+          "currency": "CNY"
+        },
+        "itra_points": "拟2分",
+        "notes": "最高海拔 2639 米。页面未给实测公里。7:00–16:00"
+      },
+      {
+        "name": "22KM体验组",
+        "distance_km": 22,
+        "elevation_gain_m": 2213,
+        "cutoff_hours": 7,
+        "quota_or_entrants": "300人",
+        "fee": {
+          "amount": 228,
+          "currency": "CNY"
+        },
+        "itra_points": "拟1分",
+        "notes": "最高海拔 2213 米。7:00–14:00"
+      }
+    ]
+  },
+  {
+    "name_en": null,
+    "registration_open": null,
+    "registration_close": "2026-11-15",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "closed",
+    "transport": "湖州西塞臻悦度假酒店。",
+    "scale_total": null,
+    "entry_requirements": "先报先得，额满即止。2026-11-15 报名页为 OPEN，Registration Deadline 为 2026-11-15 23:59。 2026-11-16 报名页抬头为 CLOSED，27 公里与 15 公里（含亲子）按钮均为 Closed，没有新的截止日或补录。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": null,
+    "sources": [
+      "https://reg.zuicool.com/en/14071"
+    ],
+    "last_checked": "2026-11-16",
+    "id": "cn-xisaishan-2026",
+    "name_zh": "2026第三届西塞山霞幕雄鹰越野跑",
+    "country": "中国",
+    "region": "浙江·湖州·吴兴·西塞山",
+    "date_start": "2026-11-29",
+    "date_end": "2026-11-29",
+    "official_url": "https://reg.zuicool.com/en/14071",
+    "registration_url": "https://reg.zuicool.com/en/14071",
+    "categories": [
+      {
+        "name": "鹰翔西塞27K",
+        "distance_km": 26.9,
+        "elevation_gain_m": 1549,
+        "cutoff_hours": 8,
+        "quota_or_entrants": "600人",
+        "fee": {
+          "amount": 258,
+          "currency": "CNY"
+        },
+        "itra_points": "1分",
+        "notes": "距离与爬升页面写 ±。8:00–16:00"
+      },
+      {
+        "name": "陆羽之道15K",
+        "distance_km": 13.9,
+        "elevation_gain_m": 542,
+        "cutoff_hours": 4,
+        "quota_or_entrants": "500人",
+        "fee": {
+          "amount": 168,
+          "currency": "CNY",
+          "notes": "1 大 1 小按钮 336 元"
+        },
+        "itra_points": null,
+        "notes": "页面写 ITRA 表现分，未写积分。距离与爬升为 ±。8:15–12:15"
+      }
     ]
   }
 ]
