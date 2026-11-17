@@ -369,77 +369,6 @@
     ]
   },
   {
-    "name_en": null,
-    "registration_open": null,
-    "registration_close": "2026-11-17",
-    "late_registration": {
-      "enabled": false,
-      "window": null,
-      "notes": null
-    },
-    "transport": null,
-    "scale_total": null,
-    "entry_requirements": "先报先得，额满即止。9公里组页面写13–65周岁，18岁以下需监护人签署风险告知；亲子组儿童6–12周岁且需一位18–63周岁监护人全程陪同。",
-    "mandatory_gear": null,
-    "sponsors": null,
-    "organizer": null,
-    "last_checked": "2026-11-10",
-    "id": "cn-hakka50-2026",
-    "name_zh": "2026第七届洛带HAKKA50越野赛",
-    "country": "中国",
-    "region": "四川·成都·龙泉驿·洛带",
-    "date_start": "2026-12-12",
-    "date_end": "2026-12-13",
-    "official_url": "https://zuicool.com/event/43816",
-    "registration_url": "https://zuicool.com/event/43816",
-    "status": "open",
-    "categories": [
-      {
-        "name": "YLW 62公里",
-        "distance_km": 62.1,
-        "elevation_gain_m": 2520,
-        "cutoff_hours": 14,
-        "quota_or_entrants": "200人",
-        "fee": null,
-        "itra_points": "3分",
-        "notes": "12月13日8:00"
-      },
-      {
-        "name": "HYLW 45公里",
-        "distance_km": 45.1,
-        "elevation_gain_m": 1880,
-        "cutoff_hours": 9,
-        "quota_or_entrants": "300人",
-        "fee": null,
-        "itra_points": "2分",
-        "notes": "12月13日9:00"
-      },
-      {
-        "name": "QYLW 24公里",
-        "distance_km": 23.7,
-        "elevation_gain_m": 1140,
-        "cutoff_hours": 6,
-        "quota_or_entrants": "500人",
-        "fee": null,
-        "itra_points": "1分",
-        "notes": "12月13日9:00"
-      },
-      {
-        "name": "9公里",
-        "distance_km": 9.3,
-        "elevation_gain_m": 377,
-        "cutoff_hours": 4,
-        "quota_or_entrants": "200人",
-        "fee": null,
-        "itra_points": null,
-        "notes": "12月12日10:00。另有亲子组400组家庭"
-      }
-    ],
-    "sources": [
-      "https://zuicool.com/event/43816"
-    ]
-  },
-  {
     "name_en": "2026 Fengqing Dianhong Ultra",
     "registration_open": "2026-10-12",
     "registration_close": "2026-11-22",
@@ -1397,83 +1326,6 @@
       "https://xtrail.utmb.world/registrations",
       "https://xtrail.utmb.world/races",
       "https://www.asiaruncalendar.com/events/taiwan/xtrail-kenting-by-utmb-2027"
-    ]
-  },
-  {
-    "name_en": "TransLantau by UTMB 2026",
-    "registration_open": "2026-04-14",
-    "registration_close": null,
-    "late_registration": {
-      "enabled": false,
-      "window": null,
-      "notes": null
-    },
-    "transport": "TL100/TL50/TL25/TL15起点均为梅窝银矿湾花园（Mui Wo River Silver Garden）。11月6–8日可在旺角Suunto香港店预先领物，11月13日起在梅窝领物。",
-    "scale_total": null,
-    "entry_requirements": "报名自2026-04-14 18:00（香港时间）起，持有效UTMB Index者优先48小时，其后先到先得至额满或截止。精英须在报名期内登记。直通/付费精英的Index门槛见报名页表格（50K/100K/100M男女不同）。 UTMB 2026-11-05 新闻稿：第六届，超过2000名选手，女性约占26%，本地选手约占63%。 2026-11-13 官网首页仍把 TransLantau100 标为 Registrations open。WeRun 计时页出发人数：100K 678、50K 1073、25K 558、15K 333，这是名单人数不是名额上限。 2026-11-15 首页：TransLantau100（104 公里，11 月 13 日，已开赛）仍标 Registrations open；50、25、15 公里标 Full。报名说明页仍写 2026-04-14 开放，没有新的补录截止日。100 公里没有写成 Full，因此不按售罄归档。 2026-11-16 首页：TransLantau100 仍标 Registrations open；TransLantau50、25、15 标 Full。比赛日是 11 月 13–15 日，周末已经结束，但 100 公里卡片仍写开放，且没有截止日，因此不归档。 2026-11-17 首页 TransLantau100 的 raceStatus 仍为 registration_open；50、25、15 公里为 registration_sold_out。没有截止日，因此不归档。",
-    "mandatory_gear": "官网设有强制装备页，本次未逐项抄录。",
-    "sponsors": null,
-    "organizer": "UTMB World Series",
-    "last_checked": "2026-11-17",
-    "id": "hk-translantau-2026",
-    "name_zh": "TransLantau by UTMB 2026",
-    "country": "中国香港",
-    "region": "香港·大屿山·梅窝",
-    "date_start": "2026-11-13",
-    "date_end": "2026-11-15",
-    "official_url": "https://translantau.utmb.world/",
-    "registration_url": "https://translantau.utmb.world/races-runners/runners/registration",
-    "status": "open",
-    "categories": [
-      {
-        "name": "TransLantau100",
-        "distance_km": 104,
-        "elevation_gain_m": 4500,
-        "cutoff_hours": 27,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "官网首页2026-11-10仍标 Registrations open。11月13日19:30第一波（赛程页）。3枚Running Stones"
-      },
-      {
-        "name": "TransLantau50",
-        "distance_km": 45,
-        "elevation_gain_m": 2500,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "官网首页标 Full。11月14日09:00起分波"
-      },
-      {
-        "name": "TransLantau25",
-        "distance_km": 27,
-        "elevation_gain_m": 1100,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "官网首页标 Full。11月15日09:30起"
-      },
-      {
-        "name": "TransLantau15",
-        "distance_km": 15,
-        "elevation_gain_m": 500,
-        "cutoff_hours": null,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "2026-11-13 首页显示 15 公里、爬升 500 米+。此前摘录未显示距离。"
-      }
-    ],
-    "sources": [
-      "https://translantau.utmb.world/",
-      "https://translantau.utmb.world/races/TL100",
-      "https://translantau.utmb.world/races-runners/runners/registration",
-      "https://translantau.utmb.world/discover/the-event/schedule",
-      "https://utmb.world/news/event-november-2026",
-      "https://werun.hk/game/tl2026",
-      "https://translantau.utmb.world/en"
     ]
   },
   {
@@ -7205,15 +7057,15 @@
     "date_start": "2027-09-09",
     "date_end": "2027-09-12",
     "official_url": "https://wildstrubel.utmb.world/",
-    "registration_url": "https://wildstrubel.utmb.world/charity-bibs",
-    "registration_open": null,
+    "registration_url": "https://wildstrubel.utmb.world/",
+    "registration_open": "2026-11-17",
     "registration_close": null,
     "late_registration": {
-      "enabled": true,
+      "enabled": false,
       "window": null,
-      "notes": "2026-11-16 慈善号码布页写 Solidarity bibs are open，共 100 个，先到先得，额满为止，没有候补，也没有写结束日。捐款与报名费分开，捐款不退。常规报名尚未开放：Index 优先 2026-11-17 10:00（瑞士时间），一般报名 2026-11-19 10:00。慈善页有一句 For the 2026 edition，与 2027 年 9 月的比赛日并存；UTMB 开放报名列表把 2027-09-09 至 09-12 这一场标成 Charity bibs available。 2026-11-17 北京时间 05:44（瑞士时间 2026-11-16 22:44）核对：首页各组仍为 available_soon。报名条件页仍写 Index 优先 2026-11-17 10:00（瑞士时间）、一般报名 2026-11-19 10:00，此时尚未到点，不把常规或 Index 报名标成已开放，也不填写截止日。慈善页仍写 solidarity bibs registration is now open，100 个号码布，没有写结束日。"
+      "notes": "慈善号码布仍可申请：100 个，先到先得，没有候补，捐款不退，页面没有写结束日。常规 Index 报名已经开放，所以状态用 open，不再单独标补录。"
     },
-    "status": "late_open",
+    "status": "open",
     "transport": "报名条件写 Wild 70、Wild 55、Wild Glacier Marathon、Wild 25 的起点接驳只从克朗蒙塔纳出发。Wild 110 写有存包运送。",
     "scale_total": null,
     "categories": [
@@ -7225,7 +7077,7 @@
         "quota_or_entrants": null,
         "fee": null,
         "itra_points": null,
-        "notes": "首页 9月10日，Opening soon，Running Stones 8。报名费区间 CHF 245–295，另加 8% 手续费。慈善捐款另计 300 欧元。"
+        "notes": "首页 9月10日，首页现为 Registrations open，Running Stones 8。报名费区间 CHF 245–295，另加 8% 手续费。慈善捐款另计 300 欧元。"
       },
       {
         "name": "Wild 70",
@@ -7275,10 +7127,10 @@
         "quota_or_entrants": null,
         "fee": null,
         "itra_points": null,
-        "notes": "首页 Opening soon。报名费 CHF 50–70。慈善捐款表没有这一距离。"
+        "notes": "首页 首页现为 Registrations open。报名费 CHF 50–70。慈善捐款表没有这一距离。"
       }
     ],
-    "entry_requirements": "常规报名尚未开放。Index 持有者 2026-11-17 10:00（瑞士时间）优先 48 小时，一般报名 2026-11-19 10:00，先到先得，没有候补，没有抽签。本地选手（列克、锡永、Frutigen-Niedersimmental、Obersimmental-Saanen）在 2027-02-19 前可享早鸟价，须交居住证明。报名费为区间价，另加不可退的 8% 手续费，只收信用卡。瑞士不强制体检证明。须自备在瑞士有效的意外及搜救保险。Wild 10 团体每人 CHF 50，18 岁以下免费；NextGen、Kids、Adaptive 报名条件页写免费。年龄：110/70/55/冰川马拉松为 2009 年及更早出生。 2026-11-17 早间核对时，Index 优先窗口尚未到 2026-11-17 10:00（瑞士时间），首页仍是 Opening soon。",
+    "entry_requirements": "2026-11-18 官网首页标 Registrations open。报名条件页：Index 优先从 2026-11-17 10:00（瑞士时间）起 48 小时；一般报名 2026-11-19 10:00（瑞士时间）。先到先得，没有抽签，没有候补，售罄即止。本地选手（列克、锡永、Frutigen-Niedersimmental、Obersimmental-Saanen）在 2027-02-19 前可享早鸟价，须交居住证明。报名费为区间价，另加不可退的 8% 手续费，只收信用卡。瑞士不强制体检证明。须自备在瑞士有效的意外及搜救保险。年龄：110/70/55/冰川马拉松为 2009 年及更早出生；Wild 25 为 2011 年及更早；Wild 10 个人为 2009 年及更早，团体可为 2017 年及更早。",
     "mandatory_gear": null,
     "sponsors": null,
     "organizer": null,
@@ -7289,7 +7141,7 @@
       "https://wildstrubel.utmb.world/races-runners/other-information/registration-conditions",
       "https://utmb.world/open-registrations"
     ],
-    "last_checked": "2026-11-17"
+    "last_checked": "2026-11-18"
   },
   {
     "name_en": null,
@@ -7377,5 +7229,79 @@
     "sources": [
       "https://reg.zuicool.com/en/11223"
     ]
+  },
+  {
+    "id": "jo-mds-120-2027",
+    "name_zh": "撒哈拉马拉松 120 约旦 2027",
+    "name_en": "MDS 120 Jordan 2027",
+    "country": "约旦",
+    "region": "瓦迪拉姆 Wadi Rum / 死海 / 佩特拉",
+    "date_start": "2027-10-30",
+    "date_end": "2027-11-06",
+    "official_url": "https://marathondessables.com/en/event/mds-120-jordan-2027",
+    "registration_url": "https://marathondessables.com/en/event/mds-120-jordan-2027",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "upcoming_unknown",
+    "transport": "飞到安曼 Queen Alia 国际机场。官方周内在机场、酒店和沙漠之间有接驳，约 1 小时。非官方日期：6–7 人小巴约 120 美元，2–3 人出租车约 70 美元。",
+    "scale_total": null,
+    "categories": [
+      {
+        "name": "70 km",
+        "distance_km": 70,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 2450,
+          "currency": "EUR",
+          "notes": "Crowne Plaza 套餐，2026-11-18 至 11-30 的价格。前 100 名再减 100 欧元。含比赛、酒店和接驳，不是单独号码布。"
+        },
+        "itra_points": null,
+        "notes": "三阶段。第二阶段约 20 公里。总距离为约数，可能因地形缩短。"
+      },
+      {
+        "name": "100 km",
+        "distance_km": 100,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 2450,
+          "currency": "EUR",
+          "notes": "与 70/120 同一套餐价，页面没有按距离拆价。"
+        },
+        "itra_points": null,
+        "notes": "第二阶段约 40 公里。"
+      },
+      {
+        "name": "120 km",
+        "distance_km": 120,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 2450,
+          "currency": "EUR",
+          "notes": "Crowne Plaza 套餐 11 月 18–30 日价。12 月 1–31 日 2500 欧元，2027-01-04 起 2550 欧元。"
+        },
+        "itra_points": null,
+        "notes": "第二阶段约 60 公里。第一、三阶段各约 25–30 公里。"
+      }
+    ],
+    "entry_requirements": "官网在本次抓取时仍写 Registration opens on November 18 at 12:00 PM (UTC+2)，并显示大约 13 小时 57 分倒计时，因此不标成已经开放。自带全部食物。补给点约每 8–12 公里有水，每阶段后发 5 升水。2027-04-30 前可免费取消；5 月 1–30 日扣 25%；5 月 31 日至 6 月 30 日扣 50%；其后不退，6 月 30 日前可免费延到下一届。须交组织方体检表，医生签署且距开赛不足 90 天，不接受 PPS。",
+    "mandatory_gear": "WAA ULTRABAG 20L 或同等背包；至少 1.5 升水具；睡袋；头灯加一整套备用电池或充电宝；10 枚安全别针；打火机；哨子；金属刀；皮肤消毒剂；信号镜；生存毯；8 块高汤块（每天 2 块）；防晒霜；太阳镜；100 欧元现金；护照；组织方体检表。",
+    "sponsors": null,
+    "organizer": "Marathon des Sables",
+    "sources": [
+      "https://marathondessables.com/en/event/mds-120-jordan-2027",
+      "https://marathondessables.com/en/"
+    ],
+    "last_checked": "2026-11-18"
   }
 ]

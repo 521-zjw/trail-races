@@ -1216,5 +1216,153 @@
         "notes": "页面写 ITRA 表现分，未写积分。距离与爬升为 ±。8:15–12:15"
       }
     ]
+  },
+  {
+    "name_en": null,
+    "registration_open": null,
+    "registration_close": "2026-11-17",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "先报先得，额满即止。9公里组页面写13–65周岁，18岁以下需监护人签署风险告知；亲子组儿童6–12周岁且需一位18–63周岁监护人全程陪同。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": null,
+    "last_checked": "2026-11-10",
+    "id": "cn-hakka50-2026",
+    "name_zh": "2026第七届洛带HAKKA50越野赛",
+    "country": "中国",
+    "region": "四川·成都·龙泉驿·洛带",
+    "date_start": "2026-12-12",
+    "date_end": "2026-12-13",
+    "official_url": "https://zuicool.com/event/43816",
+    "registration_url": "https://zuicool.com/event/43816",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "YLW 62公里",
+        "distance_km": 62.1,
+        "elevation_gain_m": 2520,
+        "cutoff_hours": 14,
+        "quota_or_entrants": "200人",
+        "fee": null,
+        "itra_points": "3分",
+        "notes": "12月13日8:00"
+      },
+      {
+        "name": "HYLW 45公里",
+        "distance_km": 45.1,
+        "elevation_gain_m": 1880,
+        "cutoff_hours": 9,
+        "quota_or_entrants": "300人",
+        "fee": null,
+        "itra_points": "2分",
+        "notes": "12月13日9:00"
+      },
+      {
+        "name": "QYLW 24公里",
+        "distance_km": 23.7,
+        "elevation_gain_m": 1140,
+        "cutoff_hours": 6,
+        "quota_or_entrants": "500人",
+        "fee": null,
+        "itra_points": "1分",
+        "notes": "12月13日9:00"
+      },
+      {
+        "name": "9公里",
+        "distance_km": 9.3,
+        "elevation_gain_m": 377,
+        "cutoff_hours": 4,
+        "quota_or_entrants": "200人",
+        "fee": null,
+        "itra_points": null,
+        "notes": "12月12日10:00。另有亲子组400组家庭"
+      }
+    ],
+    "sources": [
+      "https://zuicool.com/event/43816"
+    ]
+  },
+  {
+    "name_en": "TransLantau by UTMB 2026",
+    "registration_open": "2026-04-14",
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": "TL100/TL50/TL25/TL15起点均为梅窝银矿湾花园（Mui Wo River Silver Garden）。11月6–8日可在旺角Suunto香港店预先领物，11月13日起在梅窝领物。",
+    "scale_total": null,
+    "entry_requirements": "报名自2026-04-14 18:00（香港时间）起，持有效UTMB Index者优先48小时，其后先到先得至额满或截止。精英须在报名期内登记。直通/付费精英的Index门槛见报名页表格（50K/100K/100M男女不同）。 UTMB 2026-11-05 新闻稿：第六届，超过2000名选手，女性约占26%，本地选手约占63%。 2026-11-13 官网首页仍把 TransLantau100 标为 Registrations open。WeRun 计时页出发人数：100K 678、50K 1073、25K 558、15K 333，这是名单人数不是名额上限。 2026-11-15 首页：TransLantau100（104 公里，11 月 13 日，已开赛）仍标 Registrations open；50、25、15 公里标 Full。报名说明页仍写 2026-04-14 开放，没有新的补录截止日。100 公里没有写成 Full，因此不按售罄归档。 2026-11-16 首页：TransLantau100 仍标 Registrations open；TransLantau50、25、15 标 Full。比赛日是 11 月 13–15 日，周末已经结束，但 100 公里卡片仍写开放，且没有截止日，因此不归档。 2026-11-17 首页 TransLantau100 的 raceStatus 仍为 registration_open；50、25、15 公里为 registration_sold_out。没有截止日，因此不归档。 2026-11-18 官网首页把 TransLantau100 标为 Registrations closed。比赛日为 11 月 13–15 日，已经结束。没有另写报名关闭的钟点。",
+    "mandatory_gear": "官网设有强制装备页，本次未逐项抄录。",
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-18",
+    "id": "hk-translantau-2026",
+    "name_zh": "TransLantau by UTMB 2026",
+    "country": "中国香港",
+    "region": "香港·大屿山·梅窝",
+    "date_start": "2026-11-13",
+    "date_end": "2026-11-15",
+    "official_url": "https://translantau.utmb.world/",
+    "registration_url": "https://translantau.utmb.world/races-runners/runners/registration",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "TransLantau100",
+        "distance_km": 104,
+        "elevation_gain_m": 4500,
+        "cutoff_hours": 27,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "官网首页2026-11-10仍标 Registrations open。11月13日19:30第一波（赛程页）。3枚Running Stones"
+      },
+      {
+        "name": "TransLantau50",
+        "distance_km": 45,
+        "elevation_gain_m": 2500,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "官网首页标 Full。11月14日09:00起分波"
+      },
+      {
+        "name": "TransLantau25",
+        "distance_km": 27,
+        "elevation_gain_m": 1100,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "官网首页标 Full。11月15日09:30起"
+      },
+      {
+        "name": "TransLantau15",
+        "distance_km": 15,
+        "elevation_gain_m": 500,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "2026-11-13 首页显示 15 公里、爬升 500 米+。此前摘录未显示距离。"
+      }
+    ],
+    "sources": [
+      "https://translantau.utmb.world/",
+      "https://translantau.utmb.world/races/TL100",
+      "https://translantau.utmb.world/races-runners/runners/registration",
+      "https://translantau.utmb.world/discover/the-event/schedule",
+      "https://utmb.world/news/event-november-2026",
+      "https://werun.hk/game/tl2026",
+      "https://translantau.utmb.world/en"
+    ]
   }
 ]
