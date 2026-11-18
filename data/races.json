@@ -1,92 +1,6 @@
 [
   {
     "name_en": null,
-    "registration_open": null,
-    "registration_close": "2026-11-18",
-    "late_registration": {
-      "enabled": false,
-      "window": null,
-      "notes": null
-    },
-    "transport": null,
-    "scale_total": 2800,
-    "entry_requirements": "先报先得，额满即止。比赛由10月24–25日改期至11月28–29日。2026-11-16 报名页仍为 OPEN，截止 2026-11-18 23:59。「72KM远征组」仍标注该组别取消，按钮 Closed；57、38、10 公里仍可报名。页面简介仍写规模 2800 人并列出已取消的 72 公里。 2026-11-17 报名页仍为 OPEN，截止仍为 2026-11-18 23:59。72 公里仍标注该组别取消，按钮 Closed；57、38、10 公里按钮仍为 699、499、99 元，亲子 1 大 1 小为 198 元。",
-    "mandatory_gear": null,
-    "sponsors": null,
-    "organizer": null,
-    "last_checked": "2026-11-17",
-    "id": "cn-jinggangshan-2026",
-    "name_zh": "2026井冈山越野赛",
-    "country": "中国",
-    "region": "江西·吉安·井冈山",
-    "date_start": "2026-11-28",
-    "date_end": "2026-11-29",
-    "official_url": "https://zuicool.com/event/94253",
-    "registration_url": "https://zuicool.com/event/94253",
-    "status": "open",
-    "categories": [
-      {
-        "name": "72KM远征",
-        "distance_km": 72,
-        "elevation_gain_m": 4188,
-        "cutoff_hours": 22,
-        "quota_or_entrants": "400人",
-        "fee": {
-          "amount": 799,
-          "currency": "CNY",
-          "notes": "组别已取消，按钮为 Closed；数字是按钮旁标价"
-        },
-        "itra_points": "3分",
-        "notes": "2026-11-15 报名页标注「该组别取消」，按钮 Closed。简介仍写 400 人、累计下降 4190 米、11月28日 5:30 出发，按钮旁显示 799.00。"
-      },
-      {
-        "name": "57KM星火",
-        "distance_km": 57,
-        "elevation_gain_m": 3431,
-        "cutoff_hours": 16,
-        "quota_or_entrants": "800人",
-        "fee": {
-          "amount": 699,
-          "currency": "CNY"
-        },
-        "itra_points": "3分",
-        "notes": "累计下降3433米；11月28日6:30出发"
-      },
-      {
-        "name": "38KM征途",
-        "distance_km": 38,
-        "elevation_gain_m": 2130,
-        "cutoff_hours": 11,
-        "quota_or_entrants": "1000人",
-        "fee": {
-          "amount": 499,
-          "currency": "CNY"
-        },
-        "itra_points": "2分",
-        "notes": "累计下降2140米；11月28日7:30出发"
-      },
-      {
-        "name": "10KM追光",
-        "distance_km": 10,
-        "elevation_gain_m": 450,
-        "cutoff_hours": 4,
-        "quota_or_entrants": "600人",
-        "fee": {
-          "amount": 99,
-          "currency": "CNY",
-          "notes": "个人 99 元；亲子 1 大 1 小按钮 198 元"
-        },
-        "itra_points": null,
-        "notes": "含个人与亲子；累计下降456米；11月28日8:30出发"
-      }
-    ],
-    "sources": [
-      "https://zuicool.com/event/94253",
-      "https://reg.zuicool.com/en/36916"
-    ]
-  },
-  {
-    "name_en": null,
     "registration_open": "2026-09-21",
     "registration_close": "2026-11-20",
     "late_registration": {
@@ -1121,57 +1035,6 @@
     ],
     "sources": [
       "https://zuicool.com/event/16303"
-    ]
-  },
-  {
-    "name_en": null,
-    "registration_open": "2026-08-18",
-    "registration_close": "2026-11-18",
-    "late_registration": {
-      "enabled": false,
-      "window": null,
-      "notes": null
-    },
-    "transport": "剑阁县白龙镇健全村村委会。线路为翠云廊南线断碑梁至小垭子。",
-    "scale_total": null,
-    "entry_requirements": "额满即止。9月8日10:00前为早鸟，该窗口已过。",
-    "mandatory_gear": null,
-    "sponsors": null,
-    "organizer": null,
-    "last_checked": "2026-11-10",
-    "id": "cn-jianmen-2026",
-    "name_zh": "2026剑门关越野挑战赛（白龙站）",
-    "country": "中国",
-    "region": "四川·广元·剑阁·白龙",
-    "date_start": "2026-12-20",
-    "date_end": "2026-12-20",
-    "official_url": "https://zuicool.com/event/76218",
-    "registration_url": "https://zuicool.com/event/76218",
-    "status": "open",
-    "categories": [
-      {
-        "name": "24K专业",
-        "distance_km": 24.16,
-        "elevation_gain_m": 535,
-        "cutoff_hours": 5,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "爬升535米+，下降556米+。最高856米，最低631米。9:00出发"
-      },
-      {
-        "name": "14K徒步",
-        "distance_km": 14.19,
-        "elevation_gain_m": 281,
-        "cutoff_hours": 4,
-        "quota_or_entrants": null,
-        "fee": null,
-        "itra_points": null,
-        "notes": "含亲子。爬升281米+。儿童6岁以上18岁以下须家长陪同"
-      }
-    ],
-    "sources": [
-      "https://zuicool.com/event/76218"
     ]
   },
   {
@@ -5892,90 +5755,6 @@
     ]
   },
   {
-    "name_en": null,
-    "registration_open": null,
-    "registration_close": "2026-11-18",
-    "late_registration": {
-      "enabled": false,
-      "window": null,
-      "notes": null
-    },
-    "status": "open",
-    "transport": "坪山体育中心体育馆。",
-    "scale_total": null,
-    "entry_requirements": "先报先得，额满即止。报名截止 2026-11-18 23:59。10月20日前为早鸟，该窗口已过。",
-    "mandatory_gear": null,
-    "sponsors": null,
-    "organizer": null,
-    "sources": [
-      "https://reg.zuicool.com/en/86874"
-    ],
-    "last_checked": "2026-11-15",
-    "id": "cn-pingshan-40-2026",
-    "name_zh": "2026鲲鹏勇士·坪山40越野赛",
-    "country": "中国",
-    "region": "广东·深圳·坪山",
-    "date_start": "2026-12-12",
-    "date_end": "2026-12-12",
-    "official_url": "https://reg.zuicool.com/en/86874",
-    "registration_url": "https://reg.zuicool.com/en/86874",
-    "categories": [
-      {
-        "name": "穿山越岭40km",
-        "distance_km": 41.2,
-        "elevation_gain_m": 1656,
-        "cutoff_hours": 9,
-        "quota_or_entrants": null,
-        "fee": {
-          "amount": 599,
-          "currency": "CNY"
-        },
-        "itra_points": "拟2分",
-        "notes": "6:00–15:00"
-      },
-      {
-        "name": "寻幽探秘30km",
-        "distance_km": 31.4,
-        "elevation_gain_m": 1283,
-        "cutoff_hours": 8,
-        "quota_or_entrants": null,
-        "fee": {
-          "amount": 499,
-          "currency": "CNY"
-        },
-        "itra_points": "拟1分",
-        "notes": "6:30–14:30"
-      },
-      {
-        "name": "初尝野趣20km",
-        "distance_km": 23.3,
-        "elevation_gain_m": 688,
-        "cutoff_hours": 6,
-        "quota_or_entrants": null,
-        "fee": {
-          "amount": 399,
-          "currency": "CNY"
-        },
-        "itra_points": "拟1分",
-        "notes": "7:30–13:30"
-      },
-      {
-        "name": "亲子共赴6km",
-        "distance_km": 6.2,
-        "elevation_gain_m": 31,
-        "cutoff_hours": 3,
-        "quota_or_entrants": null,
-        "fee": {
-          "amount": 499,
-          "currency": "CNY",
-          "notes": "1 大 1 小。青少年 5–12 周岁，须由 18–65 周岁成人陪同"
-        },
-        "itra_points": "拟0分",
-        "notes": "8:30–11:30"
-      }
-    ]
-  },
-  {
     "name_en": "HOKA Canyons Endurance Runs by UTMB 2027",
     "registration_open": null,
     "registration_close": null,
@@ -7141,7 +6920,7 @@
       "https://wildstrubel.utmb.world/races-runners/other-information/registration-conditions",
       "https://utmb.world/open-registrations"
     ],
-    "last_checked": "2026-11-18"
+    "last_checked": "2026-11-19"
   },
   {
     "name_en": null,
@@ -7240,14 +7019,14 @@
     "date_end": "2027-11-06",
     "official_url": "https://marathondessables.com/en/event/mds-120-jordan-2027",
     "registration_url": "https://marathondessables.com/en/event/mds-120-jordan-2027",
-    "registration_open": null,
+    "registration_open": "2026-11-18",
     "registration_close": null,
     "late_registration": {
       "enabled": false,
       "window": null,
       "notes": null
     },
-    "status": "upcoming_unknown",
+    "status": "open",
     "transport": "飞到安曼 Queen Alia 国际机场。官方周内在机场、酒店和沙漠之间有接驳，约 1 小时。非官方日期：6–7 人小巴约 120 美元，2–3 人出租车约 70 美元。",
     "scale_total": null,
     "categories": [
@@ -7260,7 +7039,7 @@
         "fee": {
           "amount": 2450,
           "currency": "EUR",
-          "notes": "Crowne Plaza 套餐，2026-11-18 至 11-30 的价格。前 100 名再减 100 欧元。含比赛、酒店和接驳，不是单独号码布。"
+          "notes": "Crowne Plaza 套餐。价格表：2026-11-18 至 11-30 为 2450 欧元/人，12 月 1–31 日 2500 欧元，2027-01-04 起 2550 欧元；前 100 名再减 100 欧元。2026-11-19 报价卡片显示 2450 欧元、划线 2550 欧元、减 100 欧元，并写有效期至 11 月 30 日。Hilton King Size 与 Hilton Twin 卡片同日显示 2600 欧元、划线 2700 欧元、减 100 欧元，同样写至 11 月 30 日。含比赛、酒店和接驳，不是单独号码布。页面没有按距离拆价。"
         },
         "itra_points": null,
         "notes": "三阶段。第二阶段约 20 公里。总距离为约数，可能因地形缩短。"
@@ -7274,7 +7053,7 @@
         "fee": {
           "amount": 2450,
           "currency": "EUR",
-          "notes": "与 70/120 同一套餐价，页面没有按距离拆价。"
+          "notes": "Crowne Plaza 套餐。价格表：2026-11-18 至 11-30 为 2450 欧元/人，12 月 1–31 日 2500 欧元，2027-01-04 起 2550 欧元；前 100 名再减 100 欧元。2026-11-19 报价卡片显示 2450 欧元、划线 2550 欧元、减 100 欧元，并写有效期至 11 月 30 日。Hilton King Size 与 Hilton Twin 卡片同日显示 2600 欧元、划线 2700 欧元、减 100 欧元，同样写至 11 月 30 日。含比赛、酒店和接驳，不是单独号码布。页面没有按距离拆价。"
         },
         "itra_points": null,
         "notes": "第二阶段约 40 公里。"
@@ -7288,20 +7067,22 @@
         "fee": {
           "amount": 2450,
           "currency": "EUR",
-          "notes": "Crowne Plaza 套餐 11 月 18–30 日价。12 月 1–31 日 2500 欧元，2027-01-04 起 2550 欧元。"
+          "notes": "Crowne Plaza 套餐。价格表：2026-11-18 至 11-30 为 2450 欧元/人，12 月 1–31 日 2500 欧元，2027-01-04 起 2550 欧元；前 100 名再减 100 欧元。2026-11-19 报价卡片显示 2450 欧元、划线 2550 欧元、减 100 欧元，并写有效期至 11 月 30 日。Hilton King Size 与 Hilton Twin 卡片同日显示 2600 欧元、划线 2700 欧元、减 100 欧元，同样写至 11 月 30 日。含比赛、酒店和接驳，不是单独号码布。页面没有按距离拆价。"
         },
         "itra_points": null,
         "notes": "第二阶段约 60 公里。第一、三阶段各约 25–30 公里。"
       }
     ],
-    "entry_requirements": "官网在本次抓取时仍写 Registration opens on November 18 at 12:00 PM (UTC+2)，并显示大约 13 小时 57 分倒计时，因此不标成已经开放。自带全部食物。补给点约每 8–12 公里有水，每阶段后发 5 升水。2027-04-30 前可免费取消；5 月 1–30 日扣 25%；5 月 31 日至 6 月 30 日扣 50%；其后不退，6 月 30 日前可免费延到下一届。须交组织方体检表，医生签署且距开赛不足 90 天，不接受 PPS。",
+    "entry_requirements": "2026-11-19 英文活动页和法文活动页都不再显示报名倒计时，改为距离开赛的倒计时。英文新闻页横幅写 MDS 120 Jordan 2027: Registration is now open，活动菜单把 Jordan 2027 标成 Open。因此按 2026-11-18 12:00（UTC+2）已经开放记录。没有公布报名截止日和名额上限。自带全部食物。补给点约每 8–12 公里有水，每阶段后发 5 升水。2027-04-30 前可免费取消；5 月 1–30 日扣 25%；5 月 31 日至 6 月 30 日扣 50%；其后不退。6 月 30 日前可免费延到下一届，7 月 1 日至 8 月 29 日延期费 250 欧元，8 月 30 日起不能延期。须交组织方体检表，医生签署且距开赛不足 90 天，不接受 PPS。",
     "mandatory_gear": "WAA ULTRABAG 20L 或同等背包；至少 1.5 升水具；睡袋；头灯加一整套备用电池或充电宝；10 枚安全别针；打火机；哨子；金属刀；皮肤消毒剂；信号镜；生存毯；8 块高汤块（每天 2 块）；防晒霜；太阳镜；100 欧元现金；护照；组织方体检表。",
     "sponsors": null,
     "organizer": "Marathon des Sables",
     "sources": [
       "https://marathondessables.com/en/event/mds-120-jordan-2027",
-      "https://marathondessables.com/en/"
+      "https://marathondessables.com/en/",
+      "https://marathondessables.com/en/news",
+      "https://marathondessables.com/fr/evenement/mds-120-jordanie-2027"
     ],
-    "last_checked": "2026-11-18"
+    "last_checked": "2026-11-19"
   }
 ]

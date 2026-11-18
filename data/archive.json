@@ -1364,5 +1364,226 @@
       "https://werun.hk/game/tl2026",
       "https://translantau.utmb.world/en"
     ]
+  },
+  {
+    "name_en": null,
+    "registration_open": null,
+    "registration_close": "2026-11-18",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": null,
+    "scale_total": 2800,
+    "entry_requirements": "先报先得，额满即止。比赛由10月24–25日改期至11月28–29日。2026-11-16 报名页仍为 OPEN，截止 2026-11-18 23:59。「72KM远征组」仍标注该组别取消，按钮 Closed；57、38、10 公里仍可报名。页面简介仍写规模 2800 人并列出已取消的 72 公里。 2026-11-17 报名页仍为 OPEN，截止仍为 2026-11-18 23:59。72 公里仍标注该组别取消，按钮 Closed；57、38、10 公里按钮仍为 699、499、99 元，亲子 1 大 1 小为 198 元。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": null,
+    "last_checked": "2026-11-17",
+    "id": "cn-jinggangshan-2026",
+    "name_zh": "2026井冈山越野赛",
+    "country": "中国",
+    "region": "江西·吉安·井冈山",
+    "date_start": "2026-11-28",
+    "date_end": "2026-11-29",
+    "official_url": "https://zuicool.com/event/94253",
+    "registration_url": "https://zuicool.com/event/94253",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "72KM远征",
+        "distance_km": 72,
+        "elevation_gain_m": 4188,
+        "cutoff_hours": 22,
+        "quota_or_entrants": "400人",
+        "fee": {
+          "amount": 799,
+          "currency": "CNY",
+          "notes": "组别已取消，按钮为 Closed；数字是按钮旁标价"
+        },
+        "itra_points": "3分",
+        "notes": "2026-11-15 报名页标注「该组别取消」，按钮 Closed。简介仍写 400 人、累计下降 4190 米、11月28日 5:30 出发，按钮旁显示 799.00。"
+      },
+      {
+        "name": "57KM星火",
+        "distance_km": 57,
+        "elevation_gain_m": 3431,
+        "cutoff_hours": 16,
+        "quota_or_entrants": "800人",
+        "fee": {
+          "amount": 699,
+          "currency": "CNY"
+        },
+        "itra_points": "3分",
+        "notes": "累计下降3433米；11月28日6:30出发"
+      },
+      {
+        "name": "38KM征途",
+        "distance_km": 38,
+        "elevation_gain_m": 2130,
+        "cutoff_hours": 11,
+        "quota_or_entrants": "1000人",
+        "fee": {
+          "amount": 499,
+          "currency": "CNY"
+        },
+        "itra_points": "2分",
+        "notes": "累计下降2140米；11月28日7:30出发"
+      },
+      {
+        "name": "10KM追光",
+        "distance_km": 10,
+        "elevation_gain_m": 450,
+        "cutoff_hours": 4,
+        "quota_or_entrants": "600人",
+        "fee": {
+          "amount": 99,
+          "currency": "CNY",
+          "notes": "个人 99 元；亲子 1 大 1 小按钮 198 元"
+        },
+        "itra_points": null,
+        "notes": "含个人与亲子；累计下降456米；11月28日8:30出发"
+      }
+    ],
+    "sources": [
+      "https://zuicool.com/event/94253",
+      "https://reg.zuicool.com/en/36916"
+    ]
+  },
+  {
+    "name_en": null,
+    "registration_open": "2026-08-18",
+    "registration_close": "2026-11-18",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": "剑阁县白龙镇健全村村委会。线路为翠云廊南线断碑梁至小垭子。",
+    "scale_total": null,
+    "entry_requirements": "额满即止。9月8日10:00前为早鸟，该窗口已过。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": null,
+    "last_checked": "2026-11-10",
+    "id": "cn-jianmen-2026",
+    "name_zh": "2026剑门关越野挑战赛（白龙站）",
+    "country": "中国",
+    "region": "四川·广元·剑阁·白龙",
+    "date_start": "2026-12-20",
+    "date_end": "2026-12-20",
+    "official_url": "https://zuicool.com/event/76218",
+    "registration_url": "https://zuicool.com/event/76218",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "24K专业",
+        "distance_km": 24.16,
+        "elevation_gain_m": 535,
+        "cutoff_hours": 5,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "爬升535米+，下降556米+。最高856米，最低631米。9:00出发"
+      },
+      {
+        "name": "14K徒步",
+        "distance_km": 14.19,
+        "elevation_gain_m": 281,
+        "cutoff_hours": 4,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "含亲子。爬升281米+。儿童6岁以上18岁以下须家长陪同"
+      }
+    ],
+    "sources": [
+      "https://zuicool.com/event/76218"
+    ]
+  },
+  {
+    "name_en": null,
+    "registration_open": null,
+    "registration_close": "2026-11-18",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "closed",
+    "transport": "坪山体育中心体育馆。",
+    "scale_total": null,
+    "entry_requirements": "先报先得，额满即止。报名截止 2026-11-18 23:59。10月20日前为早鸟，该窗口已过。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": null,
+    "sources": [
+      "https://reg.zuicool.com/en/86874"
+    ],
+    "last_checked": "2026-11-15",
+    "id": "cn-pingshan-40-2026",
+    "name_zh": "2026鲲鹏勇士·坪山40越野赛",
+    "country": "中国",
+    "region": "广东·深圳·坪山",
+    "date_start": "2026-12-12",
+    "date_end": "2026-12-12",
+    "official_url": "https://reg.zuicool.com/en/86874",
+    "registration_url": "https://reg.zuicool.com/en/86874",
+    "categories": [
+      {
+        "name": "穿山越岭40km",
+        "distance_km": 41.2,
+        "elevation_gain_m": 1656,
+        "cutoff_hours": 9,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 599,
+          "currency": "CNY"
+        },
+        "itra_points": "拟2分",
+        "notes": "6:00–15:00"
+      },
+      {
+        "name": "寻幽探秘30km",
+        "distance_km": 31.4,
+        "elevation_gain_m": 1283,
+        "cutoff_hours": 8,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 499,
+          "currency": "CNY"
+        },
+        "itra_points": "拟1分",
+        "notes": "6:30–14:30"
+      },
+      {
+        "name": "初尝野趣20km",
+        "distance_km": 23.3,
+        "elevation_gain_m": 688,
+        "cutoff_hours": 6,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 399,
+          "currency": "CNY"
+        },
+        "itra_points": "拟1分",
+        "notes": "7:30–13:30"
+      },
+      {
+        "name": "亲子共赴6km",
+        "distance_km": 6.2,
+        "elevation_gain_m": 31,
+        "cutoff_hours": 3,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 499,
+          "currency": "CNY",
+          "notes": "1 大 1 小。青少年 5–12 周岁，须由 18–65 周岁成人陪同"
+        },
+        "itra_points": "拟0分",
+        "notes": "8:30–11:30"
+      }
+    ]
   }
 ]
