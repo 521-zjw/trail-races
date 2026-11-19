@@ -5174,8 +5174,8 @@
     "registration_close": null,
     "late_registration": {
       "enabled": true,
-      "window": null,
-      "notes": "2026-11-16 官网首页横幅为 SOLD OUT，已列出的 131/88/57.5/35/22/12.7 公里标 Full，首页没有 Mini。同日重读 MZL Deportes 2026-11-09 文章，仍写周日 11 月 22 日上午的 Mini Bariloche（儿童）是唯一仍接受现场报名的距离，没有写费用和现场截止时刻。巴里洛切市政府 2026-10-22 文章则写现场报名为 11 月 18 日至 21 日 9:00–19:00、地点 Puerto San Carlos，儿童赛周日 10:30 在市民中心。两处对现场窗口的说法不同，结束日不填。 2026-11-17 首页六个已列出距离的 raceStatus 均为 registration_sold_out，菜单为 SOLD OUT，仍没有 Mini。同日重读 MZL，仍写周日上午的儿童赛是唯一接受现场报名的距离，没有费用和时刻。市政府文章摘要写 11 月 18 日至 21 日 9:00–19:00 在 Puerto San Carlos 现场报名，周日 10:30 在市民中心开跑；同文日程把周三至周五写成 10:00–19:00 的领物和 Mini 报名，周六日程没有单独的报名时段。两处来源以及市政府文章内部的时刻不一致，结束日仍不填。"
+      "window": "2026-11-18/2026-11-21",
+      "notes": "2026-11-16 官网首页横幅为 SOLD OUT，已列出的 131/88/57.5/35/22/12.7 公里标 Full，首页没有 Mini。同日重读 MZL Deportes 2026-11-09 文章，仍写周日 11 月 22 日上午的 Mini Bariloche（儿童）是唯一仍接受现场报名的距离，没有写费用和现场截止时刻。巴里洛切市政府 2026-10-22 文章则写现场报名为 11 月 18 日至 21 日 9:00–19:00、地点 Puerto San Carlos，儿童赛周日 10:30 在市民中心。两处对现场窗口的说法不同，结束日不填。 2026-11-17 首页六个已列出距离的 raceStatus 均为 registration_sold_out，菜单为 SOLD OUT，仍没有 Mini。同日重读 MZL，仍写周日上午的儿童赛是唯一接受现场报名的距离，没有费用和时刻。市政府文章摘要写 11 月 18 日至 21 日 9:00–19:00 在 Puerto San Carlos 现场报名，周日 10:30 在市民中心开跑；同文日程把周三至周五写成 10:00–19:00 的领物和 Mini 报名，周六日程没有单独的报名时段。两处来源以及市政府文章内部的时刻不一致，结束日仍不填。 2026-11-18《El Cordillerano》写超过 4000 人已报名且名额已满；Mini Bariloche 是唯一仍可报名的比赛，须到 Puerto San Carlos 现场报名，正文写 11 月 18–21 日 9:00–19:00，周日 10:30 在市民中心开跑。同文日程把周三至周五写成 10:00–19:00 的领物和 Mini 报名，周六日程没有单独列出报名时段。时刻仍不一致，窗口结束日记 2026-11-21，钟点不填死。"
     },
     "status": "late_open",
     "transport": null,
@@ -5184,7 +5184,7 @@
     "mandatory_gear": null,
     "sponsors": null,
     "organizer": "UTMB World Series",
-    "last_checked": "2026-11-17",
+    "last_checked": "2026-11-20",
     "id": "ar-bariloche-2026",
     "name_zh": "巴塔哥尼亚巴里洛切 by UTMB 2026",
     "country": "阿根廷",
@@ -5262,7 +5262,7 @@
         "quota_or_entrants": null,
         "fee": null,
         "itra_points": null,
-        "notes": "儿童赛。MZL 2026-11-09 写周日上午现场报名；市政府 2026-10-22 文章写 11 月 22 日 10:30 开跑，现场报名写在 18–21 日。距离、费用未写。"
+        "notes": "儿童赛。MZL 2026-11-09 写周日上午现场报名；市政府 2026-10-22 文章写 11 月 22 日 10:30 开跑，现场报名写在 18–21 日。距离、费用未写。 2026-11-18《El Cordillerano》确认儿童赛是唯一仍开放的报名，现场地点 Puerto San Carlos，周日 10:30 开跑。距离和费用仍未写。"
       }
     ],
     "sources": [
@@ -5270,7 +5270,8 @@
       "https://utmb.world/news/event-november-2026",
       "https://utmb.world/fr/utmb-world-series-events",
       "https://www.mzldeportes.com/se-viene-patagonia-bariloche-by-utmb/",
-      "https://barilocheinforma.gob.ar/bariloche-se-prepara-para-recibir-a-mas-de-4-000-corredores-de-patagonia-by-utmb/"
+      "https://barilocheinforma.gob.ar/bariloche-se-prepara-para-recibir-a-mas-de-4-000-corredores-de-patagonia-by-utmb/",
+      "https://www.elcordillerano.com.ar/noticias/2026/11/18/273933-el-mundo-corre-en-bariloche-presentaron-la-patagonia-bariloche-by-utmb-con-mas-de-4000-competidores"
     ]
   },
   {
@@ -6842,7 +6843,7 @@
     "late_registration": {
       "enabled": false,
       "window": null,
-      "notes": "慈善号码布仍可申请：100 个，先到先得，没有候补，捐款不退，页面没有写结束日。常规 Index 报名已经开放，所以状态用 open，不再单独标补录。"
+      "notes": "慈善号码布仍可申请：100 个，先到先得，没有候补，捐款不退，页面没有写结束日。Index 与一般报名都已开放，状态用 open，不再单独标补录。"
     },
     "status": "open",
     "transport": "报名条件写 Wild 70、Wild 55、Wild Glacier Marathon、Wild 25 的起点接驳只从克朗蒙塔纳出发。Wild 110 写有存包运送。",
@@ -6876,7 +6877,7 @@
         "quota_or_entrants": null,
         "fee": null,
         "itra_points": null,
-        "notes": "报名费 CHF 130–180。慈善捐款另计 200 欧元。"
+        "notes": "报名费 CHF 130–180。慈善捐款另计 200 欧元。 FAQ 的 2027 Running Stones 表为 4。"
       },
       {
         "name": "Wild Glacier Marathon",
@@ -6886,7 +6887,7 @@
         "quota_or_entrants": null,
         "fee": null,
         "itra_points": null,
-        "notes": "首页卡片 41 公里、2500 米+。报名费 CHF 120–170。慈善捐款另计 200 欧元。"
+        "notes": "首页卡片 41 公里、2500 米+。报名费 CHF 120–170。慈善捐款另计 200 欧元。 FAQ 的 2027 Running Stones 表为 4。"
       },
       {
         "name": "Wild 25",
@@ -6896,7 +6897,7 @@
         "quota_or_entrants": null,
         "fee": null,
         "itra_points": null,
-        "notes": "首页卡片 26 公里、1200 米+。报名费 CHF 90–115。慈善捐款另计 150 欧元。16 岁及以上。"
+        "notes": "首页卡片 26 公里、1200 米+。报名费 CHF 90–115。慈善捐款另计 150 欧元。16 岁及以上。 FAQ 的 2027 Running Stones 表为 2。"
       },
       {
         "name": "Wild 10",
@@ -6909,7 +6910,7 @@
         "notes": "首页 首页现为 Registrations open。报名费 CHF 50–70。慈善捐款表没有这一距离。"
       }
     ],
-    "entry_requirements": "2026-11-18 官网首页标 Registrations open。报名条件页：Index 优先从 2026-11-17 10:00（瑞士时间）起 48 小时；一般报名 2026-11-19 10:00（瑞士时间）。先到先得，没有抽签，没有候补，售罄即止。本地选手（列克、锡永、Frutigen-Niedersimmental、Obersimmental-Saanen）在 2027-02-19 前可享早鸟价，须交居住证明。报名费为区间价，另加不可退的 8% 手续费，只收信用卡。瑞士不强制体检证明。须自备在瑞士有效的意外及搜救保险。年龄：110/70/55/冰川马拉松为 2009 年及更早出生；Wild 25 为 2011 年及更早；Wild 10 个人为 2009 年及更早，团体可为 2017 年及更早。",
+    "entry_requirements": "2026-11-20 官网首页仍标 Registrations open。报名条件页写 Index 优先 2026-11-17 10:00（瑞士时间），一般报名 2026-11-19 10:00（瑞士时间）。FAQ 写所有距离都不要求 UTMB Index，没有 Index 的选手须等报名开放后的 48 小时；该时点已过，因此一般报名按已开放记录。先到先得，没有抽签，没有候补，售罄即止。没有公布总名额和截止日。FAQ 写本地选手（锡永、列克、Frutigen-Niedersimmental、Obersimmental-Saanen，按居住地邮编，不限国籍）在 2026-11-17 至 2027-02-19 可享早鸟价，并保留 400 个号码布；报名时填写居住地址，之后须交居住证明才能最终确认。报名费为区间价，另加不可退的 8% 手续费，只收信用卡。瑞士不强制体检证明。须自备在瑞士有效的意外及搜救保险。年龄：110/70/55/冰川马拉松为 2009 年及更早出生；Wild 25 为 2011 年及更早；Wild 10 个人为 2009 年及更早，团体可为 2017 年及更早。FAQ 标题为 Running Stones 2027 的表：Wild 110 为 8、Wild 70 为 6、Wild 55 与冰川马拉松为 4、Wild 25 为 2。同页后部另有一组较小数字，与这张 2027 表不一致，不采用。",
     "mandatory_gear": null,
     "sponsors": null,
     "organizer": null,
@@ -6918,9 +6919,10 @@
       "https://wildstrubel.utmb.world/charity-bibs",
       "https://wildstrubel.utmb.world/charitybibconditions",
       "https://wildstrubel.utmb.world/races-runners/other-information/registration-conditions",
-      "https://utmb.world/open-registrations"
+      "https://utmb.world/open-registrations",
+      "https://wildstrubel.utmb.world/faq"
     ],
-    "last_checked": "2026-11-19"
+    "last_checked": "2026-11-20"
   },
   {
     "name_en": null,
@@ -7073,7 +7075,7 @@
         "notes": "第二阶段约 60 公里。第一、三阶段各约 25–30 公里。"
       }
     ],
-    "entry_requirements": "2026-11-19 英文活动页和法文活动页都不再显示报名倒计时，改为距离开赛的倒计时。英文新闻页横幅写 MDS 120 Jordan 2027: Registration is now open，活动菜单把 Jordan 2027 标成 Open。因此按 2026-11-18 12:00（UTC+2）已经开放记录。没有公布报名截止日和名额上限。自带全部食物。补给点约每 8–12 公里有水，每阶段后发 5 升水。2027-04-30 前可免费取消；5 月 1–30 日扣 25%；5 月 31 日至 6 月 30 日扣 50%；其后不退。6 月 30 日前可免费延到下一届，7 月 1 日至 8 月 29 日延期费 250 欧元，8 月 30 日起不能延期。须交组织方体检表，医生签署且距开赛不足 90 天，不接受 PPS。",
+    "entry_requirements": "2026-11-19 英文活动页和法文活动页都不再显示报名倒计时，改为距离开赛的倒计时。英文新闻页横幅写 MDS 120 Jordan 2027: Registration is now open，活动菜单把 Jordan 2027 标成 Open。因此按 2026-11-18 12:00（UTC+2）已经开放记录。没有公布报名截止日和名额上限。自带全部食物。补给点约每 8–12 公里有水，每阶段后发 5 升水。2027-04-30 前可免费取消；5 月 1–30 日扣 25%；5 月 31 日至 6 月 30 日扣 50%；其后不退。6 月 30 日前可免费延到下一届，7 月 1 日至 8 月 29 日延期费 250 欧元，8 月 30 日起不能延期。须交组织方体检表，医生签署且距开赛不足 90 天，不接受 PPS。2026-11-20 复核英文活动页：Crowne Plaza 仍为 11 月 18–30 日 2450 欧元、12 月 2500 欧元、2027-01-04 起 2550 欧元，前 100 名再减 100 欧元；报价卡片仍是 2450/划线 2550 与 Hilton 2600/划线 2700，均写至 11 月 30 日。仍没有报名截止日和名额上限。",
     "mandatory_gear": "WAA ULTRABAG 20L 或同等背包；至少 1.5 升水具；睡袋；头灯加一整套备用电池或充电宝；10 枚安全别针；打火机；哨子；金属刀；皮肤消毒剂；信号镜；生存毯；8 块高汤块（每天 2 块）；防晒霜；太阳镜；100 欧元现金；护照；组织方体检表。",
     "sponsors": null,
     "organizer": "Marathon des Sables",
@@ -7083,6 +7085,6 @@
       "https://marathondessables.com/en/news",
       "https://marathondessables.com/fr/evenement/mds-120-jordanie-2027"
     ],
-    "last_checked": "2026-11-19"
+    "last_checked": "2026-11-20"
   }
 ]
