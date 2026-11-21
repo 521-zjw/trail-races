@@ -1945,5 +1945,217 @@
         "notes": "累计下降 763 米。12月5日 8:00–12:00"
       }
     ]
+  },
+  {
+    "name_en": null,
+    "registration_open": null,
+    "registration_close": "2026-11-21",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": "彭州通济海窝子古镇古戏台。",
+    "scale_total": 800,
+    "entry_requirements": "先报先得，额满即止。 2026-11-22 最酷赛事页三组按钮均为已截止，没有补录入口。按钮价格：22 公里 189 元，10 公里个人 149 元，10 公里亲子（一大一小）199 元。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "户外特工",
+    "last_checked": "2026-11-22",
+    "id": "cn-pengzhou-2026",
+    "name_zh": "2026户外特工「山顶见」越野赛·成都总决赛",
+    "country": "中国",
+    "region": "四川·成都·彭州·海窝子",
+    "date_start": "2026-12-13",
+    "date_end": "2026-12-13",
+    "official_url": "https://zuicool.com/event/38093",
+    "registration_url": "https://zuicool.com/event/38093",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "湔谷逐峰22KM",
+        "distance_km": 22,
+        "elevation_gain_m": 1200,
+        "cutoff_hours": 6,
+        "quota_or_entrants": "400人",
+        "fee": {
+          "amount": 189,
+          "currency": "CNY",
+          "notes": "2026-11-22 页面按钮价，报名已截止。"
+        },
+        "itra_points": "拟1分",
+        "notes": "海拔725–1000米；9:00出发"
+      },
+      {
+        "name": "踏野寻风10KM",
+        "distance_km": 10,
+        "elevation_gain_m": 500,
+        "cutoff_hours": 6,
+        "quota_or_entrants": "200人",
+        "fee": {
+          "amount": 149,
+          "currency": "CNY",
+          "notes": "个人组按钮价。亲子组（一大一小）按钮为 199 元。报名已截止。"
+        },
+        "itra_points": "拟0分",
+        "notes": "另有亲子组200人"
+      }
+    ],
+    "sources": [
+      "https://zuicool.com/event/38093"
+    ]
+  },
+  {
+    "name_en": "Western States Endurance Run 2027",
+    "registration_open": "2026-11-01",
+    "registration_close": "2026-11-21",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": null,
+    "scale_total": null,
+    "entry_requirements": "比赛日年满18岁。资格赛窗口：2025-11-03至2026-11-08，成绩须在线可查。抽签申请2026-11-01至11-21在 portal.wser.org 提交。2026-12-05抽签（Placer High School礼堂，08:00 PST起）。中签后10天内在 ultrasignup.com 完成缴费，否则失去名额与已累积签数。自动入选者须在2026-12-04前完成申请，同样需要窗口内的资格赛。 2026-11-22 入口说明页和 portal.wser.org 都仍写抽签申请窗口为 2026-11-01 至 2026-11-21。当天已过，页面没有另开补报。抽签仍定于 2026-12-05，候补名单在抽签时产生，不是现在可申请的窗口。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "Western States Endurance Run",
+    "last_checked": "2026-11-22",
+    "id": "us-western-states-2027",
+    "name_zh": "西部州100英里耐力跑 2027（抽签申请）",
+    "country": "美国",
+    "region": "加利福尼亚·Olympic Valley至Auburn",
+    "date_start": "2027-06-26",
+    "date_end": "2027-06-27",
+    "official_url": "https://www.wser.org/entry-process/",
+    "registration_url": "https://portal.wser.org/",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "100英里",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": "抽签另设75人有序候补",
+        "fee": {
+          "amount": 575,
+          "currency": "USD",
+          "notes": "中签后报名费，另加线上手续费。抽签申请本身官网未单列另一费用"
+        },
+        "itra_points": null,
+        "notes": "周六06:00开跑（UltraSignup页面）。距离官网以100英里计，未换算公里"
+      }
+    ],
+    "sources": [
+      "https://www.wser.org/entry-process/",
+      "https://portal.wser.org/",
+      "https://ultrasignup.com/register.aspx?did=144658"
+    ]
+  },
+  {
+    "name_en": "Patagonia Bariloche by UTMB 2026",
+    "registration_open": null,
+    "registration_close": "2026-11-21",
+    "late_registration": {
+      "enabled": false,
+      "window": "2026-11-18/2026-11-21",
+      "notes": "2026-11-16 官网首页横幅为 SOLD OUT，已列出的 131/88/57.5/35/22/12.7 公里标 Full，首页没有 Mini。同日重读 MZL Deportes 2026-11-09 文章，仍写周日 11 月 22 日上午的 Mini Bariloche（儿童）是唯一仍接受现场报名的距离，没有写费用和现场截止时刻。巴里洛切市政府 2026-10-22 文章则写现场报名为 11 月 18 日至 21 日 9:00–19:00、地点 Puerto San Carlos，儿童赛周日 10:30 在市民中心。两处对现场窗口的说法不同，结束日不填。 2026-11-17 首页六个已列出距离的 raceStatus 均为 registration_sold_out，菜单为 SOLD OUT，仍没有 Mini。同日重读 MZL，仍写周日上午的儿童赛是唯一接受现场报名的距离，没有费用和时刻。市政府文章摘要写 11 月 18 日至 21 日 9:00–19:00 在 Puerto San Carlos 现场报名，周日 10:30 在市民中心开跑；同文日程把周三至周五写成 10:00–19:00 的领物和 Mini 报名，周六日程没有单独的报名时段。两处来源以及市政府文章内部的时刻不一致，结束日仍不填。 2026-11-18《El Cordillerano》写超过 4000 人已报名且名额已满；Mini Bariloche 是唯一仍可报名的比赛，须到 Puerto San Carlos 现场报名，正文写 11 月 18–21 日 9:00–19:00，周日 10:30 在市民中心开跑。同文日程把周三至周五写成 10:00–19:00 的领物和 Mini 报名，周六日程没有单独列出报名时段。时刻仍不一致，窗口结束日记 2026-11-21，钟点不填死。 2026-11-22 官网首页已列出的距离仍标 Full，没有 Mini 报名入口。已公布的儿童赛现场窗口到 2026-11-21 为止，当天已过，没有看到新的补录、候补或慈善号码布，因此移入档案。比赛日本身仍到 2026-11-22。"
+    },
+    "status": "closed",
+    "transport": null,
+    "scale_total": 4000,
+    "entry_requirements": "2026-11-11 官网组别标 Full。UTMB 11月5日新闻稿写11月18日至22日，约4000人，女性约40%，四个距离类别、六个完赛距离，赛道经过纳韦尔瓦皮与马普切社区传统土地。儿童赛收入用于给当地学校买运动器材。 同篇报道写 55、85、130 公里各组前三名男女可获 UTMB 直通；超过 22 公里完赛可参加 UTMB 抽签。领物 11 月 18 日，开幕式 11 月 19 日下午；11 月 20 日开跑 33、55、130 公里，11 月 21 日开跑 12、22、85 公里。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "UTMB World Series",
+    "last_checked": "2026-11-22",
+    "id": "ar-bariloche-2026",
+    "name_zh": "巴塔哥尼亚巴里洛切 by UTMB 2026",
+    "country": "阿根廷",
+    "region": "巴里洛切·纳韦尔瓦皮国家公园",
+    "date_start": "2026-11-18",
+    "date_end": "2026-11-22",
+    "official_url": "https://bariloche.utmb.world/",
+    "registration_url": "https://bariloche.utmb.world/",
+    "categories": [
+      {
+        "name": "TRONADOR 130K",
+        "distance_km": 131,
+        "elevation_gain_m": 6580,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "首页卡片日期11月20日，标 Full"
+      },
+      {
+        "name": "FREY 85K",
+        "distance_km": 88,
+        "elevation_gain_m": 4760,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "UTMB赛事列表名为 FREY 85K，对应首页88公里、爬升4760米+。列表页未重复 Full，主页该距离在已满的一组里"
+      },
+      {
+        "name": "BELLA VISTA 55K",
+        "distance_km": 57.5,
+        "elevation_gain_m": 3000,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "列表名为 BELLA VISTA 55K，对应57.5公里、爬升3000米+"
+      },
+      {
+        "name": "NAHUEL HUAPI 33K",
+        "distance_km": 35,
+        "elevation_gain_m": 1425,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "列表名为 NAHUEL HUAPI 33K，对应35公里、爬升1425米+"
+      },
+      {
+        "name": "CERRO LINDO 22K",
+        "distance_km": 22,
+        "elevation_gain_m": 985,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "列表名为 CERRO LINDO 22K，对应22公里、爬升985米+"
+      },
+      {
+        "name": "OTTO 12K",
+        "distance_km": 12.7,
+        "elevation_gain_m": 500,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "2026-11-15 首页 12.7 公里、爬升 500 米+，标 Full"
+      },
+      {
+        "name": "Mini Bariloche",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "儿童赛。MZL 2026-11-09 写周日上午现场报名；市政府 2026-10-22 文章写 11 月 22 日 10:30 开跑，现场报名写在 18–21 日。距离、费用未写。 2026-11-18《El Cordillerano》确认儿童赛是唯一仍开放的报名，现场地点 Puerto San Carlos，周日 10:30 开跑。距离和费用仍未写。"
+      }
+    ],
+    "sources": [
+      "https://bariloche.utmb.world/",
+      "https://utmb.world/news/event-november-2026",
+      "https://utmb.world/fr/utmb-world-series-events",
+      "https://www.mzldeportes.com/se-viene-patagonia-bariloche-by-utmb/",
+      "https://barilocheinforma.gob.ar/bariloche-se-prepara-para-recibir-a-mas-de-4-000-corredores-de-patagonia-by-utmb/",
+      "https://www.elcordillerano.com.ar/noticias/2026/11/18/273933-el-mundo-corre-en-bariloche-presentaron-la-patagonia-bariloche-by-utmb-con-mas-de-4000-competidores"
+    ]
   }
 ]
