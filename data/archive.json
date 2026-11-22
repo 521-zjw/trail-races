@@ -2157,5 +2157,81 @@
       "https://barilocheinforma.gob.ar/bariloche-se-prepara-para-recibir-a-mas-de-4-000-corredores-de-patagonia-by-utmb/",
       "https://www.elcordillerano.com.ar/noticias/2026/11/18/273933-el-mundo-corre-en-bariloche-presentaron-la-patagonia-bariloche-by-utmb-con-mas-de-4000-competidores"
     ]
+  },
+  {
+    "name_en": null,
+    "registration_open": null,
+    "registration_close": "2026-11-22",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": null,
+    "scale_total": 2500,
+    "entry_requirements": "先报先得，额满即止。 2026-11-23 最酷赛事页各组按钮均为已截止，没有补录入口。按钮价：40 公里 599 元，20 公里 399 元，8 公里 169 元，8 公里亲子（1大1小）338 元。",
+    "mandatory_gear": null,
+    "sponsors": [
+      "smart",
+      "拓路者"
+    ],
+    "organizer": "怪兽小太阳赛事",
+    "last_checked": "2026-11-23",
+    "id": "cn-taihu-100-2026",
+    "name_zh": "smart汽车2026太湖100·吴越玄冬跑山赛",
+    "country": "中国",
+    "region": "浙江·湖州·长兴",
+    "date_start": "2026-12-06",
+    "date_end": "2026-12-06",
+    "official_url": "https://zuicool.com/event/62536",
+    "registration_url": "https://zuicool.com/event/62536",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "40公里",
+        "distance_km": 41.2,
+        "elevation_gain_m": 2556,
+        "cutoff_hours": 11,
+        "quota_or_entrants": "700人",
+        "fee": {
+          "amount": 599,
+          "currency": "CNY",
+          "notes": "2026-11-23 页面按钮价，报名已截止。"
+        },
+        "itra_points": null,
+        "notes": "累计下降2655米；12月6日7:00出发"
+      },
+      {
+        "name": "20公里",
+        "distance_km": 23.3,
+        "elevation_gain_m": 1596,
+        "cutoff_hours": 7,
+        "quota_or_entrants": "800人",
+        "fee": {
+          "amount": 399,
+          "currency": "CNY",
+          "notes": "2026-11-23 页面按钮价，报名已截止。"
+        },
+        "itra_points": null,
+        "notes": "累计下降1589米；7:30出发"
+      },
+      {
+        "name": "8公里",
+        "distance_km": 8.5,
+        "elevation_gain_m": 583,
+        "cutoff_hours": 3,
+        "quota_or_entrants": "1000人",
+        "fee": {
+          "amount": 169,
+          "currency": "CNY",
+          "notes": "2026-11-23 页面按钮价，报名已截止。亲子（1大1小）按钮为 338 元。"
+        },
+        "itra_points": null,
+        "notes": "含亲子；8:30出发"
+      }
+    ],
+    "sources": [
+      "https://zuicool.com/event/62536"
+    ]
   }
 ]

@@ -1,69 +1,5 @@
 [
   {
-    "name_en": null,
-    "registration_open": null,
-    "registration_close": "2026-11-22",
-    "late_registration": {
-      "enabled": false,
-      "window": null,
-      "notes": null
-    },
-    "transport": null,
-    "scale_total": 2500,
-    "entry_requirements": "先报先得，额满即止。",
-    "mandatory_gear": null,
-    "sponsors": [
-      "smart",
-      "拓路者"
-    ],
-    "organizer": "怪兽小太阳赛事",
-    "last_checked": "2026-11-10",
-    "id": "cn-taihu-100-2026",
-    "name_zh": "smart汽车2026太湖100·吴越玄冬跑山赛",
-    "country": "中国",
-    "region": "浙江·湖州·长兴",
-    "date_start": "2026-12-06",
-    "date_end": "2026-12-06",
-    "official_url": "https://zuicool.com/event/62536",
-    "registration_url": "https://zuicool.com/event/62536",
-    "status": "open",
-    "categories": [
-      {
-        "name": "40公里",
-        "distance_km": 41.2,
-        "elevation_gain_m": 2556,
-        "cutoff_hours": 11,
-        "quota_or_entrants": "700人",
-        "fee": null,
-        "itra_points": null,
-        "notes": "累计下降2655米；12月6日7:00出发"
-      },
-      {
-        "name": "20公里",
-        "distance_km": 23.3,
-        "elevation_gain_m": 1596,
-        "cutoff_hours": 7,
-        "quota_or_entrants": "800人",
-        "fee": null,
-        "itra_points": null,
-        "notes": "累计下降1589米；7:30出发"
-      },
-      {
-        "name": "8公里",
-        "distance_km": 8.5,
-        "elevation_gain_m": 583,
-        "cutoff_hours": 3,
-        "quota_or_entrants": "1000人",
-        "fee": null,
-        "itra_points": null,
-        "notes": "含亲子；8:30出发"
-      }
-    ],
-    "sources": [
-      "https://zuicool.com/event/62536"
-    ]
-  },
-  {
     "name_en": "Hong Kong Jockey Club Conghua Mountain Marathon 2026",
     "registration_open": "2026-10-27",
     "registration_close": "2026-12-02",
@@ -212,7 +148,7 @@
   {
     "name_en": "2026 Fengqing Dianhong Ultra",
     "registration_open": "2026-10-12",
-    "registration_close": "2026-11-22",
+    "registration_close": "2026-11-29",
     "late_registration": {
       "enabled": false,
       "window": null,
@@ -220,13 +156,13 @@
     },
     "transport": "滇红源广场。",
     "scale_total": null,
-    "entry_requirements": "10月12日10:00至11月22日开放报名，额满即止。",
+    "entry_requirements": "2026-11-23 报名页标题为报名中，截止时间写 2026-11-29 23:59:59。赛事简介仍写 2026-10-12 10:00 至 11-22 日开放报名，与报名页截止日不一致，以报名页为准，因此不按 11-22 日归档。额满即止。10 月 31 日前为早鸟，该窗口已过；页面没有写出早鸟金额，按钮是当前价。",
     "mandatory_gear": null,
     "sponsors": [
       "七彩云南户外运动挑战赛"
     ],
     "organizer": null,
-    "last_checked": "2026-11-10",
+    "last_checked": "2026-11-23",
     "id": "cn-fengqing-2026",
     "name_zh": "2026云南凤庆滇红越野赛",
     "country": "中国",
@@ -234,7 +170,7 @@
     "date_start": "2026-12-12",
     "date_end": "2026-12-13",
     "official_url": "https://zuicool.com/event/26531",
-    "registration_url": "https://zuicool.com/event/26531",
+    "registration_url": "https://reg.zuicool.com/28495",
     "status": "open",
     "categories": [
       {
@@ -243,7 +179,11 @@
         "elevation_gain_m": 3570,
         "cutoff_hours": 18,
         "quota_or_entrants": "400人",
-        "fee": null,
+        "fee": {
+          "amount": 799,
+          "currency": "CNY",
+          "notes": "单人组按钮价。双人组按钮为 1598 元，页面按一组标价，没有写明是否为两人合计。"
+        },
         "itra_points": null,
         "notes": "累计下降3560米；12月12日6:00出发。含单人与双人"
       },
@@ -253,7 +193,11 @@
         "elevation_gain_m": 2626,
         "cutoff_hours": 13.5,
         "quota_or_entrants": "500人",
-        "fee": null,
+        "fee": {
+          "amount": 599,
+          "currency": "CNY",
+          "notes": "2026-11-23 报名按钮价。"
+        },
         "itra_points": null,
         "notes": "12月12日7:30"
       },
@@ -263,7 +207,11 @@
         "elevation_gain_m": 1751,
         "cutoff_hours": 9.5,
         "quota_or_entrants": "600人",
-        "fee": null,
+        "fee": {
+          "amount": 399,
+          "currency": "CNY",
+          "notes": "2026-11-23 报名按钮价。"
+        },
         "itra_points": null,
         "notes": "累计下降1761米"
       },
@@ -273,7 +221,11 @@
         "elevation_gain_m": 514,
         "cutoff_hours": 4.5,
         "quota_or_entrants": "500人",
-        "fee": null,
+        "fee": {
+          "amount": 220,
+          "currency": "CNY",
+          "notes": "2026-11-23 报名按钮价。"
+        },
         "itra_points": null,
         "notes": "累计下降508米"
       },
@@ -283,13 +235,18 @@
         "elevation_gain_m": 180,
         "cutoff_hours": 2,
         "quota_or_entrants": "1300人",
-        "fee": null,
+        "fee": {
+          "amount": 60,
+          "currency": "CNY",
+          "notes": "个人按钮价。亲子（1大1小）按钮为 120 元。"
+        },
         "itra_points": null,
         "notes": "未满18周岁须法定监护人陪同"
       }
     ],
     "sources": [
-      "https://zuicool.com/event/26531"
+      "https://zuicool.com/event/26531",
+      "https://reg.zuicool.com/28495"
     ]
   },
   {
