@@ -4,11 +4,6 @@
     "category": "新闻稿未分距离",
     "athletes": [
       {
-        "name": "Canyon Woodward",
-        "nationality": "美国",
-        "notes": "男子。UTMB Index 906。2026西部州第八"
-      },
-      {
         "name": "Benat Marmissolle",
         "nationality": "法国",
         "notes": "男子。UTMB Index 903。2026年5月 Eryri 100英里冠军"
@@ -39,18 +34,129 @@
         "notes": "女子。UTMB Index 742。加贺温泉 by UTMB 50K 冠军"
       },
       {
-        "name": "Ida-Sophie Hegemann",
-        "nationality": "德国",
-        "notes": "女子。UTMB Index 738。楚格峰100K冠军"
-      },
-      {
         "name": "Julibel Bagayao",
         "nationality": "菲律宾",
         "notes": "女子。UTMB Index 466。香港 MoonTrekker 20K 亚军"
       }
     ],
     "source_url": "https://utmb.world/news/event-november-2026",
-    "last_checked": "2026-11-23",
-    "notes": "2026-11-05 官方新闻写这些选手会参加清迈不同距离，但没有逐人标明组别。不是完整名单。 2026-11-12 复核：精英页仍未渲染出姓名，未见更新的新闻稿。 2026-11-16 精英页打开后仍没有渲染出姓名。 2026-11-17 赛页没有选手姓名；/races-runners/runners/elite 返回 404。 2026-11-18 复核没有新的官方点名。 2026-11-19 重读该新闻，点名没有新增。清迈精英页仍没有渲染出本届姓名。 2026-11-20 重读该新闻，点名未变。清迈精英页仍没有本届姓名。科修斯科精英页是申请标准，不是出场名单。 2026-11-21 精英页出现 CHIANG DAO 160 2026 的 Women 标题，抓取文本里仍然没有选手姓名。 2026-11-22 精英页仍只有 CHIANG DAO 160 2026 的 Women 标题，抓取文本没有选手姓名。UTMB 11 月新闻的点名未变。 2026-11-23 精英页仍只有 CHIANG DAO 160 2026 的 Women 标题，抓取文本没有选手姓名。"
+    "last_checked": "2026-11-24",
+    "notes": "2026-11-05 官方新闻写这些选手会参加清迈不同距离，但没有逐人标明组别。不是完整名单。 2026-11-12 复核：精英页仍未渲染出姓名，未见更新的新闻稿。 2026-11-16 精英页打开后仍没有渲染出姓名。 2026-11-17 赛页没有选手姓名；/races-runners/runners/elite 返回 404。 2026-11-18 复核没有新的官方点名。 2026-11-19 重读该新闻，点名没有新增。清迈精英页仍没有渲染出本届姓名。 2026-11-20 重读该新闻，点名未变。清迈精英页仍没有本届姓名。科修斯科精英页是申请标准，不是出场名单。 2026-11-21 精英页出现 CHIANG DAO 160 2026 的 Women 标题，抓取文本里仍然没有选手姓名。 2026-11-22 精英页仍只有 CHIANG DAO 160 2026 的 Women 标题，抓取文本没有选手姓名。UTMB 11 月新闻的点名未变。 2026-11-23 精英页仍只有 CHIANG DAO 160 2026 的 Women 标题，抓取文本没有选手姓名。 2026-11-24 赛会 11 月 20 日新闻稿给部分选手写了距离，Canyon Woodward 与 Ida-Sophie Hegemann 已改记到对应组别。精英名单页仍没有渲染出姓名。本条其余人仍只出现在 UTMB 11 月新闻，没有距离。"
+  },
+  {
+    "race_id": "th-chiangmai-2026",
+    "category": "PAGODA 50 Day",
+    "athletes": [
+      {
+        "name": "Huohua Zhang",
+        "nationality": "中国",
+        "notes": "男子。UTMB Index 922。新闻稿称 2022 因他农冠军。"
+      },
+      {
+        "name": "Leonard Albert Mitrica",
+        "nationality": "罗马尼亚",
+        "notes": "男子。UTMB Index 904。"
+      },
+      {
+        "name": "Guomin Deng",
+        "nationality": "中国",
+        "notes": "男子。UTMB Index 894。新闻稿写 Kolon Sport。"
+      },
+      {
+        "name": "Martyna Mlynarczyk",
+        "nationality": "波兰",
+        "notes": "女子。新闻稿写 HOKA，称她是明显热门。没有写 Index。"
+      }
+    ],
+    "source_url": "https://chiangmai.utmb.world/news/Pre-RACE-press-release",
+    "last_checked": "2026-11-24",
+    "notes": "2026-11-20 赛会新闻稿，11 月 28 日 07:00（ICT）因他农。不是完整名单。"
+  },
+  {
+    "race_id": "th-chiangmai-2026",
+    "category": "ELEPHANT 100",
+    "athletes": [
+      {
+        "name": "Peter Fraňo",
+        "nationality": "斯洛伐克",
+        "notes": "男子。UTMB Index 918。新闻稿写 Scarpa，并称首次来清迈。"
+      },
+      {
+        "name": "Canyon Woodward",
+        "nationality": "美国",
+        "notes": "男子。UTMB Index 906。新闻稿称首次来清迈。早前 UTMB 11 月新闻写他是 2026 西部州第八，当时没写距离。"
+      },
+      {
+        "name": "Jiasheng Shen",
+        "nationality": "中国",
+        "notes": "男子。UTMB Index 887。新闻稿写 Salomon，并称首次来清迈。"
+      },
+      {
+        "name": "Lingjie Chi",
+        "nationality": "中国",
+        "notes": "女子。UTMB Index 813。新闻稿称她是全赛事女子最高 Index。"
+      }
+    ],
+    "source_url": "https://chiangmai.utmb.world/news/Pre-RACE-press-release",
+    "last_checked": "2026-11-24",
+    "notes": "2026-11-20 赛会新闻稿，12 月 4 日 08:00（ICT）。新闻稿把前三名种子都写成首次参赛。不是完整名单。"
+  },
+  {
+    "race_id": "th-chiangmai-2026",
+    "category": "CHIANG DAO 160",
+    "athletes": [
+      {
+        "name": "Ji Duo",
+        "nationality": "中国",
+        "notes": "男子。UTMB Index 925。新闻稿写 HOKA，并称为前冠军。"
+      },
+      {
+        "name": "Jiaju Zhao",
+        "nationality": "中国",
+        "notes": "男子。UTMB Index 898。新闻稿称去年亚军。"
+      },
+      {
+        "name": "Aleksei Beresnev",
+        "nationality": "俄罗斯",
+        "notes": "男子。新闻稿称卫冕冠军。没有写 Index。"
+      },
+      {
+        "name": "Gediminas Grinius",
+        "nationality": "立陶宛",
+        "notes": "男子。新闻稿写 47 岁、Team Vibram、连续三届 Amazean Jungle 冠军。没有写 Index。"
+      },
+      {
+        "name": "Antonina Iushina",
+        "nationality": "俄罗斯",
+        "notes": "女子。新闻稿把她与 Lin Chen 的对决写成重逢。没有写 Index。"
+      },
+      {
+        "name": "Lin Chen",
+        "nationality": "中国",
+        "notes": "女子。新闻稿写 adidas。没有写 Index。"
+      },
+      {
+        "name": "Ida-Sophie Hegemann",
+        "nationality": "德国",
+        "notes": "女子。新闻稿写 The North Face，把她放在女子对决里。国籍和 Index 738、楚格峰 100K 冠军来自早前 UTMB 11 月新闻，该稿当时没写距离。"
+      }
+    ],
+    "source_url": "https://chiangmai.utmb.world/news/Pre-RACE-press-release",
+    "last_checked": "2026-11-24",
+    "notes": "2026-11-20 赛会新闻稿，12 月 4 日 10:00（ICT），Wat Tham Chiang Dao。不是完整名单。"
+  },
+  {
+    "race_id": "th-chiangmai-2026",
+    "category": "HMONG 50 Day",
+    "athletes": [
+      {
+        "name": "Guangfu Meng",
+        "nationality": "中国",
+        "notes": "男子。UTMB Index 936。新闻稿写 HOKA、卫冕冠军，并称这是全场最高 Index。"
+      }
+    ],
+    "source_url": "https://chiangmai.utmb.world/news/Pre-RACE-press-release",
+    "last_checked": "2026-11-24",
+    "notes": "2026-11-20 赛会新闻稿，12 月 5 日 06:00（ICT）。只点了这一名男子。不是完整名单。"
   }
 ]

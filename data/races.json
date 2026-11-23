@@ -6500,5 +6500,70 @@
       "https://marathondessables.com/fr/evenement/mds-120-jordanie-2027"
     ],
     "last_checked": "2026-11-20"
+  },
+  {
+    "id": "ca-borealys-tremblant-2027",
+    "name_zh": "博雷阿利斯蒙特朗布朗 by UTMB 2027",
+    "name_en": "Boréalys Mont-Tremblant by UTMB 2027",
+    "country": "加拿大",
+    "region": "魁北克·蒙特朗布朗 Mont-Tremblant",
+    "date_start": "2027-08-12",
+    "date_end": "2027-08-15",
+    "official_url": "https://borealys.utmb.world/",
+    "registration_url": "https://borealys.utmb.world/",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "upcoming_unknown",
+    "transport": "赛程表写 Odyssée、Tremblante 等从 Place des Voyageurs 出发。Chasse-galerie 组别页写起点 Saint-Donat。",
+    "scale_total": null,
+    "categories": [
+      {
+        "name": "Chasse-galerie",
+        "distance_km": null,
+        "elevation_gain_m": null,
+        "cutoff_hours": null,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "组别列表写 2027-08-12、Running Stones 4、起点 Saint-Donat，并标 Opening soon。已读页面没有给出公里和爬升。"
+      },
+      {
+        "name": "Odyssée",
+        "distance_km": 81,
+        "elevation_gain_m": 4020,
+        "cutoff_hours": 18,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "组别页写 2027-08-14、Village Tremblant 05:00 出发、Running Stones 3、关门 18 小时。首页该距离卡片没有标 Opening soon。"
+      },
+      {
+        "name": "Tremblante",
+        "distance_km": 46.4,
+        "elevation_gain_m": 2400,
+        "cutoff_hours": 10,
+        "quota_or_entrants": null,
+        "fee": null,
+        "itra_points": null,
+        "notes": "组别页写 2027-08-15、Village Tremblant 08:00 出发、Running Stones 2、关门 10 小时。赛程表把 Tremblante 写成周日 07:00，与组别页不一致。"
+      }
+    ],
+    "entry_requirements": "2026-11-24 上海时间早晨核对时，魁北克仍是 11 月 23 日傍晚。首页写 Index 优先报名 2026-11-24 09:00（美国东部时间），一般报名 2026-11-26 09:00（美国东部时间），视当时剩余号码布而定。多个距离卡片仍标 Opening soon，因此不把报名标成已经开放。没有公布截止日、总名额和费用。首页还列出 128 公里、26.6 公里、14.5 公里、5.8 公里等卡片，已读文本没有把它们逐一对应到组别名称。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": null,
+    "sources": [
+      "https://borealys.utmb.world/",
+      "https://borealys.utmb.world/races",
+      "https://borealys.utmb.world/runners/schedule",
+      "https://borealys.utmb.world/races/odyssee-100k",
+      "https://borealys.utmb.world/races/tremblante-50k"
+    ],
+    "last_checked": "2026-11-24"
   }
 ]
