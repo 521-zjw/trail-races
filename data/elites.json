@@ -158,5 +158,63 @@
     "source_url": "https://chiangmai.utmb.world/news/Pre-RACE-press-release",
     "last_checked": "2026-11-25",
     "notes": "2026-11-20 赛会新闻稿，12 月 5 日 06:00（ICT）。只点了这一名男子。不是完整名单。 2026-11-25 重读 11 月 20 日新闻稿，已记录的点名没有新增。精英名单页仍只有各组 Men/Women 标题，抓取文本没有选手姓名。"
+  },
+  {
+    "race_id": "au-kosciuszko-2026",
+    "category": "KosciMiler",
+    "athletes": [
+      {
+        "name": "Mike Carroll",
+        "nationality": null,
+        "notes": "男子。报道写他再次佩戴 1 号号码布，领衔男子 100 英里。没有写国籍。"
+      },
+      {
+        "name": "Christopher McAuliffe",
+        "nationality": null,
+        "notes": "男子。报道称他是 Carroll 的主要对手，2025 澳大利亚超级越野 100 英里第三。没有写国籍。"
+      },
+      {
+        "name": "Christie Lori",
+        "nationality": "澳大利亚",
+        "notes": "女子。报道写她从珀斯前来，目标是在去年女子第二的基础上继续。"
+      },
+      {
+        "name": "Emma Timmis",
+        "nationality": "新西兰",
+        "notes": "女子。报道写她来参赛，并称她完成的五场 100 英里里有四场登上领奖台。"
+      }
+    ],
+    "source_url": "https://noosatoday.com.au/sport/24-11-2026/beth-debuts-in-kosci100/",
+    "last_checked": "2026-11-26",
+    "notes": "2026-11-24《Noosa Today》。不是官方出场名单，也不是完整名单。KosciMiler 周五 03:00 从 Jindabyne 出发。"
+  },
+  {
+    "race_id": "au-kosciuszko-2026",
+    "category": "Kosci100",
+    "athletes": [
+      {
+        "name": "Godfrey Slattery",
+        "nationality": "澳大利亚",
+        "notes": "男子。报道写他来自阿德莱德，去年该距离第二。"
+      },
+      {
+        "name": "Beth McKenzie",
+        "nationality": "美国",
+        "notes": "女子。报道写她常驻 Noosa，是女子 100 公里排名最高的选手，首次参加本赛事。"
+      },
+      {
+        "name": "Anna Pillinger",
+        "nationality": "澳大利亚",
+        "notes": "女子。报道称她是 2025 年 Kosci100 领奖台选手，并将与 McKenzie 同场。"
+      },
+      {
+        "name": "Charlotte Lomas",
+        "nationality": "澳大利亚",
+        "notes": "女子。同上，2025 年 Kosci100 领奖台选手。"
+      }
+    ],
+    "source_url": "https://noosatoday.com.au/sport/24-11-2026/beth-debuts-in-kosci100/",
+    "last_checked": "2026-11-26",
+    "notes": "2026-11-24《Noosa Today》。不是官方出场名单。Kosci100 周五 07:30 从 Perisher 出发。"
   }
 ]

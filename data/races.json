@@ -4844,7 +4844,7 @@
     "late_registration": {
       "enabled": true,
       "window": null,
-      "notes": "2026-11-16 报名页仍写号码布交易所于 2026-11-12 15:00 开放，没有写结束日。中签付款写到当天 12:00，又写未在 15:00 前付款则取消。 2026-11-17 报名页仍写号码布交易所于 2026-11-12 15:00 开放，没有写结束日。"
+      "notes": "2026-11-16 报名页仍写号码布交易所于 2026-11-12 15:00 开放，没有写结束日。中签付款写到当天 12:00，又写未在 15:00 前付款则取消。 2026-11-17 报名页仍写号码布交易所于 2026-11-12 15:00 开放，没有写结束日。 2026-11-26 报名页仍写号码布交易所于 2026-11-12 15:00 开放，没有写结束日。"
     },
     "status": "late_open",
     "transport": "Plourhan，位于圣布里厄与潘波勒之间，距 Binic-Étables-sur-Mer 约3公里，往 Lanvollon 方向。",
@@ -4930,7 +4930,7 @@
       "https://www.trail-glazig.com/inscription-2027",
       "https://www.trail-glazig.com/defi-du-goel-42k"
     ],
-    "last_checked": "2026-11-17"
+    "last_checked": "2026-11-26"
   },
   {
     "name_en": null,
@@ -5660,7 +5660,7 @@
     "late_registration": {
       "enabled": true,
       "window": null,
-      "notes": "2026-11-16 三组仍标 Full。官网仍写有名额时按顺序通知，候补表仍为 https://forms.gle/miFW6f8qwpLujyBP6 。没有写候补截止日。 2026-11-17 三组 raceStatus 仍为 registration_sold_out。候补说明仍在，链接仍为 https://forms.gle/miFW6f8qwpLujyBP6 ，没有写候补截止日。"
+      "notes": "2026-11-16 三组仍标 Full。官网仍写有名额时按顺序通知，候补表仍为 https://forms.gle/miFW6f8qwpLujyBP6 。没有写候补截止日。 2026-11-17 三组 raceStatus 仍为 registration_sold_out。候补说明仍在，链接仍为 https://forms.gle/miFW6f8qwpLujyBP6 ，没有写候补截止日。 2026-11-26 首页仍写有名额时按顺序通知，并请用页面上的链接登记候补。没有写候补截止日。"
     },
     "status": "late_open",
     "transport": "介绍写从广岛市中心出发并沿和平线返回 Hiroshima Gate Park。未写接驳。",
@@ -5672,7 +5672,7 @@
     "sources": [
       "https://hiroshima.utmb.world/"
     ],
-    "last_checked": "2026-11-17",
+    "last_checked": "2026-11-26",
     "id": "jp-hiroshima-2027",
     "name_zh": "广岛超级越野 by UTMB 2027",
     "country": "日本",
@@ -5936,7 +5936,7 @@
   {
     "name_en": null,
     "registration_open": null,
-    "registration_close": "2026-11-25",
+    "registration_close": "2026-12-05",
     "late_registration": {
       "enabled": false,
       "window": null,
@@ -5945,14 +5945,14 @@
     "status": "open",
     "transport": "祥谦·五虎山国家森林公园东入口。",
     "scale_total": 3000,
-    "entry_requirements": "先报先得，额满即止。2026-11-16 报名页为 OPEN，Registration Deadline 为 2026-11-25 18:00。各组按钮价格与 2026-11-15 相同。 2026-11-17 报名页仍为 OPEN，Registration Deadline 仍为 2026-11-25 18:00。各组按钮价格未变。",
+    "entry_requirements": "先报先得，额满即止。2026-11-16 报名页为 OPEN，Registration Deadline 为 2026-11-25 18:00。各组按钮价格与 2026-11-15 相同。 2026-11-17 报名页仍为 OPEN，Registration Deadline 仍为 2026-11-25 18:00。各组按钮价格未变。 2026-11-26 报名页仍为 OPEN。Registration Deadline 已改为 2026-12-05 18:00，不再是 2026-11-25 18:00，因此不归档。按钮价未变：55 公里 498 元、35 公里 338 元、25 公里 288 元、15 公里 208 元（亲子 416 元）、5 公里 88 元（亲子 176 元）。",
     "mandatory_gear": null,
     "sponsors": null,
     "organizer": null,
     "sources": [
       "https://reg.zuicool.com/en/86465"
     ],
-    "last_checked": "2026-11-17",
+    "last_checked": "2026-11-26",
     "id": "cn-wuhushan-2026",
     "name_zh": "2026年福建闽侯第十二届五虎山越野赛",
     "country": "中国",
@@ -6619,7 +6619,7 @@
       "https://borealys.utmb.world/races/relais-80k",
       "https://in.register-utmb.world/borealys-mont-tremblant-by-utmb-20271793295721464"
     ],
-    "last_checked": "2026-11-25"
+    "last_checked": "2026-11-26"
   },
   {
     "id": "at-piut-2027",
