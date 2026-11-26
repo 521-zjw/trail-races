@@ -156,13 +156,13 @@
     },
     "transport": "滇红源广场。",
     "scale_total": null,
-    "entry_requirements": "2026-11-23 报名页标题为报名中，截止时间写 2026-11-29 23:59:59。赛事简介仍写 2026-10-12 10:00 至 11-22 日开放报名，与报名页截止日不一致，以报名页为准，因此不按 11-22 日归档。额满即止。10 月 31 日前为早鸟，该窗口已过；页面没有写出早鸟金额，按钮是当前价。 2026-11-25 报名页标题仍为报名中，截止时间仍为 2026-11-29 23:59:59。各组按钮价未变：70 公里单人 799 元、双人 1598 元，50 公里 599 元，35 公里 399 元，15 公里 220 元，6 公里个人 60 元、亲子 120 元。简介段仍写报名到 11 月 22 日，与报名页截止日不一致，仍以报名页为准。",
+    "entry_requirements": "2026-11-23 报名页标题为报名中，截止时间写 2026-11-29 23:59:59。赛事简介仍写 2026-10-12 10:00 至 11-22 日开放报名，与报名页截止日不一致，以报名页为准，因此不按 11-22 日归档。额满即止。10 月 31 日前为早鸟，该窗口已过；页面没有写出早鸟金额，按钮是当前价。 2026-11-25 报名页标题仍为报名中，截止时间仍为 2026-11-29 23:59:59。各组按钮价未变：70 公里单人 799 元、双人 1598 元，50 公里 599 元，35 公里 399 元，15 公里 220 元，6 公里个人 60 元、亲子 120 元。简介段仍写报名到 11 月 22 日，与报名页截止日不一致，仍以报名页为准。 2026-11-27 报名页仍为报名中，截止仍是 2026-11-29 23:59:59，按钮价未变。",
     "mandatory_gear": null,
     "sponsors": [
       "七彩云南户外运动挑战赛"
     ],
     "organizer": null,
-    "last_checked": "2026-11-25",
+    "last_checked": "2026-11-27",
     "id": "cn-fengqing-2026",
     "name_zh": "2026云南凤庆滇红越野赛",
     "country": "中国",
@@ -449,11 +449,11 @@
     },
     "transport": "终点及短距离起终点：勐巴拉国际旅游度假区。茶马100KM起点为格朗和。",
     "scale_total": 3000,
-    "entry_requirements": "2026-11-21 报名页标题为 OPEN。Registration Deadline 为 2026-12-01 23:59:59，因此不按原先记录的 2026-11-20 归档。2026-10-13 12:00 开启，额满即止。10 月 20 日前为早鸟，该窗口已过；页面没有写出早鸟金额。按钮显示的是当前价。页首写规模 3000 人，后文规程另写 2000 人；各组名额相加为 3000，规模字段仍用 3000。 2026-11-25 报名页标题仍为 OPEN，Registration Deadline 仍为 2026-12-01 23:59:59。按钮价未变：100 公里 1288 元、60 公里 888 元、30 公里 588 元、18 公里 318 元、6 公里 198 元。页首规模仍写 3000 人，规程段仍写 2000 人。",
+    "entry_requirements": "2026-11-21 报名页标题为 OPEN。Registration Deadline 为 2026-12-01 23:59:59，因此不按原先记录的 2026-11-20 归档。2026-10-13 12:00 开启，额满即止。10 月 20 日前为早鸟，该窗口已过；页面没有写出早鸟金额。按钮显示的是当前价。页首写规模 3000 人，后文规程另写 2000 人；各组名额相加为 3000，规模字段仍用 3000。 2026-11-25 报名页标题仍为 OPEN，Registration Deadline 仍为 2026-12-01 23:59:59。按钮价未变：100 公里 1288 元、60 公里 888 元、30 公里 588 元、18 公里 318 元、6 公里 198 元。页首规模仍写 3000 人，规程段仍写 2000 人。 2026-11-27 英文报名页标题仍为 OPEN，截止仍是 2026-12-01 23:59:59。最酷目录卡片写“补录开启”，报名页本身没有改成补录。",
     "mandatory_gear": null,
     "sponsors": null,
     "organizer": null,
-    "last_checked": "2026-11-25",
+    "last_checked": "2026-11-27",
     "id": "cn-menghai-2027",
     "name_zh": "2027西双版纳勐海越野赛",
     "country": "中国",
@@ -4844,7 +4844,7 @@
     "late_registration": {
       "enabled": true,
       "window": null,
-      "notes": "2026-11-16 报名页仍写号码布交易所于 2026-11-12 15:00 开放，没有写结束日。中签付款写到当天 12:00，又写未在 15:00 前付款则取消。 2026-11-17 报名页仍写号码布交易所于 2026-11-12 15:00 开放，没有写结束日。 2026-11-26 报名页仍写号码布交易所于 2026-11-12 15:00 开放，没有写结束日。"
+      "notes": "2026-11-16 报名页仍写号码布交易所于 2026-11-12 15:00 开放，没有写结束日。中签付款写到当天 12:00，又写未在 15:00 前付款则取消。 2026-11-17 报名页仍写号码布交易所于 2026-11-12 15:00 开放，没有写结束日。 2026-11-26 报名页仍写号码布交易所于 2026-11-12 15:00 开放，没有写结束日。 2026-11-27 报名页仍写号码布交易所于 2026-11-12 15:00 开放，没有写结束日。"
     },
     "status": "late_open",
     "transport": "Plourhan，位于圣布里厄与潘波勒之间，距 Binic-Étables-sur-Mer 约3公里，往 Lanvollon 方向。",
@@ -4930,7 +4930,7 @@
       "https://www.trail-glazig.com/inscription-2027",
       "https://www.trail-glazig.com/defi-du-goel-42k"
     ],
-    "last_checked": "2026-11-26"
+    "last_checked": "2026-11-27"
   },
   {
     "name_en": null,
@@ -5660,7 +5660,7 @@
     "late_registration": {
       "enabled": true,
       "window": null,
-      "notes": "2026-11-16 三组仍标 Full。官网仍写有名额时按顺序通知，候补表仍为 https://forms.gle/miFW6f8qwpLujyBP6 。没有写候补截止日。 2026-11-17 三组 raceStatus 仍为 registration_sold_out。候补说明仍在，链接仍为 https://forms.gle/miFW6f8qwpLujyBP6 ，没有写候补截止日。 2026-11-26 首页仍写有名额时按顺序通知，并请用页面上的链接登记候补。没有写候补截止日。"
+      "notes": "2026-11-16 三组仍标 Full。官网仍写有名额时按顺序通知，候补表仍为 https://forms.gle/miFW6f8qwpLujyBP6 。没有写候补截止日。 2026-11-17 三组 raceStatus 仍为 registration_sold_out。候补说明仍在，链接仍为 https://forms.gle/miFW6f8qwpLujyBP6 ，没有写候补截止日。 2026-11-26 首页仍写有名额时按顺序通知，并请用页面上的链接登记候补。没有写候补截止日。 2026-11-27 首页仍写有名额时按顺序通知，并请用页面上的链接登记候补。没有写候补截止日。"
     },
     "status": "late_open",
     "transport": "介绍写从广岛市中心出发并沿和平线返回 Hiroshima Gate Park。未写接驳。",
@@ -5672,7 +5672,7 @@
     "sources": [
       "https://hiroshima.utmb.world/"
     ],
-    "last_checked": "2026-11-26",
+    "last_checked": "2026-11-27",
     "id": "jp-hiroshima-2027",
     "name_zh": "广岛超级越野 by UTMB 2027",
     "country": "日本",
@@ -5945,14 +5945,14 @@
     "status": "open",
     "transport": "祥谦·五虎山国家森林公园东入口。",
     "scale_total": 3000,
-    "entry_requirements": "先报先得，额满即止。2026-11-16 报名页为 OPEN，Registration Deadline 为 2026-11-25 18:00。各组按钮价格与 2026-11-15 相同。 2026-11-17 报名页仍为 OPEN，Registration Deadline 仍为 2026-11-25 18:00。各组按钮价格未变。 2026-11-26 报名页仍为 OPEN。Registration Deadline 已改为 2026-12-05 18:00，不再是 2026-11-25 18:00，因此不归档。按钮价未变：55 公里 498 元、35 公里 338 元、25 公里 288 元、15 公里 208 元（亲子 416 元）、5 公里 88 元（亲子 176 元）。",
+    "entry_requirements": "先报先得，额满即止。2026-11-16 报名页为 OPEN，Registration Deadline 为 2026-11-25 18:00。各组按钮价格与 2026-11-15 相同。 2026-11-17 报名页仍为 OPEN，Registration Deadline 仍为 2026-11-25 18:00。各组按钮价格未变。 2026-11-26 报名页仍为 OPEN。Registration Deadline 已改为 2026-12-05 18:00，不再是 2026-11-25 18:00，因此不归档。按钮价未变：55 公里 498 元、35 公里 338 元、25 公里 288 元、15 公里 208 元（亲子 416 元）、5 公里 88 元（亲子 176 元）。 2026-11-27 报名页仍为 OPEN，截止仍是 2026-12-05 18:00，按钮价未变。",
     "mandatory_gear": null,
     "sponsors": null,
     "organizer": null,
     "sources": [
       "https://reg.zuicool.com/en/86465"
     ],
-    "last_checked": "2026-11-26",
+    "last_checked": "2026-11-27",
     "id": "cn-wuhushan-2026",
     "name_zh": "2026年福建闽侯第十二届五虎山越野赛",
     "country": "中国",
@@ -6597,7 +6597,7 @@
         "notes": "2027-08-14。组别页 Village Tremblant 05:40，关门写 18 Hours 05 Minutes。赛程表写 Place des Voyageurs 05:40。接力。最低 16 岁。"
       }
     ],
-    "entry_requirements": "2026-11-25 上海时间早晨核对时，美国东部仍是 11 月 24 日下午，已经过了 09:00。首页七个距离卡片的 raceStatus 都是 registration_open，报名按钮指向同一报名站。报名页写：持有有效 UTMB Index 的优先报名于 2026-11-24 09:00（美国东部时间）开放，到 2026-11-26 09:00 结束；一般报名 2026-11-26 09:00 才对所有人开放，且视当时剩余号码布而定。因此这次只把优先报名记成已经开放，不把一般报名记成已经开放。没有预报名，没有抽签，没有候补，售罄即止，只收信用卡。没有公布总名额和截止日。年龄按比赛当天：Chasse-galerie、Odyssée、Tremblante 至少 18 岁；Diable、Chutes-Croches、接力至少 16 岁；P'tite 5K 至少 13 岁。报名费表另有 Marmaille 儿童组 15 加元、最高 12 岁，赛程表写周六和周日 11:00 在 Place Saint-Bernard，已读页面没有公里数，所以不单列组别。费用为区间或上表标价，另加不可退的 8% 手续费，税费已含在标价里。报名包含号码布、补给、医疗、参赛礼和赛后服务；存包运送只含 Chasse-galerie、Odyssée 和 Tremblante。号码布不能转给别人，也不能延到以后的届次。Odyssée 慈善号码布页写最低捐赠 250 美元、截止日印成 July 24, 2026 或 100 个售罄；Chasse-galerie 页写最低捐赠 250 美元、截止日 July 24, 2027 或 100 个售罄。正赛报名已经打开，所以不另标补录。",
+    "entry_requirements": "2026-11-25 上海时间早晨核对时，美国东部仍是 11 月 24 日下午，已经过了 09:00。首页七个距离卡片的 raceStatus 都是 registration_open，报名按钮指向同一报名站。报名页写：持有有效 UTMB Index 的优先报名于 2026-11-24 09:00（美国东部时间）开放，到 2026-11-26 09:00 结束；一般报名 2026-11-26 09:00 才对所有人开放，且视当时剩余号码布而定。因此这次只把优先报名记成已经开放，不把一般报名记成已经开放。没有预报名，没有抽签，没有候补，售罄即止，只收信用卡。没有公布总名额和截止日。年龄按比赛当天：Chasse-galerie、Odyssée、Tremblante 至少 18 岁；Diable、Chutes-Croches、接力至少 16 岁；P'tite 5K 至少 13 岁。报名费表另有 Marmaille 儿童组 15 加元、最高 12 岁，赛程表写周六和周日 11:00 在 Place Saint-Bernard，已读页面没有公里数，所以不单列组别。费用为区间或上表标价，另加不可退的 8% 手续费，税费已含在标价里。报名包含号码布、补给、医疗、参赛礼和赛后服务；存包运送只含 Chasse-galerie、Odyssée 和 Tremblante。号码布不能转给别人，也不能延到以后的届次。Odyssée 慈善号码布页写最低捐赠 250 美元、截止日印成 July 24, 2026 或 100 个售罄；Chasse-galerie 页写最低捐赠 250 美元、截止日 July 24, 2027 或 100 个售罄。正赛报名已经打开，所以不另标补录。 2026-11-27 上海时间早晨核对：报名页仍写一般报名从 2026-11-26 09:00（美国东部时间）起对所有人开放，该时刻已经过去。首页多个距离卡片现为 Registrations open。因此一般报名按已开放记录。没有候补，售罄即止，仍没有总名额和截止日。费用区间未变。",
     "mandatory_gear": "2026-11-25 装备页三张图，列的是 100M、100K、50K、20K。图中 20K 没有分开 Diable 与 Chutes-Croches，也没有 P'tite 5K 和接力。勾为强制，写 RECOMMENDED 的不记成强制。全程强制：装强制装备的背包或背心（20K 可为腰带）；可重复密封的水具，塑料袋不算，100M/100K/50K 至少 1 升、20K 至少 0.5 升；食物按个人计划携带（热量只标成推荐：100M/100K/50K 800 kcal，20K 400 kcal，示例 800 kcal 为 2 支凝胶加 2 条各 65 克能量棒）；带 LiveTrail 的智能手机，赛前、赛中、赛后都要能联系到，强烈建议外接电池，并要能在加拿大使用、装好并打开 LiveTrail、开机且关闭飞行模式；个人可折叠软杯至少 150 毫升，不接受带盖的瓶子、软瓶或 flask；哨子；身份证件。急救毯最小 1.40 米×2 米、带耐久防泼水的风衣：100M/100K/50K 强制，20K 为推荐。自粘弹性绷带最小 100 厘米×6 厘米：100M/100K 强制，50K 与 20K 为推荐。头灯须能用并带备用电池或可充电电池，建议 200 流明以上，手机和手表不能代替：只对 100M 和 100K 强制。仅推荐、不是强制：已下载 GPX 的 GPS 表、至少 20$（图中未写币种）、刀或剪、补给站用的可重复使用容器（图题为 Reusable Bol）、凡士林或防磨膏和驱虫剂。热天图：防晒霜须为原装、至少 15 毫升，建议 SPF 50，100M/100K/50K 强制、20K 推荐；水具最低量改为 100M/100K/50K 2 升、20K 1 升；太阳镜和可装冰的冷却头巾为推荐。恶劣天气图：带帽、防水且透气的冲锋衣，建议至少 10,000 Schmerber、RET 低于 13，帽子须原厂一体或原厂连接，缝线须压胶，四组都强制，检查时以裁判判断为准；须完全盖住腿的长裤或紧身裤，四组强制，紧身裤加完全盖住腿的袜子可以代替；结实包头的越野鞋，不允许极简或超轻鞋，四组强制；不含棉、M 码至少 180 克的长袖中层：100M/100K 强制，50K 推荐，20K 图上没有；帽子或颈套、保暖防水手套：100M/100K 强制，50K 推荐；防水套裤：100M 强制，100K 推荐；登山杖只是推荐（100M/100K/50K），如果使用必须全程自己带着，不能交给后援或放进存包。文字说明还要求装备放进领物时会贴标的包，全程不能更换，随时可能检查。只用耳机听音乐可以，但过马路、接近和通过检查点、接近和超越安全人员时必须摘下。",
     "sponsors": [
       "Événements Harricana",
@@ -6619,7 +6619,7 @@
       "https://borealys.utmb.world/races/relais-80k",
       "https://in.register-utmb.world/borealys-mont-tremblant-by-utmb-20271793295721464"
     ],
-    "last_checked": "2026-11-26"
+    "last_checked": "2026-11-27"
   },
   {
     "id": "at-piut-2027",
@@ -6703,7 +6703,7 @@
         "notes": "2027-07-10，起点 Galtür。组别卡片为 10 公里、94 米，没有 Running Stones。新闻写成 10 公里、100 米，爬升字段采用组别卡片。"
       }
     ],
-    "entry_requirements": "2026-11-24 的 UTMB 官方新闻写，2027 届报名将于 2026-12-01 开放，持有有效 UTMB Index 的选手获得优先。新闻没有另写一般报名的日期。2026-11-25 官网各组卡片仍是 Opening soon，因此不标成已经开放。没有公布费用、总名额和截止日。新闻还提到儿童组和每公里向当地机构捐 2 欧元的慈善距离，已读卡片没有把它们的公里和费用写全，所以不单列。",
+    "entry_requirements": "2026-11-24 的 UTMB 官方新闻写，2027 届报名将于 2026-12-01 开放，持有有效 UTMB Index 的选手获得优先。新闻没有另写一般报名的日期。2026-11-25 官网各组卡片仍是 Opening soon，因此不标成已经开放。没有公布费用、总名额和截止日。新闻还提到儿童组和每公里向当地机构捐 2 欧元的慈善距离，已读卡片没有把它们的公里和费用写全，所以不单列。 2026-11-27 首页卡片仍为 Opening soon，没有提前开放。",
     "mandatory_gear": null,
     "sponsors": null,
     "organizer": null,
@@ -6711,7 +6711,7 @@
       "https://piut.utmb.world/",
       "https://utmb.world/news/new-event-PIUT"
     ],
-    "last_checked": "2026-11-25"
+    "last_checked": "2026-11-27"
   },
   {
     "id": "at-stubai-2027",
@@ -6785,7 +6785,7 @@
         "notes": "2027-07-02，起点 Neustift im Stubaital。Running Stones 1。"
       }
     ],
-    "entry_requirements": "2026-11-05 的 UTMB 官方新闻写报名将于 2026-12-03 开放，没有分开写 Index 优先和一般报名。2026-11-25 官网各组卡片仍是 Opening soon，因此不标成已经开放。没有公布费用、总名额和截止日。儿童组卡片没有公里数，不单列。",
+    "entry_requirements": "2026-11-05 的 UTMB 官方新闻写报名将于 2026-12-03 开放，没有分开写 Index 优先和一般报名。2026-11-25 官网各组卡片仍是 Opening soon，因此不标成已经开放。没有公布费用、总名额和截止日。儿童组卡片没有公里数，不单列。 2026-11-27 首页卡片仍为 Opening soon，没有提前开放。",
     "mandatory_gear": null,
     "sponsors": null,
     "organizer": null,
@@ -6793,7 +6793,7 @@
       "https://stubai.utmb.world/",
       "https://utmb.world/news/new-event-stubai"
     ],
-    "last_checked": "2026-11-25"
+    "last_checked": "2026-11-27"
   },
   {
     "id": "jp-kagaspa-2027",
@@ -6954,7 +6954,7 @@
         "notes": "2027-04-18，起点 J.LALLI VALLEY。"
       }
     ],
-    "entry_requirements": "2026-11-25 首页六组卡片都是 Registrations open。报名概览确认比赛日为 2027-04-16 至 04-18，组别为 DMG 100K、CMG 65K、MMG 50K、NMG35K、EMG 20K、10K，并给出中国选手和国际选手两个报名入口。概览没有写出报名开放日、截止日、名额和费用，所以开放日和费用留空，状态按卡片上的 Registrations open 记录。中国选手入口在概览里指向 lungking，国际选手入口指向 UTMB 报名站；这两个报名站本次没有打开，费用不从那里补。",
+    "entry_requirements": "2026-11-25 首页六组卡片都是 Registrations open。报名概览确认比赛日为 2027-04-16 至 04-18，组别为 DMG 100K、CMG 65K、MMG 50K、NMG35K、EMG 20K、10K，并给出中国选手和国际选手两个报名入口。概览没有写出报名开放日、截止日、名额和费用，所以开放日和费用留空，状态按卡片上的 Registrations open 记录。中国选手入口在概览里指向 lungking，国际选手入口指向 UTMB 报名站；这两个报名站本次没有打开，费用不从那里补。 2026-11-27 报名概览仍没有开放日、截止日、名额和费用。",
     "mandatory_gear": null,
     "sponsors": null,
     "organizer": null,
@@ -6962,6 +6962,138 @@
       "https://mogan.utmb.world/",
       "https://mogan.utmb.world/registrations"
     ],
-    "last_checked": "2026-11-25"
+    "last_checked": "2026-11-27"
+  },
+  {
+    "name_en": null,
+    "registration_open": null,
+    "registration_close": "2026-11-27",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "open",
+    "transport": "羚羊峡森林公园南门。",
+    "scale_total": null,
+    "entry_requirements": "先报先得，额满即止。报名截止 2026-11-20 23:59。11月10日 18:00 前为早鸟，该窗口已过。 2026-11-21 报名页标题为 CLOSED。 2026-11-27 中文报名页标题为报名中，截止时间 2026-11-27 23:59:59，因此从档案放回报名板。2026-11-21 英文报名页曾为 CLOSED。按钮价仍是 100 公里 1298 元（双人 2188）、50 公里 698 元（双人 1188）、30 公里 498 元、12 公里 299 元。早鸟写到 2026-11-10 18:00，已经结束。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "户外特工",
+    "sources": [
+      "https://reg.zuicool.com/en/71944",
+      "https://reg.zuicool.com/71944"
+    ],
+    "last_checked": "2026-11-27",
+    "id": "cn-dinghu-100-2026",
+    "name_zh": "户外特工·2026肇庆鼎湖山100越野赛暨山顶见全国总决赛",
+    "country": "中国",
+    "region": "广东·肇庆·羚羊峡",
+    "date_start": "2026-12-05",
+    "date_end": "2026-12-06",
+    "official_url": "https://reg.zuicool.com/en/71944",
+    "registration_url": "https://reg.zuicool.com/71944",
+    "categories": [
+      {
+        "name": "100公里",
+        "distance_km": 98.3,
+        "elevation_gain_m": 4916,
+        "cutoff_hours": 30,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 1298,
+          "currency": "CNY",
+          "notes": "双人同行按钮 2188 元"
+        },
+        "itra_points": "4分",
+        "notes": "累计下降 4916 米。12月5日 7:00 至 12月6日 13:00"
+      },
+      {
+        "name": "50公里",
+        "distance_km": 47.8,
+        "elevation_gain_m": 2613,
+        "cutoff_hours": 15,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 698,
+          "currency": "CNY",
+          "notes": "双人同行按钮 1188 元"
+        },
+        "itra_points": "2分",
+        "notes": "累计下降 2613 米。12月5日 7:00–22:00"
+      },
+      {
+        "name": "30公里",
+        "distance_km": 31.5,
+        "elevation_gain_m": 1734,
+        "cutoff_hours": 9,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 498,
+          "currency": "CNY"
+        },
+        "itra_points": "1分",
+        "notes": "累计下降 1734 米。12月5日 8:00–17:00"
+      },
+      {
+        "name": "12公里",
+        "distance_km": 12.1,
+        "elevation_gain_m": 763,
+        "cutoff_hours": 4,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 299,
+          "currency": "CNY"
+        },
+        "itra_points": null,
+        "notes": "累计下降 763 米。12月5日 8:00–12:00"
+      }
+    ]
+  },
+  {
+    "id": "cn-fuga-wuyi-yuyuan-2026",
+    "name_zh": "2026 FUGA训练赛·武义俞源太极站",
+    "name_en": null,
+    "country": "中国",
+    "region": "浙江·金华·武义·俞源",
+    "date_start": "2026-12-27",
+    "date_end": "2026-12-27",
+    "official_url": "https://zuicool.com/event/63524",
+    "registration_url": "https://reg.zuicool.com/23528",
+    "registration_open": null,
+    "registration_close": null,
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "upcoming_unknown",
+    "transport": "俞源太极星象村古树林广场。页面未写接驳。",
+    "scale_total": null,
+    "categories": [
+      {
+        "name": "23km越野组",
+        "distance_km": 23,
+        "elevation_gain_m": 1200,
+        "cutoff_hours": 6,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 258,
+          "currency": "CNY",
+          "notes": "12月5日前早鸟。之后 298 元。报名页在本次抓取时仍是尚未开始。"
+        },
+        "itra_points": "拟1分",
+        "notes": "2026-12-27 8:30 出发。没有写名额。"
+      }
+    ],
+    "entry_requirements": "2026-11-27 上海时间早晨报名页标题为尚未开始，报名开始时间写 2026-11-27 10:00。此时还没到 10:00，所以不标成已经开放，也不把开放日记进 registration_open，避免按整天被算成已开放。先到先得，额满即止。没有写出报名截止日和名额。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "良渚越野队",
+    "sources": [
+      "https://reg.zuicool.com/23528",
+      "https://zuicool.com/event/63524"
+    ],
+    "last_checked": "2026-11-27"
   }
 ]
