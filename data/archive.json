@@ -2149,5 +2149,164 @@
     "sources": [
       "https://zuicool.com/event/62536"
     ]
+  },
+  {
+    "name_en": null,
+    "registration_open": null,
+    "registration_close": "2026-11-27",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "transport": "母亲缘广场。",
+    "scale_total": null,
+    "entry_requirements": "先报先得，额满即止。 2026-11-28 赛事页各组按钮均为已截止，没有补录入口。按钮价：55 公里 458 元，35 公里 328 元，8 公里 158 元，8 公里亲子 316 元。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": null,
+    "last_checked": "2026-11-28",
+    "id": "cn-changting-2026",
+    "name_zh": "2026长汀千年古城越野赛",
+    "country": "中国",
+    "region": "福建·龙岩·长汀",
+    "date_start": "2026-12-27",
+    "date_end": "2026-12-27",
+    "official_url": "https://zuicool.com/event/73329",
+    "registration_url": "https://zuicool.com/event/73329",
+    "status": "closed",
+    "categories": [
+      {
+        "name": "55公里",
+        "distance_km": 55,
+        "elevation_gain_m": 2019,
+        "cutoff_hours": 14,
+        "quota_or_entrants": "300人",
+        "fee": {
+          "amount": 458,
+          "currency": "CNY",
+          "notes": "2026-11-28 按钮价，报名已截止。"
+        },
+        "itra_points": "拟3分",
+        "notes": "起点海拔306米，最高1174米。页面未给实测距离。6:30出发"
+      },
+      {
+        "name": "35公里",
+        "distance_km": 35,
+        "elevation_gain_m": 1018,
+        "cutoff_hours": 8,
+        "quota_or_entrants": "400人",
+        "fee": {
+          "amount": 328,
+          "currency": "CNY",
+          "notes": "2026-11-28 按钮价，报名已截止。"
+        },
+        "itra_points": "拟1分",
+        "notes": "最高661米"
+      },
+      {
+        "name": "8公里",
+        "distance_km": 8,
+        "elevation_gain_m": 156,
+        "cutoff_hours": 3,
+        "quota_or_entrants": "300人",
+        "fee": {
+          "amount": 158,
+          "currency": "CNY",
+          "notes": "独立组按钮价。亲子（1大1小）按钮 316 元。报名已截止。"
+        },
+        "itra_points": null,
+        "notes": "含亲子。独立报名17–63周岁；亲子儿童6–16周岁须家长陪同"
+      }
+    ],
+    "sources": [
+      "https://zuicool.com/event/73329"
+    ]
+  },
+  {
+    "name_en": null,
+    "registration_open": null,
+    "registration_close": "2026-11-27",
+    "late_registration": {
+      "enabled": false,
+      "window": null,
+      "notes": null
+    },
+    "status": "closed",
+    "transport": "羚羊峡森林公园南门。",
+    "scale_total": null,
+    "entry_requirements": "先报先得，额满即止。报名截止 2026-11-20 23:59。11月10日 18:00 前为早鸟，该窗口已过。 2026-11-21 报名页标题为 CLOSED。 2026-11-27 中文报名页标题为报名中，截止时间 2026-11-27 23:59:59，因此从档案放回报名板。2026-11-21 英文报名页曾为 CLOSED。按钮价仍是 100 公里 1298 元（双人 2188）、50 公里 698 元（双人 1188）、30 公里 498 元、12 公里 299 元。早鸟写到 2026-11-10 18:00，已经结束。 2026-11-28 中文报名页标题为已关闭，页面没有补录或候补入口。截止 2026-11-27 23:59:59 已过，移入档案。",
+    "mandatory_gear": null,
+    "sponsors": null,
+    "organizer": "户外特工",
+    "sources": [
+      "https://reg.zuicool.com/en/71944",
+      "https://reg.zuicool.com/71944"
+    ],
+    "last_checked": "2026-11-28",
+    "id": "cn-dinghu-100-2026",
+    "name_zh": "户外特工·2026肇庆鼎湖山100越野赛暨山顶见全国总决赛",
+    "country": "中国",
+    "region": "广东·肇庆·羚羊峡",
+    "date_start": "2026-12-05",
+    "date_end": "2026-12-06",
+    "official_url": "https://reg.zuicool.com/en/71944",
+    "registration_url": "https://reg.zuicool.com/71944",
+    "categories": [
+      {
+        "name": "100公里",
+        "distance_km": 98.3,
+        "elevation_gain_m": 4916,
+        "cutoff_hours": 30,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 1298,
+          "currency": "CNY",
+          "notes": "双人同行按钮 2188 元"
+        },
+        "itra_points": "4分",
+        "notes": "累计下降 4916 米。12月5日 7:00 至 12月6日 13:00"
+      },
+      {
+        "name": "50公里",
+        "distance_km": 47.8,
+        "elevation_gain_m": 2613,
+        "cutoff_hours": 15,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 698,
+          "currency": "CNY",
+          "notes": "双人同行按钮 1188 元"
+        },
+        "itra_points": "2分",
+        "notes": "累计下降 2613 米。12月5日 7:00–22:00"
+      },
+      {
+        "name": "30公里",
+        "distance_km": 31.5,
+        "elevation_gain_m": 1734,
+        "cutoff_hours": 9,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 498,
+          "currency": "CNY"
+        },
+        "itra_points": "1分",
+        "notes": "累计下降 1734 米。12月5日 8:00–17:00"
+      },
+      {
+        "name": "12公里",
+        "distance_km": 12.1,
+        "elevation_gain_m": 763,
+        "cutoff_hours": 4,
+        "quota_or_entrants": null,
+        "fee": {
+          "amount": 299,
+          "currency": "CNY"
+        },
+        "itra_points": null,
+        "notes": "累计下降 763 米。12月5日 8:00–12:00"
+      }
+    ]
   }
 ]
